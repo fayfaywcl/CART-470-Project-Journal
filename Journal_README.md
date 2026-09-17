@@ -236,6 +236,7 @@ Here are the new order of the questions that I made ( It also include some new q
 After reorganizing the questions, I started working on the visual presentation.
 
 I created a mapping for the user flow and started putting different scenarios, questions, and unresolved decisions onto the map. 
+
 Here is the link: [User Flow Mapping](https://www.figma.com/board/yNiY1W6W2cBil1E87i0YtZ/Untitled?node-id=0-1&p=f&t=754KNJgZEcPLH0Vg-0)
 
 The goal of the map was to show the different questions at different points in the user experience, starting from platform opens and ending when they finish the experience.
