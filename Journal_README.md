@@ -46,7 +46,7 @@ Here are the questions that we think of:
 
 We also went through the internet and did some research. We looked not only at well-developed games, but also at exhibition games and interactive installations. We started putting the links into the Google Doc so that we could keep a record of the examples we found and come back to them later.
 
-We also experienced one of the games ourselves and observed different parts of its display design, gameplay design, and UX design. We also found some interesting things from the experience, here are my note: 
+We also experienced one of the games [Gaming Couch](https://gamingcouch.com/) ourselves and observed different parts of its display design, gameplay design, and UX design. We also found some interesting things from the experience, here are my note: 
 
 - There was still some lag, which may have been because it was website-based and required Wi-Fi.
 - If someone experienced lag, the game could pause, and there was a relatively long pause before someone could press a button to resume it.
@@ -94,18 +94,17 @@ We also listed the platforms, projects, and people that inspired us. We looked a
 
 Some of the resources we found were:
 
-- Ludodrome
-- Ian Cheng — BOB (Bag of Belief)
+- [Ludodrome](https://www.youtube.com/watch?v=482Dh5WfSg0&t=3s)
+- [Ian Cheng — BOB (Bag of Belief)](https://www.youtube.com/watch?v=PdGAG5_VKZA) 
 - Kahoot
 - Jackbox
 - Game Boy Link Cable
-- Scene It / Movie Night
+- Scene It / [Movie Night](https://www.youtube.com/watch?v=UXHr9OpPjWM&t=1)
 - Fallout 4 / Pip-Boy
-- Gaming Couch
-- AirConsole
+- [Gaming Couch](https://gamingcouch.com/)
+- [AirConsole](https://www.airconsole.com/)
 - Just Dance
-- teamLab
-- Sketch Aquarium: Connected World
+- teamLab--[Sketch Aquarium: Connected World](https://www.teamlab.art/ew/aquarium/)
 
 These examples gave us different directions to think about, especially around multiplayer interaction, physical and digital spaces, phone-based controls, and large-scale audience participation.
 
@@ -236,7 +235,8 @@ Here are the new order of the questions that I made ( It also include some new q
 
 After reorganizing the questions, I started working on the visual presentation.
 
-I created a mapping for the user flow and started putting different scenarios, questions, and unresolved decisions onto the map.
+I created a mapping for the user flow and started putting different scenarios, questions, and unresolved decisions onto the map. 
+Here is the link: [User Flow Mapping](https://www.figma.com/board/yNiY1W6W2cBil1E87i0YtZ/Untitled?node-id=0-1&p=f&t=754KNJgZEcPLH0Vg-0)
 
 The goal of the map was to show the different questions at different points in the user experience, starting from platform opens and ending when they finish the experience.
 
@@ -248,7 +248,7 @@ I also think the visual map can improve how we present our concerns. Instead of 
 
 ## TeamLab and Further Inspiration
 
-At the end, I also found some real-world examples from teamLab and looked more closely at how they create interactive experiences for groups of people.
+At the end, I also found some real-world examples from [teamLab](https://www.teamlab.art/ew/aquarium/) and looked more closely at how they create interactive experiences for groups of people.
 
 This gave me another question that connects with some of our previous discussions:
 
