@@ -46,7 +46,7 @@ Here are the questions that we think of:
 
 We also went through the internet and did some research. We looked not only at well-developed games, but also at exhibition games and interactive installations. We started putting the links into the Google Doc so that we could keep a record of the examples we found and come back to them later.
 
-<img src="Media/Gamingcouch_1.png" alt="Gamingcouch_1.png" width="300" height="300">
+<img src="Media/Gamingcouch_1.png" alt="Gamingcouch_1.png" width="500" height="500">
 
 We also experienced one of the games [Gaming Couch](https://gamingcouch.com/) ourselves and observed different parts of its display design, gameplay design, and UX design. We also found some interesting things from the experience, here are my note: 
 
@@ -240,7 +240,7 @@ I created a mapping for the user flow and started putting different scenarios, q
 
 Here is the link: [User Flow Mapping](https://www.figma.com/board/yNiY1W6W2cBil1E87i0YtZ/Untitled?node-id=0-1&p=f&t=754KNJgZEcPLH0Vg-0)
 
-<img src="Media/User Flow Mapping_1.png" alt="MAT-G1.png" width="300" height="300">
+<img src="Media/User Flow Mapping_1.png" alt="MAT-G1.png" width="500" height="500">
 
 The goal of the map was to show the different questions at different points in the user experience, starting from platform opens and ending when they finish the experience.
 
