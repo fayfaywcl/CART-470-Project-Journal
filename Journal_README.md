@@ -254,6 +254,8 @@ I also think the visual map can improve how we present our concerns. Instead of 
 
 At the end, I also found some real-world examples from [teamLab](https://www.teamlab.art/ew/aquarium/) and looked more closely at how they create interactive experiences for groups of people.
 
+<img src="Media/Gamingcouch_1.png" alt="Teamlab_1.png" width="400" height="400">
+
 This gave me another question that connects with some of our previous discussions:
 
 **How would we decide whether the experience should be competitive, or whether everyone participates together to create something that appears on the big screen?**
