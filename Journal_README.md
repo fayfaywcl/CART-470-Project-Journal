@@ -46,7 +46,7 @@ Here are the questions that we think of:
 
 We also went through the internet and did some research. We looked not only at well-developed games, but also at exhibition games and interactive installations. We started putting the links into the Google Doc so that we could keep a record of the examples we found and come back to them later.
 
-<img src="Media/Gamingcouch_1.png" alt="MAT-G1.png" width="300" height="300">
+<img src="Media/Gamingcouch_1.png" alt="Gamingcouch_1.png" width="300" height="300">
 
 We also experienced one of the games [Gaming Couch](https://gamingcouch.com/) ourselves and observed different parts of its display design, gameplay design, and UX design. We also found some interesting things from the experience, here are my note: 
 
@@ -66,27 +66,26 @@ After looking at these examples, we started thinking about different possible ap
 Some of the ideas we listed were:
 
 - Scanning QR codes for players to join the game
-- Entering a code and connecting all players to a server
-- Having controller buttons appear on smartphone screens
-- Using phones like Wii remotes
-- Having live leaderboards
-- Having a clear beginning and end
-- Using motion controls
-- Using a projector
-- Not using phones and instead using the body as the controller
-- Creating a big multiplayer game where more than four players can connect
-- Using Unity
-- Using Unreal Engine
-- Creating a web game
-- Spawning characters when players join
-- Showing player details on their phones
-- Having one big game
-- Having a collection of mini-games
-- Having a homepage for the platform
-- Having menus or no menus
-- Having instructions or letting players experience and discover the instructions
-- Using a name to represent the player
-- Using different character designs to represent each player
+- Entering a code and all players connecting to a server
+- Controller buttons appear on smartphone screens
+- Phones used as Wii remotes
+- Live leaderboards
+- Beginning/End
+- Motion Controls
+- Projector
+- No phone; body as controller body motion)
+- Big Multiplayer game (More than 4 players can connect)
+- Unity game
+- Unreal Engine game
+- Web game
+- Spawn characters
+- Show players' details on phone
+- One big game
+- A Collection of mini-games
+- Have a homepage for the platform
+- Menus / No Menus
+- Have instructions / Experience the instructions
+- Using a name to represent the player / different character design
 
 At this point, we were not trying to decide which one was the final solution. We were mainly trying to understand how many different directions the project could go.
 
