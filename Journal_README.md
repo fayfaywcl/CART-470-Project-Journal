@@ -115,7 +115,7 @@ I also started making the structure for the Living Contract. Since we still need
 
 Instead, I started by creating a structure that could be changed later as we learned more about the project.
 
-## Questions After the Lecture
+### Questions After the Lecture
 
 After the class discussion, we created a separate section in the Google Doc called **“Extra Questions (After the Lecture)”**.
 
@@ -127,7 +127,7 @@ Here are some of the questions that I thought after the class :
 - How would we decide whether people are reacting to something that is already happening on the screen, or actively playing a competitive game together?
 - How would we create an experience where the audience is not only controlling something, but also contributing something to the screen?
 
-## Inspire from Other Groups
+### Inspire from Other Groups
 
 I also reviewed the presentations from the other groups and found that Nat's group did a really good job with their Figma presentation and organization. Their ideas were presented very visually, which made it easier to understand the different parts of their project. I realized that this was something our meetings were missing. We had a lot of questions and ideas written down, but they were mostly in text form, so it could sometimes be difficult to see how everything was connected.
 
@@ -136,7 +136,7 @@ Because of this, I decided that I should also start doing some mapping for our p
 I also got some additional questions and ideas from looking at the other groups' projects and presentations:
 
 - **How would we make our project different from existing installations?**
-    - Are we copying an existing installation too closely?
+    - Are we copying an existing installation?
     - How would we introduce something new that we can try to implement?
     - Are we mainly trying to create a similar base platform and experience, or do we want to develop our own direction from the beginning?
 - **How would we consider accessibility and disability in the interaction?**
@@ -145,7 +145,7 @@ I also got some additional questions and ideas from looking at the other groups'
     - Could the phone make a sound or provide another type of feedback?
     - How would we use these different types of feedback to make the experience more accessible or immersive?
 
-### Re-organizing the Questions
+#### Re-organizing the Questions
 
 I also discussed with some of our teammate in other class and agreed that the questions we had at this point were mainly a collection of ideas, and they needed to be reorganized.
 
@@ -157,11 +157,9 @@ I also wrote down some notes from the class presentation:
 - Use more visuals to present the questions
 - Could list different scenarios and see what could happen in each scenario
 
-Because of this, I started changing the questions into **“How would we…”** questions. I found that this made the questions feel more natural and focused more on the design process instead of simply asking for an answer.
+Because of this, I started changing the questions into **“How would …”** questions. Here are the new order of the questions that I made ( It also include some new question that I thought of :
 
-Here are the new order of the questions that I made ( It also include some new question that I thought of :
-
-##### Project Vision and Purpose
+###### Project Vision and Purpose
 
 - What is the main idea or vision you have for this project?
 - What would you like the audience to experience when they interact with it?
@@ -169,14 +167,14 @@ Here are the new order of the questions that I made ( It also include some new q
 - Is there a specific experience, feeling, or interaction that you want us to achieve?
 - What part of the idea is most important to you?
 
-##### Audience and Exhibition Context
+###### Audience and Exhibition Context
 
 - How many people do you imagine participating at the same time?
 - What would be the minimum and maximum number of players we should design for?
 - Is this mainly intended for the classroom, or should we think about it as something that could work in a larger exhibition space?
 - How much time do you imagine one person or group spending with the experience?
 
-##### Overall Experience and Gameplay
+###### Overall Experience and Gameplay
 
 - How would you imagine the experience starting, from the moment someone approaches it?
 - Do you imagine the experience having a clear beginning and ending, or should it be something that can continue?
@@ -187,7 +185,7 @@ Here are the new order of the questions that I made ( It also include some new q
 - Would you imagine one large game, or a platform that could contain multiple smaller games/experiences?
 - Should players be able to join or leave while the experience is already running?
 
-##### Phone and Player Interaction
+###### Phone and Player Interaction
 
 - Why is the QR code important to the concept?
 - How would you imagine the process working after someone scans the QR code?
@@ -195,7 +193,7 @@ Here are the new order of the questions that I made ( It also include some new q
 - How should each player be represented on the main screen?
 - Would you want the phone to function mainly as a traditional controller, or could it have other interactions?
 
-##### Multiplayer and Social Interaction
+###### Multiplayer and Social Interaction
 
 - How would you like the players to interact with each other?
 - Should there be a party leader/host, or should everyone have an equal role?
@@ -203,20 +201,20 @@ Here are the new order of the questions that I made ( It also include some new q
 - Is there a specific number of players you would like us to target for the prototype?
 - How should the experience respond if one player disconnects or has connection problems?
 
-##### Physical Space and Display
+###### Physical Space and Display
 
 - Is the large screen mainly for displaying the game, or do you imagine the physical space itself being part of the experience?
 - How would you like the audience to interact with the screen?
 - Do you imagine people standing, sitting, moving around, or doing something physical while playing?
 - Are there any limitations on the physical space that we should know about?
 
-##### Technical Direction
+###### Technical Direction
 
 - Do you have any technical requirements or limitations that we should know about?
 - Is there a preferred platform for the project? (Software/ web-based?)
 - Are there any limitations regarding Wi-Fi, internet access, computers, projectors, or other hardware?
 
-##### CART 415 and Project Scope
+###### CART 415 and Project Scope
 
 - How would we understand the main purpose of this project?
 - How would you like us to approach this project as a CART 415 class?
@@ -224,7 +222,7 @@ Here are the new order of the questions that I made ( It also include some new q
 - Would you want future students to be able to build on what we create?
 - What limitations should we keep in mind from the beginning?
 
-##### Open Discussion
+###### Open Discussion
 
 - Is there anything you already have in mind that we haven't asked about?
 - Are there any ideas you definitely want us to explore?
@@ -232,7 +230,7 @@ Here are the new order of the questions that I made ( It also include some new q
 - What would make you feel that we have successfully achieved the goal of this project?
 - Is there anything from our current ideas or questions that you would like us to rethink?
 
-## User Flow and Visual Mapping
+### User Flow and Visual Mapping
 
 After reorganizing the questions, I started working on the visual presentation.
 
@@ -250,7 +248,7 @@ The mapping still needs to be refined and discussed more with the teammates. How
 
 I also think the visual map can improve how we present our concerns. Instead of only showing a long list of questions, we can show **where** each question happens in the experience and how one decision can affect the next part of the flow.
 
-## TeamLab and Further Inspiration
+### TeamLab and Further Inspiration
 
 At the end, I also found some real-world examples from [teamLab](https://www.teamlab.art/ew/aquarium/) and looked more closely at how they create interactive experiences for groups of people.
 
@@ -266,7 +264,7 @@ This also connects to our previous question about whether the game should contin
 
 I think this is something we can discuss not only from the gameplay side, but also from the artistic side. How would we use the artistic direction of the project to decide how people participate, what they see on the screen, and how their actions contribute to the overall experience?
 
-## Next Steps
+### Next Steps
 
 As we discussed the roles before, there are still many questions that need to be confirmed before we can move further.
 
@@ -287,7 +285,7 @@ The biggest things we need to clarify are:
 
 Because there are still many things to confirm, I think the client meeting with Jonathan will be very important for our next step. Once we have a better understanding of the expectations and limitations, we can start narrowing down our ideas and deciding where we can put our own creativity into the project.
 
-## Progress So Far
+### Progress So Far
 
 Overall, I think the progress so far is pretty good.
 
