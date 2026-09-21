@@ -22,8 +22,8 @@ Here are the questions that we think of:
 - How do u want to implement this one
 - How many people are the min/max for this prototype?
 - Asking his Idea/expectation start from ppl scanning the QR code?
-    - Pop- out?
-    - Need username/character design first before pop-in ( green guy is me >?
+    - Pop-out?
+    - Need username/character design first before pop-in ( green guy is me)?
 - What is the QR code used for?
 - What will be the vision for the project (is it mostly physical or digital)
 - Do we invite students to work on it? Or use it as an example framework
