@@ -297,4 +297,351 @@ There are still many things that we need to figure out, especially the client ex
 
 For now, I think it is better that we are keeping the questions open instead of deciding too quickly. Once we understand what all expectations from the project, we can start looking at these different possibilities and figure out how we can make the project more creative and interesting.
  
+## JOURNAL-ENTRY-WK-3 CLIENT INTRODUCTION MEETING (24.9.2026 to 30.1.2026) 
 
+#### Before the Client Meeting
+
+Before we started meeting with the client, we first went over what we did during the previous week. I shared the user-flow map that I made, since I wanted the team to see how I organized the questions and different possibilities visually.
+
+At the same time, Hubert was the first person who put together an improved version of the questions. So instead of completely starting over with each of our own versions, we based our discussion on his questions and added some of the interesting questions that we thought were missing.
+
+I think this was already a good example of how our team is working together. Instead of everyone making a completely separate version, we were able to take one person's work and build on it. We still had different ideas, but we were putting them together rather than making the same work twice.
+
+#### Client Meeting with Jonathan
+
+We then started our client meeting with Jonathan. The meeting went quite smoothly, and we actually did not follow the list of questions that we prepared very strictly.
+
+At first, I thought we would go through the questions one by one. However, as Jonathan explained his perspective and vision for the project, many of our questions were already answered naturally through the conversation. Instead of interrupting the conversation just to ask the next question on our list, we followed the flow of the discussion and asked questions when they became relevant.
+
+I think this was one of the things that we did well during the meeting. We did not just treat the question list like an interview checklist. We listened to what Jonathan was explaining and used our questions to clarify the things that were still unclear.
+
+I think this way is also a good way to reduce misunderstanding between the client and us, but also between our internal team members. If we all hear the same explanation directly from the client, we can have the same understanding of what he means instead of one person explaining it to the rest of the group later.
+
+So, although we prepared a lot of questions, the meeting showed me that preparation is not only about having a long list of questions. It is also about understanding what we need to listen for and being able to adapt when the client gives us information in a different way.
+
+### What Changed After Talking to Jonathan
+
+After the meeting, we realized that there was a bigger difference between what we originally thought the project was and what Jonathan was actually expecting.
+
+Last week, I was thinking more about the project as if we were going to develop a game or platform that could eventually be delivered.
+
+After talking with Jonathan, we now understand that the project is more about **exploring possibilities and reducing risks before CART 415 starts developing the actual game**.
+
+It is more like a preparation, testing, and game-design phase.
+
+Instead of trying to deliver a full game, we are now:
+
+- Explore different ideas
+- Develop different possible directions
+- Identify potential problems
+- Compare the pros and cons of different approaches
+- Create low prototypes
+- Create wireframes
+- Create pre-production concepts
+- Walk through possible game flows
+- Test whether an idea could realistically work
+- Present different options to Jonathan
+- Use his feedback to decide which direction could be developed later
+
+This changed the way I think about our project.
+
+Jonathan does not want us to spend all of the available time making one idea, only to discover in the middle of CART 415 that the idea does not work. He wants us to explore and test the possibilities now, so that the next group can start with a better understanding of what works and what does not.
+
+In this way, our project can help reduce the risk for the future CART 415 students.
+
+### The CART 415 Constraint
+
+One thing that became especially important to me was the timeline for CART 415.
+
+The future students will only have around 10–12 weeks to actually make the game. Because of this, an idea can sound very interesting or creative but still be unrealistic if it is too complicated to implement or too difficult for students to understand and continue from.
+
+Jonathan also mentioned that Emma could be useful in giving us another perspective because she will be taking CART 415 in the coming Winter semester. Since some of us in the current group are close to graduating, we may think about the project differently from someone who will actually be taking the course and developing the game afterward.
+
+Emma can help us think about questions such as:
+
+- Would this idea actually be possible to implement in the course?
+- Would the students have enough time?
+- Would the onboarding be too complicated?
+- Would the students need to learn too many new technologies?
+- Would the idea be too ambitious for a 10–12 week development period?
+- What would a future CART 415 student want or not want to inherit from our project?
+
+I think this is an important limitation to keep in mind when we are generating ideas.
+
+It means that we should not only ask:
+
+> “Is this idea interesting?”
+> 
+
+We should also ask:
+
+> “Could a CART 415 student realistically make this?”
+> 
+
+This gives us another way to evaluate our prototypes and ideas.
+
+#### How My User Flow Map Needs to Change
+
+Because of this new understanding, I also realized that my user-flow map may not be used in exactly the same way as I originally imagined.
+
+Originally, I was thinking about the map as a way to define the user experience, starting from the player entering the platform and going through each step until the end, such as reaching a confirmation.
+
+But now I think the map can be more useful as a way to show **different possibilities**.
+
+For example, instead of saying:
+
+> Player joins → Player chooses character → Player plays → Game ends
+> 
+
+we could show different possible directions at each point:
+
+> Player joins
+> 
+> 
+> → QR code / code / other connection
+> 
+> → individual character / shared character
+> 
+> → competitive / collaborative
+> 
+> → mini-game / one continuous game
+> 
+> → timer / no timer
+> 
+> → ending / infinite experience
+> 
+
+Then we can discuss the different possibilities with Jonathan and compare their pros and cons.
+
+This is more useful for our current project because we are not trying to lock down one final user flow yet. We are trying to explore what could work.
+
+Different game ideas may also benefit from different mechanics or actions in the user flow. So the map can help us see combinations of mechanics and how they could affect the overall experience.
+
+I think the map can therefore become more of an **ideation and comparison tool**, rather than only a final user-flow document.
+
+#### Timeline
+
+During the meeting, we also asked Jonathan about the timeline from his perspective.
+
+Based on the second meeting and the final presentation date , we started to build a rough timeline and time block for the project.
+
+The idea seems to be that we should have several options or ideas developed with low-fidelity prototypes before the second major discussion. After that, we can compare the options and use the feedback to decide which direction makes the most sense to develop further.
+
+This makes the timeline feel more like:
+
+**Explore → Prototype → Compare → Get feedback → Narrow down → Develop further**
+
+rather than:
+
+**Choose one idea → Build the whole game → Deliver**
+
+Now it becomes a much clearer way for me to understand what we are actually supposed to produce.
+
+#### Keeping the Ideas Simple
+
+One thing Jonathan mentioned that stayed in my mind was that **simple is better**.
+
+This is interesting because we have already come up with many ideas that are quite complicated. It is easy for us to think of something that sounds fun, but the challenge is figuring out how to move from the idea to something that can actually work within the timeline.
+
+For example, we discussed using camera capture for motion controls on the big screen. This could be interesting, but it could also create more technical problems and require more time.
+
+We also discussed the possibility of not having too much onboarding information on the big screen because it could become a distraction from the actual experience. Instead, some of the instructions could potentially be on the smaller screen or phone.
+
+So I think the question now is not just:
+
+> “What can we make?”
+> 
+
+but also:
+
+> “What can we realistically make well within the timeline?”
+> 
+
+So, this is something I want to keep in mind when I continue generating ideas.
+
+#### Documentation From the Meeting
+
+During the meeting, each of us took our own notes about our discussion with Jonathan.
+
+We also took pictures of Jonathan's drawings and the games/examples that he described. I think this will be useful because the drawings are another way of documenting the client's thinking. Sometimes it is difficult to fully understand an idea from only written notes, especially when the client is explaining a gameplay concept visually.
+
+Looking back at these drawings also gives us another way to understand Jonathan's vision and can help us generate ideas later. If we only remember the meeting from our own memory, different team members may remember different things. Having the drawings, notes, and discussions documented gives us something that we can come back to.
+
+### Learning Living Contract
+
+For the Learning Living Contract, we also made some edits and started organizing it into a clearer table.
+
+Right now, there are still many possibilities, but after more discussion and prototyping later, we should have a clearer path for what we actually want to focus on. 
+
+##### Learning Beyond Technical Skills
+
+Another thing I reflected on this week came from talking with Sabine about the learning objectives that need to be write in the Contract. 
+
+Because our project is becoming more research- and prototype-based, it can sometimes be difficult to describe what we are learning only through technical skills.
+
+However, I realized that the skills we are learning through the process are also important.
+
+For example:
+
+- Communicating with a client
+- Understanding and responding to client needs
+- Communicating with teammates
+- Documenting decisions
+- Managing project risks
+- Comparing different possibilities
+- Setting a realistic timeline
+- Presenting ideas clearly
+- Understanding limitations
+- Working with feedback
+- Making decisions as a team
+
+Some of these may seem like basic things, such as team communication, but I think they are actually important professional skills.
+
+As in the last year of my program, I have heard people mention many times that real-world work involves constantly communicating with your team, your client, and your manager. It is not only about making something based on what we have in our mind .
+
+For example, how do you pass your work to another person without it being misunderstood?
+
+The same thing applies to our project. If we document our decisions, questions, prototypes, and feedback, another person can understand why we made certain decisions instead of only seeing the final result.
+
+The timeline also works in a similar way. Setting milestones helps move the project continuously instead of having everyone work separately without knowing what needs to happen next.
+
+### Ideas I Started Exploring
+
+After the meeting, I started thinking about some possible prototype ideas.
+
+At this stage, I did not want to limit myself too much. I wanted to list what could be possible first and then think about the pros and cons afterward.
+
+Even if an idea does not work, I think it can still be useful to document it. Like Later, during our next meeting, we can understand why the idea did not work, and sometimes even an unsuccessful idea can also inspire another teammate's idea.
+
+He mentioned that it could be interesting to focus on the **artistic side** of the experience, so I also think about how visual and audio elements could become part of the gameplay.
+
+#### Music / Visual Matching Game Idea
+
+I recently attended a workshop at school about a creative tool called **Ossia**, which is similar to TouchDesigner. It allows you to work with soundtracks, visuals, effects, and video, as well as explore different ways to combine them and create fun interactions between them.
+
+This made me think about a possible game where the player controls something similar to the number up/down game that Jonathan mentioned, where the player clicks the up/down buttons to change a value and let them to reach a target number combination. Instead of simply changing a number, however, the player’s actions could affect or match a video, sound, or visual effect.
+
+The player could interact with the controller and the visual result would change on the big screen.
+
+#### Cutting Vegetables Game Idea
+
+Another idea is a vegetable-cutting game, similar to the *Veggie Slice Frenzy* game, where players slice vegetables as they appear on the screen. When a vegetable is cut, its juice could spread across the screen and create colourful effects, somewhat like *Splatoon*.
+
+ Veggie Slice Frenzy Game: Free Online Untimed Vegetable Slicing Video Game for Kids , 
+ Splatoon Base: Learn about the world of Splatoon | Nintendo
+
+The vegetables or fruits could fall from the top of the screen, and players would interact with them using their phones.
+
+One possibility is that as more people join, the vegetables could fall faster.
+
+**Pros:**
+
+- More players could make the experience more exciting
+- The increasing speed could encourage other people to join
+- The colourful effects could make the game more visually engaging
+
+**Cons:**
+
+- Drag interactions on the phone could create delays or make the interaction feel less responsive
+- More players could make the screen more difficult to follow
+- If the phone display shows the same vegetable positions as the big screen, there could be a problem where two or more players try to cut the same vegetable at the same time. (This could create a conflict in the user flow, so we would need to consider how to assign vegetables to different players or otherwise handle simultaneous interactions.)
+
+#### Maze Game Idea
+
+Another idea is a maze game where the player needs to move a character through the maze and find the way out. One possibility is that the walking speed becomes faster as more players join.
+
+However, one problem is:
+
+> If multiple players are controlling the same character, who controls up, left, right, and down?
+> 
+
+Through this, I also come up another possibility is that each player has their own character and needs to collect items, such as gems, throughout the maze. The maze could also change at certain intervals, such as every 5 , 10 , 15 seconds, by moving or rearranging some of the blocks. 
+
+Pros :
+
+- This could make the game more unpredictable and encourage players to quickly adapt to the changing maze.
+- using the walking speed becomes faster as more players join.
+
+Cons:
+
+- With multiple players on the same maze, the screen could become crowded and difficult to follow.
+
+#### Block-Pushing Game Idea
+
+I also thought more about Jonathan's idea of pushing blocks to move a larger character.
+
+One possible version could be:
+
+- Players move blocks together
+- The blocks are used to move a large character / active an big action ( like let a big ship move
+- The game counts how long it takes to solve the problem
+- Players need to work together to reach the goal
+
+But this immediately creates another question.
+
+**What happens if the block gets stuck in a deadlock?**
+
+For example, if a player pushes a block into the wrong position, or if one player leaves the game, how would the group restart or recover?
+
+We actually discussed the player-leaving problem during the meeting. Alex suggested that a player who leaves could potentially turn into a ghost. This made me think about another possible direction, the ghost game idea.
+
+#### Ghost Game idea
+
+Instead of treating the ghost as only a problem caused by someone leaving, what if ghosts became part of the gameplay?
+
+For example, players could work together to kill or remove ghosts.
+
+A possible scaling system could be:
+
+- 1 player → can remove 1 ghost at a time
+- 2 players → can remove 3 ghosts at a time
+- 3 players → can remove 6 ghosts at a time
+
+The idea would be to make joining the game more useful because having more players changes what the group can do. 
+
+Pros :
+
+- It could also encourage people watching to join because the experience becomes more interesting when more people participate.
+
+For the timing, I was thinking about something like a 5-minute session because Jonathan mentioned that we should avoid losing the player's interest if the experience continues for too long.
+
+Another possibility is making it infinite, where players can continue until they decide to leave. If we use a timed or score-based version, we could potentially also have a leaderboard. 
+
+However, these are still only ideas. I don't think we should decide on one yet.
+
+### More Questions for the Next Stage
+
+After thinking about the mini-game possibilities, I also realized that there are still many questions that we need to explore.
+
+For example, if we make a mini-game:
+
+- How would the game start?
+- Would everyone need to be ready before the game begins?
+- What happens if someone joins after the game has already started?
+- How long should one round last?
+- What happens if someone leaves?
+- How would the game restart?
+- How would we make the experience easy for someone who joins without knowing the rules?
+- How would the game change when more people join?
+
+These questions are different from the questions we asked Jonathan at the beginning.
+
+Before the client meeting, many of our questions were focused on understanding the project. Now that we understand the project better, our questions are becoming more about testing and comparing possible solutions.
+
+I think this is an important change in our process. We can discuss these questions as a group in our next meeting, but we may not need to solve all of them right away. Instead, as we develop more ideas for each of us game concept, we can explore more different situations and possibilities through prototypes and let Jonathan review them and provide feedback.
+
+### Reflection
+
+Overall, I think this week gave me a much clearer understanding of what our project actually is.
+
+There were many changes between what we expected at the beginning and what Jonathan is actually aiming for. Originally, we thought we might be developing and delivering a game or platform ourselves. Now we understand that our work is more like a testing and preparation phase for the future CART 415 students. We are exploring different possibilities, identifying potential problems, creating prototypes, and helping Jonathan understand which directions could realistically work.
+
+This also changes how I should approach my own work. I should not immediately choose one idea and spend a lot of time developing it. Instead, I should first explore several possibilities, identify their pros and cons, and think about what could realistically be completed within the CART 415 timeline. I also think my user-flow map should follow this change. Rather than using it only to define one final experience, I can use it to show different possible paths and compare different mechanics.
+
+For me, the biggest learning from this week is that a project can change significantly through communication and collaboration with the client. I realized that client communication is not simply about presenting our ideas and receiving feedback. It is also about understanding the client’s needs, asking the right questions, and being willing to reconsider our original ideas based on what we learn. At the same time, working as a large team means we need to communicate with each other and keep our individual ideas connected to the same project direction. This experience helped me understand that handling a client-based project is not always a linear process. Our ideas, prototypes, and decisions can continue to change as we communicate, test, and better understand the project.
+
+### Next Steps
+
+At the end of the class, we agreed that everyone is now more or less on the same track. We still have ideas to explore, but we now have a clearer understanding of what we are supposed to deliver.
+
+So our next step is to come back next week with some possible prototype directions and continue discussing which ones are realistic, interesting, and useful for the future CART 415 students.
