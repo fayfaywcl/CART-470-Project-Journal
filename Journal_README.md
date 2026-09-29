@@ -515,7 +515,7 @@ Even if an idea does not work, I think it can still be useful to document it. Li
 
 He mentioned that it could be interesting to focus on the **artistic side** of the experience, so I also think about how visual and audio elements could become part of the gameplay.
 
-#### Music / Visual Matching Game Idea
+### 1. Music / Visual Matching Game Idea
 
 I recently attended a workshop at school about a creative tool called [**Ossia**](https://github.com/ossia), which is similar to TouchDesigner. It allows you to work with soundtracks, visuals, effects, and video, as well as explore different ways to combine them and create fun interactions between them.
 
@@ -526,9 +526,14 @@ This made me think about a possible game where the player controls something sim
 The player could interact with the controller and the visual result would change on the big screen.
 <img src="Media/Week3_Idea1.jpeg" alt="Week3_Idea1.jpeg" width="400" height="400">
 
-#### Cutting Vegetables Game Idea
+### 2. Cutting Vegetables Game Idea
 
 Another idea is a vegetable-cutting game, similar to the [*Veggie Slice Frenzy* game](https://www.culinaryschools.org/kids-games/veggie-slice-frenzy/), where players slice vegetables as they appear on the screen. When a vegetable is cut, its juice could spread across the screen and create colourful effects, somewhat like [*Splatoon*](https://splatoon.nintendo.com/base/en/).
+
+ <p align="left">
+  <img src="Media/Week3_Veggie Slice Frenzy.png" alt="Week3_Veggie Slice Frenzy.png" width="300" height="300">
+  <img src="Media/Week3_Splatoon.png" alt="Week3_Splatoon.png" width="300" height="300">
+ </p>
 
 The vegetables or fruits could fall from the top of the screen, and players would interact with them using their phones.
 
@@ -548,7 +553,7 @@ One possibility is that as more people join, the vegetables could fall faster.
 - More players could make the screen more difficult to follow
 - If the phone display shows the same vegetable positions as the big screen, there could be a problem where two or more players try to cut the same vegetable at the same time. (This could create a conflict in the user flow, so we would need to consider how to assign vegetables to different players or otherwise handle simultaneous interactions.)
 
-#### Maze Game Idea
+### 3. Maze Game Idea
 
 Another idea is a maze game where the player needs to move a character through the maze and find the way out. One possibility is that the walking speed becomes faster as more players join.
 
@@ -570,7 +575,7 @@ Cons:
 
 - With multiple players on the same maze, the screen could become crowded and difficult to follow.
 
-#### Block-Pushing Game Idea
+### 4. Block-Pushing Game Idea
 
 I also thought more about Jonathan's idea of pushing blocks to move a larger character.
 
@@ -591,7 +596,7 @@ For example, if a player pushes a block into the wrong position, or if one playe
 
 We actually discussed the player-leaving problem during the meeting. Alex suggested that a player who leaves could potentially turn into a ghost. This made me think about another possible direction, the ghost game idea.
 
-#### Ghost Game idea
+### 5. Ghost Game idea
 
 Instead of treating the ghost as only a problem caused by someone leaving, what if ghosts became part of the gameplay?
 
