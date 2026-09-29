@@ -517,22 +517,24 @@ He mentioned that it could be interesting to focus on the **artistic side** of t
 
 #### Music / Visual Matching Game Idea
 
-I recently attended a workshop at school about a creative tool called **Ossia**, which is similar to TouchDesigner. It allows you to work with soundtracks, visuals, effects, and video, as well as explore different ways to combine them and create fun interactions between them.
+I recently attended a workshop at school about a creative tool called [**Ossia**](https://github.com/ossia), which is similar to TouchDesigner. It allows you to work with soundtracks, visuals, effects, and video, as well as explore different ways to combine them and create fun interactions between them.
+
+<img src="Media/Week3_Ossia.jpeg" alt="Week3_Ossia.jpeg" width="500" height="500">
 
 This made me think about a possible game where the player controls something similar to the number up/down game that Jonathan mentioned, where the player clicks the up/down buttons to change a value and let them to reach a target number combination. Instead of simply changing a number, however, the player’s actions could affect or match a video, sound, or visual effect.
 
 The player could interact with the controller and the visual result would change on the big screen.
+<img src="Media/Week3_Idea1.jpeg" alt="Week3_Idea1.jpeg" width="400" height="400">
 
 #### Cutting Vegetables Game Idea
 
-Another idea is a vegetable-cutting game, similar to the *Veggie Slice Frenzy* game, where players slice vegetables as they appear on the screen. When a vegetable is cut, its juice could spread across the screen and create colourful effects, somewhat like *Splatoon*.
-
- Veggie Slice Frenzy Game: Free Online Untimed Vegetable Slicing Video Game for Kids , 
- Splatoon Base: Learn about the world of Splatoon | Nintendo
+Another idea is a vegetable-cutting game, similar to the [*Veggie Slice Frenzy* game](https://www.culinaryschools.org/kids-games/veggie-slice-frenzy/), where players slice vegetables as they appear on the screen. When a vegetable is cut, its juice could spread across the screen and create colourful effects, somewhat like [*Splatoon*](https://splatoon.nintendo.com/base/en/).
 
 The vegetables or fruits could fall from the top of the screen, and players would interact with them using their phones.
 
 One possibility is that as more people join, the vegetables could fall faster.
+
+<img src="Media/Week3_Idea2.jpeg" alt="Week3_Idea2.jpeg" width="400" height="400">
 
 **Pros:**
 
@@ -557,6 +559,8 @@ However, one problem is:
 
 Through this, I also come up another possibility is that each player has their own character and needs to collect items, such as gems, throughout the maze. The maze could also change at certain intervals, such as every 5 , 10 , 15 seconds, by moving or rearranging some of the blocks. 
 
+<img src="Media/Week3_Idea3.jpeg" alt="Week3_Idea3.jpeg" width="400" height="400">
+
 Pros :
 
 - This could make the game more unpredictable and encourage players to quickly adapt to the changing maze.
@@ -576,6 +580,8 @@ One possible version could be:
 - The blocks are used to move a large character / active an big action ( like let a big ship move
 - The game counts how long it takes to solve the problem
 - Players need to work together to reach the goal
+
+<img src="Media/Week3_Idea4.jpeg" alt="Week3_Idea4.jpeg" width="400" height="400">
 
 But this immediately creates another question.
 
@@ -598,6 +604,8 @@ A possible scaling system could be:
 - 3 players → can remove 6 ghosts at a time
 
 The idea would be to make joining the game more useful because having more players changes what the group can do. 
+
+<img src="Media/Week3_Idea5.jpeg" alt="Week3_Idea5.jpeg" width="400" height="400">
 
 Pros :
 
