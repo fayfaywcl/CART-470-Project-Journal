@@ -986,7 +986,7 @@ Each player controls their own character in a shared maze and collects gems. Pla
     - However, too much randomization could make the game feel unfair, while too many different gem types could make the game less simple.
     
 
-##### What I Realized From Comparing These Ideas
+### What I Realized From Comparing These Ideas
 
 After going through these three ideas, I realized that my main focus is not simply:
 
@@ -1061,7 +1061,7 @@ I think these examples show that he is not necessarily looking for complicated g
 
 Instead, he seems more interested in finding **a simple core action that can create interesting collective behaviour.**
 
-#### More Artistic Possibilities
+### More Artistic Possibilities
 
 I also got some inspiration from his feedback. The idea about pushing blocks and creating a mosaic made me think more about the artistic direction of the project.
 
@@ -1069,7 +1069,7 @@ It could be interesting if the interaction is very simple, but the result is vis
 
 For example, as Jonathan mentioned:
 
-**Players push coloured blocks → the blocks gradually form a large image → the final result becomes visible on the big screen.**
+    Players push coloured blocks → the blocks gradually form a large image → the final result becomes visible on the big screen.
 
 I think this could combine the simple gameplay that Jonathan wants with the artistic side that he mentioned before.
 
@@ -1121,7 +1121,7 @@ Then we can ask what kind of collective experience can come from that simple act
 
 This is different from how I was initially thinking about the project. At first, I was thinking about the overall platform, user flow, controller, onboarding, and many possible mechanics. Now I think we need to focus more on the core interaction first. The other parts can be built around it later.
 
-### Reflection on
+### Reflection on Teamwork and Client Communication
 
 #### Teamwork and Work Distribution
 
