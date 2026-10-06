@@ -297,7 +297,7 @@ There are still many things that we need to figure out, especially the client ex
 
 For now, I think it is better that we are keeping the questions open instead of deciding too quickly. Once we understand what all expectations from the project, we can start looking at these different possibilities and figure out how we can make the project more creative and interesting.
  
-## JOURNAL-ENTRY-WK-3 CLIENT INTRODUCTION MEETING (24.9.2026 to 30.1.2026) 
+## JOURNAL-ENTRY-WK-3 CLIENT INTRODUCTION MEETING (24.9.2026 to 30.10.2026) 
 
 #### Before the Client Meeting
 
@@ -658,3 +658,552 @@ For me, the biggest learning from this week is that a project can change signifi
 At the end of the class, we agreed that everyone is now more or less on the same track. We still have ideas to explore, but we now have a clearer understanding of what we are supposed to deliver.
 
 So our next step is to come back next week with some possible prototype directions and continue discussing which ones are realistic, interesting, and useful for the future CART 415 students.
+
+ 
+## JOURNAL-ENTRY-WK-4 POST-CLIENT INTRO (1.10.2026 to 7.10.2026) 
+
+#### Sharing Our Ideas
+
+At the beginning of the meeting, we first shared the ideas that we had worked on during the previous week. Everyone brought different ideas, and I marked down some of the ones that I found interesting or that inspired me.
+
+Some of the ideas we discussed were:
+
+- Timer-based exploration
+- Circle timer
+    - the circle become smaller
+    - Players running into the circle
+    - More players creating more possibilities
+    - A strategy-based concept
+- Colour-based games
+    - Hitting something changes its colour
+    - Finding paint-related objects
+    - Creating a line of colour behind the player while they move
+- Everyone running around and trying to collect something
+    - Holding something to increase the timer
+    - A group of people trying to reach the other side
+- Pushing and pulling a large ball
+- Moving something back and forward together
+- Building something that can fall and reset
+- Climbing together
+- Puzzle solving
+- Tetris
+    - Separate screens
+    - Thinking about how people would interact with it
+- Air hockey
+    - One concern is that one object may mainly be controlled by one player
+- Alex's idea about pushing a big object
+- Recreating an image
+- A big ball
+- Everyone hitting or interacting with one giant object
+
+We also started thinking about the format of the multiplayer experience. For example, whether players would:
+
+- Work together
+- Split into teams
+- Play individually
+
+### Changing How We Divide the Work
+
+Sabine also gave us a suggestion about how we should distribute the work.
+
+Instead of separating ourselves into smaller sub-teams, such as **2 + 2 + 1**, each person would take responsibility for one area while still contributing to three different game ideas.
+
+I really appreciated this suggestion because I think it makes the workload more equal, but more importantly, it gives everyone the opportunity to look at several ideas instead of becoming attached to only one.
+
+If we only worked on our own idea, it would be easy to think:
+
+> “My idea is the best one.”
+> 
+
+Then we might focus more on defending our own idea instead of objectively looking at whether it actually works.
+
+With this new distribution, everyone has a responsibility toward different ideas, so we can judge them more objectively.
+
+I think this is also something I learned about team management. Sometimes distributing work does not only mean dividing the amount of work equally. It can also mean dividing the perspective and responsibility so that everyone has a reason to look at the project from different angles.
+
+### Creating Our Evaluation Criteria
+
+After looking at the different ideas, we started organizing them into larger gameplay categories.
+
+We noticed that many of our ideas had similarities, so instead of looking at every idea separately, we first divided the gameplay into three larger directions:
+
+1. Players Work Together: Everyone participates toward the same goal.
+
+2. Players Split Into Teams: Players are divided into groups and compete or work against each other.
+
+3. Players Play Individually: Everyone has their own objective while still sharing the same overall space.
+
+We then created a Figma Jam, wrote our game ideas on sticky notes, and moved the sticky notes into these different categories.
+
+After that, we chose the ideas we were most interested in from each category by giving them a like sticker. We looked at the options together and discussed which ideas had the most potential.
+
+At first, we were trying to create five main criteria, but we realized that some of the criteria were still very similar to each other. We eventually separated internal motivation and external motivation, which gave us five main criteria in total.
+
+The five criteria became:
+
+Multiplayer — Alex
+
+- Can the game support around 20–30 players?
+- Can it also work with fewer players?
+- What happens if there is only one player?
+- How does the gameplay flow change with different numbers of players?
+
+Asynchronous / Continuous — Bianca
+
+- Can players join and leave at different times?
+- Can the game continue even when someone leaves?
+- How would the phone/controller work?
+- Does the game need everyone to be playing at exactly the same time?
+
+Simple / Easy to Understand — Hubert
+
+- How would we present the rules?
+- Can a player understand what to do quickly?
+- How can we avoid too many menus or instructions?
+- Can someone walking by understand the game without someone explaining it?
+
+Why Would Someone Stay? (Internal Motivation ) — Emma
+
+This focuses on people who are already playing.
+
+- Why would someone want to continue playing?
+- What makes the game interesting after the first few minutes?
+- What kinds of variation could keep the experience interesting?
+- What different strategies or possibilities could the player discover?
+
+Why Would Someone Pass by Want to Join or Come Back? (External Motivation ) — FayFay
+
+This focuses more on people who are not currently playing.
+
+- Why would someone walking by want to join?
+- What would make someone curious enough to participate?
+- Why would someone who already played want to come back?
+- What visual or gameplay elements could attract people?
+
+For each criterion, we also wanted to consider:
+
+**Pros → Cons → Possible Solution & What might be lost if we solve the problem?**
+
+We originally talked about the first three consideration, while I also consider “What might be lost if we solve the problem?” because I thought it was especially useful. Solving a problem does not always make the game better. Sometimes, fixing one problem can create another one.
+
+For example, if we make a game extremely simple, we might lose some depth and give players less reason to keep playing. If we make the game more competitive, some players may feel discouraged from joining or continuing to play. If we make it easier for players to join and leave, the game may lose some of the structure of a traditional game. So, we need to find the right balance instead of just trying to solve every problem individually. We also need to think about what we might lose when we solve a problem.
+
+### Why We Focused More on Gameplay
+
+We also realized that our criteria should focus more on the gameplay itself, rather than the specific device.
+
+For example, whether we use a phone, another controller, or another type of interaction could potentially be solved later.
+
+Most of the game ideas would still answer similar questions:
+
+- How many players can participate?
+- Can people join and leave?
+- How easy is it to understand?
+- Why would someone stay?
+- Why would someone want to join?
+
+So the device should not become the main thing deciding which gameplay is good.
+
+We can deal with the controller and technology after we understand which gameplay direction actually makes sense.
+
+This helped me realize that we were starting to separate the core game experience from the implementation method.
+
+### Three Ideas We Focused On
+
+After organizing our ideas, we continued with three concepts that represented different multiplayer structures. For my part, I focused more on*“Why would someone passing by want to join or come back?”.
+
+I wanted to look beyond whether the game itself was fun to play. Since our project is designed for a public or shared space, I think it is also important to consider what makes someone who is not currently playing notice the game and become interested in joining. At the same time, we also need to think about what would make a player want to come back after they have already played once.
+
+For each of the three ideas, I looked at how the game could attract new players, what could make someone want to return, and what problems might happen when trying to create that motivation.
+
+### 1st game idea : Players Work Together — Tower-Building Jenga
+
+The first idea is a cooperative tower-building game.
+
+Players work together to build the tallest tower possible by pushing, jumping, and placing blocks. As the tower becomes taller, it becomes more unstable, creating tension and unpredictable moments.
+
+##### Why Would Someone Passing By Want to Join?
+
+- The tower is visually obvious. Someone can look at the screen for a few seconds and immediately see that people are trying to build something.
+- The higher the tower becomes, the more curiosity it can create:
+    
+    > “How high can they get?”
+    > 
+    
+    or
+    
+    > “How long until it falls?”
+    > 
+- A new player also does not need to understand a complicated story or objective. The basic idea can simply be:
+    **Build higher → Don't let it fall.**
+    
+- The physical interaction of pushing, jumping, and placing blocks could also make it interesting to watch.
+- More players could also mean that more blocks can be moved at the same time.
+
+##### Why Would Someone Come Back?
+
+- Every attempt could create a different tower.
+- Players could try to beat the previous height record or try a different strategy for building a more stable tower.
+- There could also be a current height and highest height displayed on the screen.
+
+##### Pros
+
+- Easy to understand visually
+- Cooperative
+- New players can immediately contribute
+- Strong spectator appeal
+- Physics can create different outcomes
+- The tower itself can become a visual attraction
+- More players can create more activity
+
+##### Cons
+
+- One concern is that picking up and placing blocks may still take some time for a new player to understand.
+- Another concern is what happens when the tower collapses.
+    - If the tower falls, players might feel that the game is finished and leave.
+- There is also a problem with a game that becomes too stable. If players are very good and the tower never gets close to falling, someone walking by may not understand why the game is exciting.
+- Another problem is joining in the middle. If the tower is already very high, a new player might be afraid to touch anything because they could ruin the work of everyone else.
+    - They could also spend too long waiting for a safe opportunity to join.
+
+##### Possible Solutions
+
+- We could give different players different block types or temporary abilities so that joining always feels useful.
+    - However, this creates another problem: we might need many different abilities, and every player would need to understand what their ability does.
+    
+- Another possibility is having the number of players increase the speed or amount of blocks being provided.
+    - We could also create different levels, where easier block shapes are used at the beginning and harder shapes appear later.
+    
+- Another idea is to have safe zones where players can stand or rest, especially if the game becomes very long.
+- Also, at a higher level, we could introduce additional challenges, such as obstacles or NPCs that require one player to deal with them while the others continue building.
+    - However, we need to be careful that these additions do not make the game too complicated.
+    
+
+### 2nd game idea :  Players Split Into Teams — Air Hockey / Soccer
+
+The second idea is a team-based game.
+
+Players are divided into two teams and push a shared object toward the opposing team's goal. It could look like air hockey, soccer, or another simple “push the object to the other side” game.
+
+##### Why Would Someone Passing By Want to Join?
+
+- The goal is immediately recognizable:
+    
+    **Get the object into the other team's goal.**
+    
+- Someone watching can quickly understand who is winning and what is happening.
+- Competitive games can also naturally create excitement, especially when the score is close.
+- A person walking by could join a team and start contributing without needing to understand a complicated rule system.
+
+##### Why Would Someone Come Back?
+
+- Players could switch teams
+- Player want to improve their score
+- Player try to beat their friends again
+- Different combinations of players could create different experiences.
+- A short match could also create the feeling of:
+    
+    > “One more round.”
+    > 
+    
+    This could be useful for attracting people to come back.
+    
+
+##### Pros
+
+- Very intuitive objective
+- Strong spectator appeal
+- Competition creates immediate motivation
+- Easy to understand
+- Short rounds could encourage replay
+
+##### Cons
+
+- There are several questions around joining and leaving.
+    For example:
+    
+    - What happens if there is an odd number of players?
+    - How are teams balanced?
+    - Can a player choose their own team?
+    - Can someone join in the middle of a match?
+    - What happens if someone joins during the last few seconds?
+    - What happens if one team loses many players?
+    - Can the game start with only one player?
+    - How long do players wait before a new round starts?
+    
+    Also, for the questions above, we need to consider whether they would be easy for someone passing by to understand. If the game has too many rules or unclear situations around joining and leaving, would people passing by have the same confusion? I think this may be one of the main points we need to consider.
+    
+- There is also the possibility that one team becomes much stronger than the other.
+    - If one team is constantly losing, players may become frustrated and leave.
+    
+    - However , If we add too much comeback assistance, however, winning may feel less rewarding.
+- Also, if we make the game too simple, individual skill may also become less important.
+    
+    This is also another example where solving one problem can create another.
+    
+
+### 3rd game idea :Players Individually Compete — Maze + Collecting Gems
+
+The third idea is an individual competition.
+
+Each player controls their own character in a shared maze and collects gems. Players try to collect the most before the timer ends, while the maze can periodically change.
+
+##### Why Would Someone Passing By Want to Join?
+
+- The objective is very simple:
+    
+    **Collect as many gems as possible.**
+    
+- The gems are also visually obvious, so someone can understand the goal quickly.
+- Players do not need to coordinate with a team before joining.
+- This could make the game easier for someone walking by to enter.
+- A leaderboard could also show the top scores, which could create another reason to participate.
+
+##### Why Would Someone Come Back?
+
+- Players could try to beat their previous score.
+- Gem locations could change between rounds, and players could develop different strategies for finding them.
+- A leaderboard could also give players a reason to come back and beat another player's score.
+
+##### Pros
+
+- Easy for an individual player to understand
+- Players can join and leave easily
+- Players do not depend on teammates
+- Works well with asynchronous/continuous gameplay
+- Personal scores create replayability
+- A leaderboard could create longer-term motivation
+
+##### Cons
+
+- The biggest concern is that it may feel less social.
+    - Players might focus only on their own character and not care about the other people in the space.
+    
+- There is also a problem with late joining. Someone joining halfway through may feel that they are already behind.
+    - If the maze changes too much, it could become confusing. If it does not change enough, experienced players might simply memorize the best route.
+    
+- There is also a question about scoring. If someone has already been playing for four minutes, how can a new player joining now have a fair chance?
+    - Possible solutions could include catch-up bonuses, randomized gem locations, different gem values, or changing only parts of the maze.
+    - However, too much randomization could make the game feel unfair, while too many different gem types could make the game less simple.
+    
+
+##### What I Realized From Comparing These Ideas
+
+After going through these three ideas, I realized that my main focus is not simply:
+
+> “How do we make people pass by and join?”
+> 
+
+It is more specific now.
+
+I think the question now is:
+
+> **How can the game communicate its current state to someone who is not playing within a few seconds?**
+> 
+
+At the same time, the other question is still important:
+
+> **What makes someone who has already played want to come back and play again?**
+> 
+
+From my research, I noticed that coming back is often connected to beating a previous record. It could be their own record or another player's record. This gives players a reason to try again because they have something to improve or beat, instead of simply playing the exact same experience without a goal.
+
+For attracting people who are passing by, I think the game needs to communicate either:
+
+1. Something fun is happening and I want to try it, or
+2. The players already playing need me to help them.
+
+This distinction helped me think about external motivation in a more specific way.
+
+### Jonathan's Feedback
+
+After we organized our ideas from last meeting, we sent the Figma link to Jonathan and asked for his feedback.
+
+I think this was very useful because instead of continuing to develop our ideas based only on our own opinions, we could get another response from the client.
+
+On Monday afternoon, Jonathan replied that he liked the board and gave us some important feedback.
+
+The biggest thing I noticed was that he immediately removed several directions that we had been considering.
+
+He said that he would disqualify ideas that require **real-time engagement**, such as music or synchronous actions, because he does not want the project to rely on very good networking or require everyone to be playing at exactly the same time.
+
+He also did not want the choice-story idea because it would require more reading and understanding of what is happening. A player joining later might not know what is going on.
+
+He also preferred avoiding an explicitly war or fighting theme unless it was presented in a playful way.
+
+This was actually very helpful because it reduced the number of possibilities we needed to consider. At the same time, I think his feedback gave us a clearer direction for our creativity and design. Instead of trying to make every idea work, we now have a better understanding of what the client actually wants and what limitations we need to keep in mind when developing our ideas.
+
+##### What I Understand From His Feedback
+
+From Jonathan's feedback, I think his priorities are becoming much clearer.
+
+He wants:
+
+- Simple interaction
+- Fast onboarding
+- Players able to join and leave
+- Less dependency on real-time networking
+- Less reading
+- Less complicated storytelling
+- Simple but interesting gameplay
+- More collective interaction
+- More artistic possibilities
+- Something that can work with many players
+
+The Jenga idea was one of the concepts Jonathan specifically liked.
+
+For the “boss raid” concept, he suggested interpreting it in a different way. Instead of fighting a boss, everyone could work together to sort a huge mess, where each player picks up one of many objects and puts it in the correct place.
+
+Another idea he liked was pushing blocks + mosaic, where coloured blocks are scattered everywhere and players need to place them in the correct positions, and possibly in the correct order because some blocks can block others.
+
+The big ball soccer idea also seemed interesting to him, although he wanted us to think more about how the big ball would actually be pushed. One possibility he suggested was having 20+ balls, where players could join either team and push the balls toward one side or the other.
+
+I think these examples show that he is not necessarily looking for complicated game mechanics.
+
+Instead, he seems more interested in finding **a simple core action that can create interesting collective behaviour.**
+
+#### More Artistic Possibilities
+
+I also got some inspiration from his feedback. The idea about pushing blocks and creating a mosaic made me think more about the artistic direction of the project.
+
+It could be interesting if the interaction is very simple, but the result is visually interesting.
+
+For example, as Jonathan mentioned:
+
+**Players push coloured blocks → the blocks gradually form a large image → the final result becomes visible on the big screen.**
+
+I think this could combine the simple gameplay that Jonathan wants with the artistic side that he mentioned before.
+
+Another possibility is the large-ball idea.
+
+If there are 20+ balls, the game could feel chaotic and playful. I started thinking about it almost like a playground filled with ping-pong balls, where there is a lot happening at the same time.
+
+There could be one large main ball, and smaller balls could appear occasionally.
+
+For example:
+
+- **Main ball** = more important score
+- **Smaller balls** = lower score
+- **More balls appearing** = more chaos
+- **More players** = more strategies for how to move the balls
+
+I think this could make the game more interesting for 20+ players without requiring every player to do the exact same action, such as only trying to move one big object to the left.
+
+However, I still need to think about how players would join in the middle of the game and how they would quickly understand what they are supposed to do. This is still an issue that we need to solve.
+
+### What Changed in My Thinking
+
+Jonathan's feedback made me realize that we had already started to eliminate some ideas ourselves, but we were still thinking about adding more mechanics to make the games interesting.
+
+His response made me think that we should do the opposite first.
+
+Instead of asking:
+
+> “What else can we add?”
+> 
+
+we should ask:
+
+> **“What is the simplest action that can already make this game interesting?”**
+> 
+
+For example:
+
+- Push
+- Place
+- Collect
+- Sort
+- Build
+- Move
+
+Then we can ask what kind of collective experience can come from that simple action.
+
+This is different from how I was initially thinking about the project. At first, I was thinking about the overall platform, user flow, controller, onboarding, and many possible mechanics. Now I think we need to focus more on the core interaction first. The other parts can be built around it later.
+
+### Reflection on
+
+#### Teamwork and Work Distribution
+
+I also reflected on the way we distributed the work this week.
+
+The distribution was not simply about splitting the games between different people. Instead, each person had a different objective or criterion to focus on, while still looking at the same ideas. This gave us different perspectives on the same games and helped us collect different types of information.
+
+I think sometimes we need both horizontal and vertical thinking when working on a project like this.
+
+Horizontal thinking is more about how we divide the workload between people. For example, since we had three main game ideas, different people could focus on different games or different tasks. This allows us to work on multiple things at the same time and avoid everyone doing the exact same work.
+
+Vertical thinking is more about how we organize and analyze the information after we collect it. Even if all the information is in the same table, there are different ways we can organize it depending on what we want to understand. It is similar to an Excel sheet: we can organize the same information by game, by criteria, by pros and cons, or by comparing the same criterion across all three games.
+
+This made me realize that work distribution is not only about deciding who does what. We also need to think about how we organize the information after everyone finishes their part. Sometimes, changing the way we organize the same information can help us notice problems or connections that we did not see before.
+
+I think this is useful for our project because we are collecting a lot of information from different ideas. Instead of only adding more information, we should also think about how to structure it so that we can actually compare the ideas and make better decisions.
+
+#### Client Communication
+
+Jonathan's response also reminded me that we should keep communicating with the client during the process.
+
+Before this, I thought that the client meeting was mainly for asking questions and getting the requirements.
+
+Now I think it is more like an ongoing feedback loop:
+
+**We make ideas → We show them → Jonathan reacts → We understand his preferences better → We change the ideas → We show them again.**
+
+This is useful because sometimes the client may not be able to explain every preference as a requirement at the beginning.
+
+When we show him actual ideas, he can say:
+
+> “I like this.”
+> 
+
+or
+
+> “I don't want this.”
+> 
+
+or
+
+> “What if you did this instead?”
+> 
+
+That feedback can reveal things that we would not necessarily discover just by asking questions.
+
+So I think one of our responsibilities is also to give Jonathan enough material to react to.
+
+### Next Steps
+
+For the next meeting, I think we should go back to our assigned ideas and compare what each person found.
+
+We should:
+
+- Share our findings from the three ideas
+- Discuss Jonathan's feedback
+- Identify which ideas should continue
+- Remove or simplify ideas that do not fit his requirements
+- Refine the gameplay mechanics
+- Think about how players can join and leave
+- Think about how the game communicates its state
+- Think about what makes players stay
+- Think about what attracts new players
+- Consider how the ideas can support many players
+- Start thinking about how the prototype could actually be presented
+
+I also think we should start thinking about what our prototype needs to communicate. It does not necessarily need to be a working game yet. It could be: paper prototype, wireframe,  gameplay flow, visual mockup or simple interactive prototype
+
+The important part is that the prototype should help us answer a question. This would make our next step more focused instead of just continuing to brainstorm.
+
+### Overall Reflection
+
+Looking back at this week, I think our project direction is becoming much clearer.
+
+At the beginning, we had many ideas, and it was difficult to know which ones were actually useful. The criteria helped us compare them more objectively, and Jonathan's feedback helped us remove some directions that did not fit his vision.
+
+I also learned that having more ideas does not necessarily mean having a better project. Sometimes the important part is knowing which ideas to remove and understanding why they do not work.
+
+I think the biggest change in my thinking this week is that simple does not mean boring.
+
+A simple action such as pushing, sorting, building, or collecting can become an interesting multiplayer experience if the system around it creates enough interaction and variation. Jonathan's feedback made this much clearer to me.
+
+For the next stage, I want to focus less on adding complicated features and more on finding the strongest core interaction for each idea. Then we can use prototypes to test the problems we are currently identifying, especially joining, leaving, onboarding, multiplayer interaction, and keeping the experience interesting for both players and people passing by.
+
+This also brings me back to the original purpose of our project. We are not trying to immediately make the final game. We are trying to explore enough possibilities now that the future CART 415 students can start with a much clearer direction and less risk.
+
+I think we are now moving from “What could we make?” toward “Which simple idea is actually worth developing further, and why?”
