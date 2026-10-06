@@ -886,9 +886,7 @@ Players are divided into two teams and push a shared object toward the opposing 
 
 ##### Why Would Someone Passing By Want to Join?
 
-- The goal is immediately recognizable:
-    
-    **Get the object into the other team's goal.**
+- The goal is immediately recognizable: Get the object into the other team's goal.
     
 - Someone watching can quickly understand who is winning and what is happening.
 - Competitive games can also naturally create excitement, especially when the score is close.
@@ -949,9 +947,7 @@ Each player controls their own character in a shared maze and collects gems. Pla
 
 ##### Why Would Someone Passing By Want to Join?
 
-- The objective is very simple:
-    
-    **Collect as many gems as possible.**
+- The objective is very simple: Collect as many gems as possible.
     
 - The gems are also visually obvious, so someone can understand the goal quickly.
 - Players do not need to coordinate with a team before joining.
@@ -1024,7 +1020,7 @@ On Monday afternoon, Jonathan replied that he liked the board and gave us some i
 
 The biggest thing I noticed was that he immediately removed several directions that we had been considering.
 
-He said that he would disqualify ideas that require **real-time engagement**, such as music or synchronous actions, because he does not want the project to rely on very good networking or require everyone to be playing at exactly the same time.
+He said that he would disqualify ideas that require real-time engagement, such as music or synchronous actions, because he does not want the project to rely on very good networking or require everyone to be playing at exactly the same time.
 
 He also did not want the choice-story idea because it would require more reading and understanding of what is happening. A player joining later might not know what is going on.
 
@@ -1083,10 +1079,10 @@ There could be one large main ball, and smaller balls could appear occasionally.
 
 For example:
 
-- **Main ball** = more important score
-- **Smaller balls** = lower score
-- **More balls appearing** = more chaos
-- **More players** = more strategies for how to move the balls
+- Main ball = more important score
+- Smaller balls = lower score
+- More balls appearing = more chaos
+- More players = more strategies for how to move the balls
 
 I think this could make the game more interesting for 20+ players without requiring every player to do the exact same action, such as only trying to move one big object to the left.
 
