@@ -884,8 +884,6 @@ The second idea is a team-based game.
 
 Players are divided into two teams and push a shared object toward the opposing team's goal. It could look like air hockey, soccer, or another simple “push the object to the other side” game.
 
-<img src="Media/Week 4 air hockey.png" alt="Week 4 air hockey.png" width="400" height="400">
-
 ##### Why Would Someone Passing By Want to Join?
 
 - The goal is immediately recognizable:
@@ -1079,6 +1077,7 @@ Another possibility is the large-ball idea.
 
 If there are 20+ balls, the game could feel chaotic and playful. I started thinking about it almost like a multiple-ball air hockey game, where there is a lot happening at the same time.
 
+<img src="Media/Week 4 air hockey.png" alt="Week 4 air hockey.png" width="400" height="400">
 
 There could be one large main ball, and smaller balls could appear occasionally.
 
