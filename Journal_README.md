@@ -784,7 +784,7 @@ For each criterion, we also wanted to consider:
 
 **Pros → Cons → Possible Solution & What might be lost if we solve the problem?**
 
-We originally talked about the first three consideration, while I also consider “What might be lost if we solve the problem?” because I thought it was especially useful. Solving a problem does not always make the game better. Sometimes, fixing one problem can create another one.
+I think this last part is especially useful because solving a problem does not always make the game better. Sometimes fixing one problem can create another one. Solving a problem does not always make the game better. Sometimes, fixing one problem can create another one.
 
 For example, if we make a game extremely simple, we might lose some depth and give players less reason to keep playing. If we make the game more competitive, some players may feel discouraged from joining or continuing to play. If we make it easier for players to join and leave, the game may lose some of the structure of a traditional game. So, we need to find the right balance instead of just trying to solve every problem individually. We also need to think about what we might lose when we solve a problem.
 
