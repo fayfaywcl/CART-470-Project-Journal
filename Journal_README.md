@@ -1388,6 +1388,8 @@ I also considered displaying the player count on the large screen. Since this is
 
 The main goal of the low-fidelity prototype is to test whether the tower-building mechanics are understandable, whether the difficulty can adapt to different player counts, and whether players can cooperate without needing lengthy instructions.
 
+<img src="Media/Week5_TowerGame.jpeg" alt="Week5_TowerGame.jpeg" width="500" height="500">
+
 ### 2. Giant Ball Soccer / Giant Puck Hockey — Competitive Team Game
 
 #### Game Brief
@@ -1460,6 +1462,8 @@ Also an idea I came up with while exploring solutions to this issue is to make t
 
 However, this idea still needs to be tested and evaluated during the prototyping phase.
 
+<img src="Media/Week5_SoccerGame.jpeg" alt="Week5_SoccerGame.jpeg" width="500" height="500">
+
 ### 3. Maze — Moving Blocks
 
 #### Game Brief
@@ -1529,6 +1533,7 @@ I want to prototype both the block-moving interaction and a simple version of in
 
 The main priority is to preserve the immediate accessibility of a public installation. Even if the game has deeper strategies, the basic objective should be understandable within a few seconds. The prototype will help determine whether individual goals improve the experience enough to justify the additional complexity.
 
+<img src="Media/Week5_MazeGame.jpeg" alt="Week5_MazeGame.jpeg" width="500" height="500">
 
 ### Prototype Testing and Communication Between Team Members
 
