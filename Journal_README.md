@@ -1205,3 +1205,359 @@ For the next stage, I want to focus less on adding complicated features and more
 This also brings me back to the original purpose of our project. We are not trying to immediately make the final game. We are trying to explore enough possibilities now that the future CART 415 students can start with a much clearer direction and less risk.
 
 I think we are now moving from “What could we make?” toward “Which simple idea is actually worth developing further, and why?”
+
+## JOURNAL-ENTRY-WK-5 OPEN SESSION AND TEAM MEETINGS (8.10.2026 to 21.10.2026) 
+
+### Meeting Discussion and Idea Development
+
+During the last meeting, we discussed different ways to evaluate and further develop our three game ideas, focusing on UI interactions, gameplay mechanics, multiplayer features, and how the games would be presented on the large screen. I noted down several ideas and questions that emerged during the discussion. At this stage, most of them were possibilities to explore rather than finalized features.
+
+##### 1. UI and Player Interaction
+
+For the UI, we discussed keeping the interaction simple, potentially can  use only one button on the player's small screen. We also considered showing a pop-out screen only on the small screen, rather than filling the interface with too many elements. Another idea was to remove physical characters entirely and represent the player's interaction through a hand instead.
+
+We also mentioned whether the game should have characters and what they might look like. Some possibilities included animals, different colour schemes, and multiple character variations. These were still open questions, since we had not yet decided whether visible characters were necessary for the gameplay or whether a simpler visual representation would be enough.
+
+In my view, the game needs to be easy to understand and control, especially for people who join a public installation without much explanation. Keeping the mobile controller simple could help players start quickly, but we still need to test whether one button is enough for each game's mechanics.
+
+##### 2. Tower One: Physics, Building, and Mini-Goals
+
+For Tower One, we discussed what should happen when the physics cause blocks to fall. For example, should players need to retrieve blocks from the bottom or the end of the play area, or should the fallen blocks disappear completely? This decision could affect the difficulty and how much work players need to do to maintain the tower.
+
+We also considered introducing mini-goals related to building the tower. Another idea involved a construction or hanging mechanism, where players would need to figure out how blocks are provided and how to use them safely. At the same time, this idea could be combined with the safe-zone concept we discussed earlier, as well as a platforming challenge in which players could miss a platform and fall.
+
+These ideas could add more variety to the building mechanics without necessarily making the game too complicated. However, I think we need to be careful about adding too many mechanics before we know whether the basic tower-building interaction is fun. The first prototype should help us understand how the blocks behave, how players interact with them, and what happens when the structure becomes unstable.
+
+Another point we discussed was how to display player progress. For example, Tower One could focus on the tower's height, giving everyone a shared and easily understandable goal. This would allow players to see their collective progress on the large screen without needing a complicated scoring system.
+
+##### 3. Giant Ball Soccer / Hockey: Power-Ups and Randomization
+
+For the soccer or hockey idea, we discussed adding power-ups and randomizing the balls. These features could make each round less predictable and create more opportunities for different strategies.
+
+However, randomization could also make the game harder to follow if too many things happen simultaneously. I think we should first test the basic movement and scoring mechanics before deciding whether power-ups or randomized balls improve the experience.
+
+We also discussed how to present the players' identities and team progress on the large screen. Unlike the maze, which could display individual player names and scores, the soccer game could focus on team names or a collection of participating players' names. This reinforces the idea that the game is about competing as a team rather than tracking every player's individual performance.
+
+##### 4. Maze: Moving Blocks, Walls, and Gems
+
+The maze discussion included several possibilities, such as moving walls, invisible gems, and gems that move around the environment. These ideas could introduce exploration and make the maze less predictable. However, we also revisited the *Rush Hour*-inspired concept and the idea of moving blocks to interact with the environment.
+
+Since Jonathan mentioned again in his email that he preferred the moving-block direction, we decided to focus on developing that idea further. This gave us a clearer direction to work with instead of continuing to explore too many unrelated mechanics.
+
+The main interaction would involve players moving blocks to activate buttons, open doors, or unlock paths. Moving walls and gems could still be considered as additional features, but they do not need to be included in the first prototype. I would rather establish whether moving blocks creates an interesting puzzle before introducing more elements.
+
+We also discussed making the maze competitive by giving players individual scores and displaying their names at the top of the screen. This would distinguish it from the other two concepts: Tower One would focus on shared progress through tower height, soccer would emphasize team performance, and the maze could highlight individual achievements.
+
+This raised an interesting design question for me: how much interaction should there be between players? If everyone has an individual objective, they might help one another or compete for resources and access to certain paths. That could make the experience more dynamic, but it could also create frustration if players can easily prevent others from progressing. I think the prototype should help us determine whether individual goals create meaningful competition or whether they make the maze unnecessarily complicated.
+
+##### 5. Clarifying the Difference Between Ideas and Features
+
+One misunderstanding we clarified during the meeting concerned the role of music and real-time effects mentioned by Johnathon. These were ideas we had noted during brainstorming rather than confirmed features that we had already decided to implement.
+
+This clarification helped me understand the importance of distinguishing between an idea being mentioned and a feature being selected for development. Otherwise, we might spend time discussing implementation details for something that is not part of the project's current direction.
+
+##### 6. Planning the Next Stage: Low-Fidelity Prototypes
+
+At the end of the discussion, we agreed that the next step would be to start building prototypes for all three game ideas. Rather than assigning different people to separate games in groups of 2, 2, 1 , we wanted to avoid becoming too attached to only the idea we personally worked on.
+
+Instead, each game would have different prototype variations so that we could compare how the mechanics work. This approach would allow us to test the ideas more directly rather than deciding which one is best based only on discussion.
+
+We distributed the workload as follows:
+
+- **Alex and FayFay:** Focus on gameplay issues and mechanics.
+- **Bianca and Emma:** Focus on the large-screen display.
+- **Hubert:** Focus on the controller.
+
+Although we divided the work into different areas, we would still need to consider how the gameplay, controller, and large-screen display fit together. A mechanic might work well on its own but become confusing when shown on the big screen or controlled through a phone.
+
+Personally, I prefer starting with a low-fidelity prototype and trying the game first. I think playing through the basic mechanics will help us discover problems that are difficult to identify through discussion alone. At the same time, the prototypes should help us de-risk the three ideas by revealing gameplay issues, unclear interactions, and technical challenges before we invest more time in developing them.
+
+### Starting With Low-Fidelity Prototypes
+
+Personally, I prefer starting with a low-fidelity prototype and trying the game first. I think playing through the basic mechanics will help us discover problems that are difficult to identify through discussion alone. At the same time, the prototypes should help us de-risk the three ideas by revealing gameplay issues, unclear interactions, and technical challenges before we invest more time in developing them. I think it is easier to understand how a game might work when we can actually see the gameplay, even if the prototype is not polished yet.
+
+Before building the prototypes, I sketched out and wrote down a few important things:
+
+- The basic rules of the game
+- A brief description of the game
+- The initial locations of the players
+- What counts as success and failure
+
+After that, I planned to create low prototypes to demonstrate how each game might work. I think this would help us communicate the gameplay more clearly and identify potential problems before spending too much time developing the details.
+
+### Inspiration of each game
+
+##### 1. Tower One
+
+For Tower One, I took inspiration from Alex's idea about having multiple players share the workload. With more players, the group can distribute their attention across different blocks and positions, making it easier to keep up with the spawning system. However, having more players also introduces another challenge: **coordination**.
+
+I agree with Alex's suggestion that the game could automatically adjust the spawning rate and difficulty based on the number of active players. Another possibility is to increase the difficulty as more players join. This could make the game more challenging while also giving players a reason to participate together.
+
+I also thought of another feature, although it was not part of my original assigned ideas. Not everyone who joins the game will necessarily be playing with their friends. Some people might just be passing by, scanning the QR code, and joining the game on their own.
+
+Because of this, I wondered whether we could display the current player count on the big screen. It could help people understand that other players are already participating and make the multiplayer aspect more visible. We could also use the player count to show that certain features become available when more people join.
+
+However, we would need to consider whether unlocking more features based on player count would make the game more interesting or simply make it more complicated.
+
+##### 2. Giant Ball Soccer / Giant Puck Hockey
+
+For Giant Ball Soccer or Giant Puck Hockey, the next step is to build the PowerPoint presentation and test the gameplay. I want to check whether there are any problems with the gameplay itself, the big-screen display, or the player controller.
+
+Through our discussion, I realized that **player imbalance is one of the most important problems to solve**. It is not enough for the game to look attractive or exciting. If one team has a significant advantage because it has more players, the game might become frustrating for the other team.
+
+One possible solution is to balance the number of players on each team. However, we also need to consider what happens when there is an odd number of players.
+
+For example, if a player joins and the teams cannot be divided equally, we could add that player to one side first and assign the next extra player to the other side. This might help keep the teams balanced over time.
+
+Still, I need to think more about how this would work during an actual game, especially when players join or leave in the middle of a round. We also need to make sure that the rules are easy for someone passing by to understand without requiring a long explanation.
+
+##### 3. Maze Idea: Moving Blocks and Different Player Goals
+
+For the maze idea, I found the possibility of improving the gameplay by changing the environment particularly interesting.
+
+Previously, we discussed making the maze respond to the number of active players. For example, more paths could open, more gems could spawn, additional hazards could appear, certain sections could become blocked, or the maze could become larger and more complex.
+
+However, I started thinking about a different direction: **instead of focusing only on collecting gems, what if players could move blocks to change the maze itself?**
+
+This idea is also inspired by Jonathan’s original concept. As we noticed in his latest email reply, he mentioned the block game again. So, we’re thinking about adjusting the maze gameplay goal to focus on moving blocks.
+
+For example, players could move blocks onto buttons to open doors. At the end, they might need to activate a large button or discover a secret door to reach the final goal.
+
+The idea still involves players working together to achieve something, which is similar to the tower-building concept. Hence, I started wondering whether we could make the interaction more interesting by giving each player a different objective.
+
+Instead of everyone working toward exactly the same goal, each player could have their own target. They might help other players achieve their goals, or they might block other players from reaching theirs. At the end, the game could show who successfully achieved their goal or who completed it the fastest.
+
+I think this could introduce more interesting interactions between players because they would not always have to cooperate completely. Their goals could sometimes overlap, while at other times they might conflict.
+
+However, this also creates new questions. How would players understand their individual goals quickly? Would helping or blocking other players make the game more interesting, or would it make the rules too complicated? How could someone passing by understand what is happening within a few seconds?
+
+These are questions I would like to explore through prototyping rather than trying to solve everything through discussion alone.
+
+**Hence , after the ideation  here are my note of each of the game important point :**  
+
+### 1. Tower One — Cooperative Tower Building
+
+#### Game Brief
+
+Tower One is a cooperative multiplayer game where players work together to build and maintain a tower while responding to blocks that spawn over time. As more blocks appear, players must coordinate their actions and distribute the workload to prevent the tower from collapsing. The game is designed to support different numbers of players, allowing both individuals and groups of passersby to participate.
+
+The main challenge is balancing the difficulty with the number of active players. Having more players should make it possible to manage more blocks, but it could also create coordination challenges. The spawning rate and difficulty could automatically adjust according to the number of active players, ensuring that the game remains engaging regardless of how many people join.
+
+#### Rules of the Game
+
+- Players cooperate to build the tower by interacting with and placing blocks.
+- Blocks spawn over time, requiring players to respond before the tower becomes unstable or the blocks become difficult to manage.
+- Players can distribute the workload by handling different blocks or positions around the tower.
+- The spawning rate and difficulty may increase as more players join, creating a greater challenge for larger groups.
+- If a player joins or leaves during the game, the system should adjust to the new player count without interrupting the experience.
+- The large screen displays the tower's current state, the number of active players, and important feedback about the game's progress.
+
+#### Initial Player Location
+
+Players begin at designated positions around the tower where they can interact with the blocks to build the tower. When a player joins the game by scanning the QR code, they are automatically assigned a starting position.
+
+The initial screen should communicate the game's current player count. This is particularly important for a public installation, since a passerby may arrive alone rather than with a group of friends. Showing that other people are already participating could encourage additional people to join. The game could also introduce additional mechanics or interactions at certain player-count thresholds, provided that these features do not make the rules harder to understand.
+
+#### Success Conditions
+
+- Players work together to keep the tower stable and prevent it from collapsing as blocks are added.
+- The tower must maintain its height without falling or losing previously achieved height.
+- The screen continues scrolling as the tower grows, allowing players to keep building upward.
+- The round continues as long as the tower remains stable and the gameplay conditions are met.
+- The team successfully completes the round when the tower's highest point not lower the target height.
+
+A successful round should make players feel that their collective effort and coordination contributed to building the tower. The game can display the final tower height and the team's progress toward the target height to provide a clear sense of achievement.
+
+#### Failure Conditions
+**Gameplay Experience**
+- **Tower Collapse:** The tower collapses because players cannot manage the blocks effectively.
+- **Slow Player Response:** Players fail to respond to newly spawning blocks quickly enough to keep the tower stable.
+- **Increasing Difficulty:** The difficulty becomes too high for the current number of active players to manage the blocks successfully.
+- **Target Height Not Reached in Time:** The team fails to build the tower to the target height before the time limit expires.
+
+**Game Outcome**
+A round ends in failure when the tower collapses or the team fails to reach the target height within the allotted time. The game can display the final tower height to show how far the team progressed toward its goal.
+
+#### Design Considerations and Reflection
+
+One important design question is how to make additional players feel useful without making the game too easy. Automatically adjusting the spawning rate could help maintain a suitable level of difficulty, but the adjustment needs to be tested to ensure that it feels fair.
+
+Another consideration is player coordination. Even if more players provide additional hands, they may accidentally interfere with one another or focus on the same task. Assigning different positions or responsibilities could help distribute the workload.
+
+I also considered displaying the player count on the large screen. Since this is a public installation, the game should not assume that people arrive in groups. Making the multiplayer aspect visible could encourage people to join, while clear feedback would help everyone understand how their participation affects the game.
+
+The main goal of the low-fidelity prototype is to test whether the tower-building mechanics are understandable, whether the difficulty can adapt to different player counts, and whether players can cooperate without needing lengthy instructions.
+
+### 2. Giant Ball Soccer / Giant Puck Hockey — Competitive Team Game
+
+#### Game Brief
+
+Giant Ball Soccer / Giant Puck Hockey is a competitive multiplayer game in which players are divided into two teams and attempt to score by pushing a giant ball or puck toward the opposing team's goal. The game uses a large shared screen to display the playing field and mobile devices as individual controllers.
+
+The main appeal is the immediate, physical-feeling interaction: players can understand the basic objective by watching the screen and seeing the ball move. Multiple balls could be introduced to create a more chaotic and unpredictable experience, encouraging players to react quickly and work together.
+
+However, the game also introduces an important challenge: keeping the teams balanced when players join or leave. Since the game is intended for a public space, the number of participants may change at any moment. The design should support this flexibility without making the game confusing or unfair.
+
+#### Rules of the Game
+
+- Players are assigned to one of two competing teams.
+- Each team attempts to push the ball or puck toward the opposing team's goal.
+- Players use their mobile devices to control their assigned characters.
+    
+    The pushing action is triggered when a character touches a ball. To simplify the interaction, a dedicated push button will be added to the mobile controller, allowing players to push the ball with a simple tap when within range.
+    
+- A goal awards points to the scoring team.
+- The round ends when the timer runs out.
+    - Like 5 mins per round
+- The team with the higher score at the end of the round wins.
+- Multiple balls will spawn in two rounds: the first round at the 2-minute mark and the second at the 4-minute mark. All balls contribute to the team's score, with different point values based on their size. Large balls are worth 5 points each, while small balls are worth 1 point each. The game should clearly communicate the point values to players so they can prioritize their actions strategically.
+- When players join or leave, the system should maintain team balance whenever possible without interrupting the current round.
+    - **When Players Join:** The system alternates new players between Team 1 and Team 2 to keep the teams balanced.
+    - **When Players Leave:** The system tracks the number of players who have left each team. For example, if three players leave Team 1, the next three players who join will be assigned to Team 1 to fill the vacancies.
+    
+    This approach helps maintain balanced team sizes throughout the game while allowing gameplay to continue without interruption.
+    
+
+#### Initial Player Location
+
+Players begin on their assigned team's side of the playing field. The large screen should clearly distinguish the two sides, show each team's goal, and indicate where players can move or interact.
+
+When a player joins, the game assigns them to the team with fewer players . This prevents one team from gaining an unfair numerical advantage.
+
+#### Success Conditions
+
+**Game Outcome**
+- A team scores more points than its opponent before the round ends.
+**Gameplay Experience**
+- Players can quickly understand their team's objective and contribute without extensive instructions.
+- The game remains competitive and enjoyable even when the number of active players changes.
+- The scoring system provides clear, real-time feedback so players can easily identify which team is winning.
+- Players can join the game quickly and begin participating without interrupting the ongoing match.
+
+A successful experience should feel competitive, intuitive, and engaging without requiring players to learn complicated controls. The large-screen visuals should naturally attract attention, communicate the current game state, and help players understand the action as it unfolds.
+
+#### Failure Conditions
+
+**Game Outcome**
+- A team scores fewer points than its opponent when the round ends.
+
+**Gameplay Experience**
+- An imbalance in team sizes or player abilities makes the match feel unfair.
+- Players cannot understand how to control the ball or puck.
+- The ball becomes stuck, moves unpredictably, or is difficult to interact with.
+- Players joining or leaving cause major disruptions to the match.
+- The large-screen action becomes too chaotic for players and spectators to follow, especially when multiple balls are active.
+
+#### Design Considerations and Reflection
+
+The main challenge is not simply making the game visually attractive or chaotic. It is ensuring that the gameplay remains balanced, understandable, and enjoyable for different numbers of players.
+
+For example, using multiple balls could create more opportunities for players to contribute, but it could also make scoring less predictable and make the screen harder to read. Similarly, adding more players might make the game more exciting, but it could create an unfair advantage if one team has more players than the other.
+
+I need to test how the game handles odd player counts, late arrivals, and people leaving before a round ends. One possible solution is to assign new players to the smaller team, but the rules for mid-round changes still need to be defined. Another possibility is to prevent team reassignment until the next round, which may be easier to implement but could leave the match unbalanced temporarily.
+
+Also an idea I came up with while exploring solutions to this issue is to make the gate size dynamic. The gate would automatically expand or shrink based on the number of players on each team. This approach could help maintain balance between the teams without needing to reassign players.
+
+However, this idea still needs to be tested and evaluated during the prototyping phase.
+
+### 3. Maze — Moving Blocks
+
+#### Game Brief
+
+The Maze is a multiplayer puzzle game in which players navigate a maze, move blocks, and activate buttons to open doors or reveal new paths. The initial concept focused on changing the maze's environment according to the number of active players. For example, more players could unlock additional paths, trigger more hazards, or reveal more gems.
+
+After reconsidering the idea, we shifted the focus toward moving blocks and using them to interact with the environment. Players could push blocks onto buttons to open doors, reach a final area, or discover a secret exit.
+
+I also considered making the game competitive by giving each player a different objective. Players might help one another, block one another's progress, or compete to finish their objectives first. This introduces more interesting player interactions, but it also increases the complexity of the rules. The prototype needs to determine whether these individual goals create meaningful competition without making the game difficult to understand.
+
+#### Rules of the Game
+
+- Players enter the maze and navigate its available paths.
+- Players can push or move designated blocks around the environment.
+- Blocks can be placed on buttons to activate mechanisms, open doors, or unlock new areas.
+- Some paths may require players to move blocks into specific positions before they can progress.
+- Players receive an objective in the controller pop up that tells them what they need to accomplish.
+- If the competitive version is used, players may indirectly help or obstruct one another by moving blocks or influencing access to certain paths.
+- The game provides visual feedback when a button is activated, a door opens, or an objective is completed.
+
+The exact rules for interacting with other players still need to be tested. For example, the prototype must establish whether players can move the same block, whether blocks can be moved back after a button is activated, and whether players can deliberately prevent others from reaching their objectives.
+
+#### Initial Player Location
+
+Players begin at designated starting points within the maze. Each player should have a clear view of their immediate surroundings and understand how to begin moving.
+
+In the cooperative version, players could start in the same area or at different entrances, encouraging them to explore and work together. In the competitive version, players could start at separate locations to reduce immediate congestion and give each player an opportunity to pursue their own objective.
+
+Each player's goal should be displayed clearly and briefly. For example, an objective could be to open a specific door, reach a particular location, or find a secret exit. The goal should be easy to understand without requiring players to read a long explanation before starting.
+
+#### Success Conditions
+**Game Outcome**
+- players successfully solve the maze by activating the required buttons and reaching the final destination.
+- player completes their assigned objective before the other players.
+- Players successfully move blocks to unlock paths or activate mechanisms.
+**Gameplay Experience**
+- Players can understand their objectives and begin making progress with minimal instructions.
+- The game provides a clear indication when a player completes their goal or when the round ends.
+
+The final screen could display which player completed their objective first, along with completion times or other simple results. This would make the outcome clear to both players and spectators.
+
+#### Failure Conditions
+**Game Outcome**
+- Players cannot find a way to progress because blocks or mechanisms are used incorrectly.
+- player becomes stuck or makes their objective impossible to complete.
+**Gameplay Experience**
+- Players do not understand how moving blocks affects the maze.
+- The competitive rules allow players to interfere with one another in ways that make the game frustrating or unfair.
+- The maze becomes too complex for a passerby to understand quickly.
+- Players spend too much time reading instructions or figuring out their objectives instead of interacting with the game.
+
+A separate question is whether the game needs a time limit. Without one, players may continue exploring without making progress. With one, the experience could become more competitive, but it might also create unnecessary pressure for people who have just joined.
+
+One idea I have is to keep the timer in place while noticing players to decide whether to join the current round or wait for the next one. For example, before joining, the controller could inform players that the current game is about to end and ask whether they would prefer to join now or wait for the next round.
+
+To make the experience fairer for players who join at different times, this game success condition could be measured their progress from the moment they join and start moving toward the goal. The fastest time to reach the goal could then be used to determine the winner. However, this approach would need to be tested during the prototyping phase to evaluate its feasibility and fairness.
+
+As this idea emerged while I was exploring the current gameplay challenges, I think it could also help inform the controller design and address several of the gameplay issues we have identified. I'll document this idea and share it at our next meeting for further discussion.
+
+#### Design Considerations and Reflection
+
+This idea has evolved from changing the maze based on player count to focusing on the interaction between players and movable blocks. The original approach offered ways to scale the environment, such as opening more paths, spawning additional gems, or introducing hazards as more people joined. However, adding environmental changes could make the game harder to understand and might require more complicated rules.
+
+Moving blocks onto buttons gives players a more concrete action and a visible result. They can see that placing a block on a button opens a door, which creates a direct relationship between their actions and the environment. This could make the game easier to learn through observation.
+
+I want to prototype both the block-moving interaction and a simple version of individual objectives before committing to the more complicated competitive mechanics. During testing, I should observe whether players understand their goals quickly, whether they can figure out how blocks and buttons work through visual feedback, and whether interactions between players feel interesting rather than frustrating.
+
+The main priority is to preserve the immediate accessibility of a public installation. Even if the game has deeper strategies, the basic objective should be understandable within a few seconds. The prototype will help determine whether individual goals improve the experience enough to justify the additional complexity.
+
+
+### Prototype Testing and Communication Between Team Members
+
+While creating the draft prototypes, I also added colour cues and notes about the actions players needed to perform in some of the games. Through testing the prototypes, I noticed that certain interactions were not as easy to understand as I had expected. This made me realize that showing the gameplay visually was not always enough; we also needed clearer cues to help players understand what they should do.
+
+I added these colour cues to make the actions easier to identify and to give Bianca and Emma more insight into how the gameplay could be communicated on the large screen. I also identified some information that needed to be passed to Hubert, who was working on the controller. For example, the actions shown in the prototype and the actions available on the controller should be consistent with each other. Otherwise, players might see an instruction on the large screen but struggle to understand how to perform that action on their phones.
+
+This testing helped me see that the prototype is not only a way to explore gameplay ideas, but also a way to communicate with the other team members. By showing the actions and adding colour cues, I can make the gameplay requirements more concrete for the people working on the screen and controller. Hopefully, this will give them a clearer starting point for improving their respective parts of the game.
+
+### Reflection
+
+One thing I noticed during this process is that distributing the workload has been helpful, but combining everyone's ideas into one clear direction is still challenging.
+
+Each team member approaches the project from a different perspective, which allows us to identify issues that one person might overlook. For example, when we discuss a gameplay mechanic, one person might focus on the player experience, while another considers how it could be displayed on the large screen or implemented through the controller. These different perspectives can help us identify problems earlier and improve the overall idea.
+
+However, everyone also has their own suggestions and variations to contribute. Sometimes, we end up discussing similar ideas more than once, or several suggestions overlap with one another. Since everyone has different ideas they want to share, it can be difficult to combine them into one direction that everyone agrees on. As a result, our meetings can become quite long, and we may spend a lot of time discussing possibilities without reaching a clear decision.
+
+I think this is one of the more difficult parts of teamwork. Dividing the work allows everyone to focus on a specific responsibility, but it does not automatically make the decision-making process easier. We still need to find a way to bring our work together, identify which suggestions are most useful, and agree on what we should actually test or implement.
+
+At the same time, I do not think having different opinions is necessarily a bad thing. There have been moments when discussing our different perspectives helped us notice problems in an idea that we had not considered before. The challenge is finding a balance between exploring different possibilities and knowing when to settle on a direction.
+
+I feel that our current workflow is generally working well because the responsibilities are distributed relatively evenly, and everyone has an area to contribute to. What we still need to improve is how we turn all these contributions into a shared decision. For example, we could be more deliberate about identifying the main issue we want to solve in each meeting, recording the decisions we make, and leaving optional ideas for later rather than discussing all of them at once.
+
+Although the long discussions can sometimes be tiring, I see this as a valuable learning experience. In the industry, working with people from different backgrounds and responsibilities also means communicating across different perspectives and negotiating ideas. Experiencing these challenges at this stage helps me understand that teamwork is not only about completing my assigned tasks, but also about making sure my work connects with everyone else's and contributes to the same goal.
+
+### Next Steps
+
+For the next stage, I want to bring the prototypes into our meeting so that we can try them together and compare how the different variations work. Testing them as a team should help us identify which interactions are clear, which mechanics need improvement, and what information should be displayed on the large screen.
+
+We also plan to start working on the presentation slides next week. Beyond simply presenting the game ideas, we need to consider how to communicate each concept clearly so that the gameplay, player actions, and main objectives are easy to understand. The slides should help us convey our ideas effectively and support further discussion about which direction to develop.
+
+Overall, my next priority is to use the prototypes and presentation materials to make our ideas more concrete. This should help the team move from generating possibilities toward making decisions based on what we have tested, while giving everyone a clearer understanding of how their work fits into the overall experience.
