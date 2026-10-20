@@ -1360,22 +1360,27 @@ The initial screen should communicate the game's current player count. This is p
 
 #### Success Conditions
 
+**Game Outcome**
+
 - Players work together to keep the tower stable and prevent it from collapsing as blocks are added.
 - The tower must maintain its height without falling or losing previously achieved height.
 - The screen continues scrolling as the tower grows, allowing players to keep building upward.
 - The round continues as long as the tower remains stable and the gameplay conditions are met.
 - The team successfully completes the round when the tower's highest point not lower the target height.
 
+**Gameplay Experience**
+
 A successful round should make players feel that their collective effort and coordination contributed to building the tower. The game can display the final tower height and the team's progress toward the target height to provide a clear sense of achievement.
 
 #### Failure Conditions
-**Gameplay Experience**
+
+**Gameplay Outcome**
+
 - **Tower Collapse:** The tower collapses because players cannot manage the blocks effectively.
 - **Slow Player Response:** Players fail to respond to newly spawning blocks quickly enough to keep the tower stable.
 - **Increasing Difficulty:** The difficulty becomes too high for the current number of active players to manage the blocks successfully.
 - **Target Height Not Reached in Time:** The team fails to build the tower to the target height before the time limit expires.
 
-**Game Outcome**
 A round ends in failure when the tower collapses or the team fails to reach the target height within the allotted time. The game can display the final tower height to show how far the team progressed toward its goal.
 
 #### Design Considerations and Reflection
@@ -1429,8 +1434,11 @@ When a player joins, the game assigns them to the team with fewer players . This
 #### Success Conditions
 
 **Game Outcome**
+
 - A team scores more points than its opponent before the round ends.
+  
 **Gameplay Experience**
+
 - Players can quickly understand their team's objective and contribute without extensive instructions.
 - The game remains competitive and enjoyable even when the number of active players changes.
 - The scoring system provides clear, real-time feedback so players can easily identify which team is winning.
@@ -1441,9 +1449,11 @@ A successful experience should feel competitive, intuitive, and engaging without
 #### Failure Conditions
 
 **Game Outcome**
+
 - A team scores fewer points than its opponent when the round ends.
 
 **Gameplay Experience**
+
 - An imbalance in team sizes or player abilities makes the match feel unfair.
 - Players cannot understand how to control the ball or puck.
 - The ball becomes stuck, moves unpredictably, or is difficult to interact with.
@@ -1495,21 +1505,29 @@ In the cooperative version, players could start in the same area or at different
 Each player's goal should be displayed clearly and briefly. For example, an objective could be to open a specific door, reach a particular location, or find a secret exit. The goal should be easy to understand without requiring players to read a long explanation before starting.
 
 #### Success Conditions
+
 **Game Outcome**
+
 - players successfully solve the maze by activating the required buttons and reaching the final destination.
 - player completes their assigned objective before the other players.
 - Players successfully move blocks to unlock paths or activate mechanisms.
+  
 **Gameplay Experience**
+
 - Players can understand their objectives and begin making progress with minimal instructions.
 - The game provides a clear indication when a player completes their goal or when the round ends.
 
 The final screen could display which player completed their objective first, along with completion times or other simple results. This would make the outcome clear to both players and spectators.
 
 #### Failure Conditions
+
 **Game Outcome**
+
 - Players cannot find a way to progress because blocks or mechanisms are used incorrectly.
 - player becomes stuck or makes their objective impossible to complete.
+  
 **Gameplay Experience**
+
 - Players do not understand how moving blocks affects the maze.
 - The competitive rules allow players to interfere with one another in ways that make the game frustrating or unfair.
 - The maze becomes too complex for a passerby to understand quickly.
