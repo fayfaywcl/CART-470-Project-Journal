@@ -1584,3 +1584,155 @@ For the next stage, I want to bring the prototypes into our meeting so that we c
 We also plan to start working on the presentation slides next week. Beyond simply presenting the game ideas, we need to consider how to communicate each concept clearly so that the gameplay, player actions, and main objectives are easy to understand. The slides should help us convey our ideas effectively and support further discussion about which direction to develop.
 
 Overall, my next priority is to use the prototypes and presentation materials to make our ideas more concrete. This should help the team move from generating possibilities toward making decisions based on what we have tested, while giving everyone a clearer understanding of how their work fits into the overall experience.
+
+## JOURNAL-ENTRY-WK-6 OPEN SESSION AND TEAM MEETINGS (22.10.2026 to 28.10.2026) 
+
+### Overview of This Week
+
+This week, our main task was preparing the presentation for our client, Jonathan. Before putting everything into the slides, we discussed the ideas we had developed during previous meetings, reviewed the different gameplay possibilities, and considered how we could present each game clearly.
+
+Our three concepts were Tower One, Soccer, and Maze. Although each game has a different main interaction, we still had several mechanics and design decisions to consider. For example, Tower One could use static or scrolling platforms, Soccer could have practice or competitive modes, and Maze could focus on moving blocks or the Mosaic concept.
+
+Since we had limited time before the client presentation, we needed to decide what to demonstrate using our current prototypes, what alternatives to include in the presentation, and what decisions we should leave for Jonathan to discuss with us. This week was therefore not only about preparing slides, but also about refining our ideas and deciding how to communicate them.
+
+### Brainstorming and Refining the Gameplay Ideas
+
+#### 1. Tower One — Platforms and Cooperation
+
+For Tower One, we discussed whether the platforms should remain static or whether the environment should scroll upward as the tower becomes taller. Both approaches could work, but they would create different gameplay experiences.
+
+For the current presentation, we decided to use Alex's Unity prototype, which demonstrates the static-platform approach. We also discussed how platforms could appear randomly around the sides of the tower, requiring players to communicate and coordinate to retrieve them and continue building.
+
+Another idea was to use the initial platform as a safe zone. Players could start there, and people joining in the middle of a game could also enter through this area. It could provide a place for new players to collect blocks without immediately disrupting the players who are already building the tower.
+
+Alex also mentioned that players could pass through a platform while still being able to jump onto it and stand on top. This could give us more flexibility in designing the platform interactions, although the mechanic would need to be tested.
+
+I think the cooperation aspect is important here. Players should not only focus on their own actions but also communicate and work together to build the tower. Having different tasks, such as retrieving blocks and placing them, could encourage more interaction between players. At the same time, we need to make sure that these mechanics do not make the game too complicated for people who have never played it before.
+
+#### 2. Soccer game— Practice Mode and Competitive Mode
+
+For Soccer game , we discussed two possible gameplay approaches.
+
+Alex's idea was to create a practice mode where each player has their own ball and shoots toward a goal. This would allow people to play even when there is only one player or an odd number of players.
+
+My idea focused on a competitive match between two teams. Players would join a team and try to score against the opposing team, creating a more direct multiplayer experience.
+
+Instead of choosing one approach immediately, we decided to present both possibilities. The competitive match could be used as the main visual direction, while Alex's practice mode could demonstrate the basic shooting mechanic. We could then discuss with Jonathan whether the final game should focus on practice, team competition, or potentially support both modes.
+
+We also discussed where new players should appear. Rather than spawning directly inside the field, new players could start at a designated point outside the playing area. This would prevent them from suddenly appearing in the middle of the match and disturbing players who are already playing.
+
+Sabine also suggested considering people who pass by the installation but do not necessarily want to play. For example, sound cues could help them notice important events in the game and understand what is happening as an audience member. This could make the installation more attractive to passersby and encourage them to join later.
+
+Another idea was to show a shadow before a ball appears. Players could move toward the predicted location and prepare to receive the ball. I think this could create a more exciting experience because players would have to react to the cue and anticipate where the ball would appear. However, we would also need to consider how much time players have to react and whether the cue makes the game fair.
+
+These ideas helped me think about Soccer game from different perspectives. The game should support the people who are actively playing, but it should also be interesting enough for others to stop and watch. Sound cues, visual feedback, and the way new players enter the field could all contribute to the overall experience.
+
+#### 3. Maze game — Moving Blocks and the Mosaic Concept
+
+For Maze, we discussed the moving-block concept alongside the Mosaic idea. Jonathan had previously shown interest in the moving-block direction, while the team also liked the Mosaic concept, especially its use of traps and blocks.
+
+In my moving-block idea, players would use blocks to open paths or create obstacles around the objective. The Mosaic concept offered another direction, but we also realized that it could become a collaborative game. This raised a question about how we could make it different from Tower One, which already focuses on cooperation.
+
+We discussed the importance of identifying the MVP, meaning the essential features that make the game playable and distinguish it from the other concepts. One possibility was to focus on individual performance, where the player who contributes the most becomes the winner. This could make the game more competitive rather than having everyone contribute to one shared goal.
+
+I think both directions are interesting, so I wanted to keep them in the presentation rather than remove one before discussing it with Jonathan. However, we need to explain what makes each version different and which mechanics are essential. 
+
+We also discussed the starting locations of players. I proposed using randomized starting positions within the maze, including for players who join in the middle of a game. The intention is to place them away from the immediate objective or important blocks so that they do not receive an unfair advantage or interrupt the current gameplay.
+
+This led to a broader idea that all three games should have a designated response area or safe zone for new players. For players who join at the beginning, this could be their starting location. For players who arrive later, it could provide a consistent entry point into the game.
+
+I think this would make the games more organized and fair because players would not have completely different starting conditions depending on when they joined. It also gives us a clearer way to explain how late arrivals can participate without disrupting the current game.
+
+### Controller Design and Ideas That Inspired Me
+
+Although my main task this week was preparing the gameplay descriptions and presentation, the discussion about controller design gave me some ideas about how we could improve the overall player experience.
+
+One concern was that the controller buttons and text might be too small. We also had not fully established our target audience, so we needed to consider whether people with different levels of gaming experience would understand how to use it.
+
+Some suggestions included increasing the font and button sizes, using four directional controls, and adding a tutorial mode. We also discussed making the player's character visible on the phone controller so that players could recognize which character they were controlling on the large screen.
+
+Other ideas included a countdown such as "3, 2, 1" before the game begins and a leave button that allows players to exit the game. For Tower One, the controller would need actions such as moving left and right, jumping, picking up blocks, and putting them down.
+
+What I found interesting was how these small interface decisions could affect whether people feel comfortable joining the game. Since this is a public installation, players might not have any prior knowledge of the game. If the controller is difficult to understand, they might leave before even trying it.
+
+This inspired me to think about how we could make the controls more intuitive. For example, a tutorial could appear before the game starts, or the controller could show the player's character to help them understand the connection between their phone and the large screen. The countdown could also give players a clear signal that the game is about to begin.
+
+At the same time, we need to avoid making the controller too complicated. Adding more buttons and instructions might provide more information, but it could also overwhelm new players. I think we should focus on the actions that players need most and make them easy to recognize.
+
+Another point I took away from this discussion is that the controller, gameplay, and large screen need to work together. If the screen shows an action that players need to perform, the corresponding controller input should be clear. This is also relevant to my own work because the gameplay descriptions need to explain the available actions clearly enough for the team to design the screen and controller consistently.
+
+### Preparing the Presentation and Refining the Gameplay Descriptions
+
+After discussing the gameplay possibilities, our main task was to turn our ideas into a presentation that Jonathan could understand and give feedback on.
+
+We discussed how to distribute the work equally and what the main content of each part should be. We decided to organize each game's presentation into three main parts:
+
+1. **Game description:** A brief explanation of what the game is about and why we chose the concept.
+2. **Large-screen design:** What the shared screen would look like and how it would communicate the game.
+3. **Gameplay demonstration:** What the gameplay would look like and how players would interact with it.
+
+We divided the tasks according to each team member's responsibilities:
+
+- **Alex:** Unity gameplay development and recording the gameplay demonstration.
+- **Me:** Gameplay descriptions and text content.
+- **Bianca:** Large-screen visual design and illustrations.
+- **Emma:** Text and information displayed on the large screen.
+- **Hubert:** General controller design, including controller text and proposed features.
+
+I also discussed the presentation's visual direction with Alex. We decided to use a pixel-art theme because it gives the slides a stronger gaming feeling without being too distracting from the content. We wanted the visual style to support the ideas rather than take attention away from the gameplay itself. We also used Google Slides as a shared, living document so that everyone could work on their own sections and update the presentation together.
+
+### My Work on the Gameplay Descriptions
+
+For my part, I used my previous notes and the notes from other team members as references to write the descriptions and gameplay for all three games. I wanted the client to understand each concept without needing to read a long explanation.
+
+For the game descriptions, I focused on explaining what each game was about, where the idea came from, what made it interesting, and how it differed from the other concepts. Since the three games have different types of interaction, I wanted the descriptions to communicate their main differences clearly.
+
+For the gameplay section, I organized the information around several key points:
+
+- **Player actions:** The actions players can perform, such as moving up, down, left, and right, jumping, picking up or putting down blocks, and kicking the ball.
+- **Basic rules:** How the game works and what players need to do.
+- **Alternative mechanics:** Other possible ways the gameplay could work.
+- **Success criteria:** What players need to achieve to succeed.
+- **Failure criteria:** What happens when players fail or cannot complete the objective.
+- **Initial player locations:** Where players start and how new players can join.
+- **Interactions between components:** How the different elements of the game work together.
+
+Organizing the descriptions this way helped me turn the ideas from our meetings into something more structured. It also gave the other team members a clearer reference when working on the large-screen visuals, controller, and gameplay demonstrations.
+
+I also needed to make sure that my descriptions matched what Alex could demonstrate in Unity. We had discussed several possible mechanics, but not all of them were implemented yet. Therefore, I needed to distinguish between the gameplay that we could already show and the alternatives that we wanted to propose.
+
+#### Refining the Three Games for the Presentation
+
+For Tower One, we decided to demonstrate the static-platform version based on Alex's current Unity prototype. We would explain the possibility of having platforms appear randomly around the tower, requiring players to retrieve them and communicate with one another. We also wanted to present the initial platform as a safe zone where players could start or join the game and collect blocks without disrupting the existing gameplay.
+
+For Soccer game, we would use the competitive match as the main visual direction while using Alex's practice mode to demonstrate the basic shooting mechanic. This allowed us to show the current gameplay without deciding too early whether the final version should be a practice game or a team match. We could then ask Jonathan which direction he preferred.
+
+We also included the idea of showing a shadow before the ball appears. This could give players time to react and make the gameplay more engaging. The audience idea and sound cues were also worth considering because they could help attract people who were watching but had not yet decided to participate.
+
+For Maze game , I would present a combined direction that brings together the moving-block concept and the Mosaic idea. Jonathan previously showed interest in the moving-block concept, while the team also liked the Mosaic idea. we think combining these elements could give us a more interesting gameplay experience rather than presenting them as two completely separate ideas.
+
+However, we still need to consider how the combined concept would work and identify its MVP features. Since the Mosaic idea could also become collaborative, we discussed whether individual contributions could determine the winner, giving players their own goals while interacting within the same maze. I would include this direction in the presentation to explain how the two ideas could work together and discuss it with Jonathan for further feedback.
+
+Across all three games, the response area or safe zone became an important idea. It would provide a consistent starting point for players and a way for people to join after the game had already begun. I think this could make the installation easier to understand and help create a fairer experience, since new players would not immediately appear in the middle of an important interaction.
+
+Through this process, I realized that refining the presentation does not mean finalizing every mechanic. Instead, we need to explain the strongest version of each idea, show what we can currently demonstrate, and keep the alternatives clear enough for the client to evaluate.
+
+### Reflection on Teamwork and Decision-Making
+
+This week reminded me that dividing the workload equally is important, but it is not enough on its own. Each team member is responsible for a different component, but those components still need to work together as one experience.
+
+For example, Alex's Unity prototype needs to match the gameplay descriptions I write. Bianca's visual design and Emma's text need to communicate the same gameplay, while Hubert's controller needs to provide the actions that players are expected to perform. If each person works independently without checking these connections, the final result could become inconsistent.
+
+Another challenge was deciding how much detail to include. We had many possible mechanics for each game, but the presentation needed to remain clear and manageable. If we included every idea, the client might have difficulty understanding the main purpose of each concept. On the other hand, if we removed too many alternatives, we might lose interesting ideas that could improve the game later. I think the best approach was to identify the main gameplay for each concept and use the alternatives to support the discussion rather than letting them overwhelm the presentation. 
+
+Overall, I feel that we made progress in turning our brainstorming into a more organized presentation. We still have decisions to make, but we now have a clearer structure for explaining the three concepts and discussing their possible directions with Jonathan.
+
+### Next Steps
+
+Our next step is to present the PowerPoint to our client, Jonathan, and make sure the game descriptions, large-screen designs, controller concepts, and Unity demonstrations are consistent with one another. We also plan to arrive early to rehearse the presentation, check the flow between sections, and make any final adjustments before the meeting.
+
+During the client meeting, we want to gather feedback on the three concepts and understand which direction he would like us to pursue. Based on his feedback, we can identify the essential mechanics of the game and decide which alternative ideas are worth exploring further.
+
+For my part, I need to make sure the gameplay descriptions clearly communicate each game's main idea, rules, player actions, and unique features. I also need to ensure that the descriptions match the current Unity demonstrations while distinguishing between features that have already been implemented and ideas that are still being considered.
+
+Overall, I think our team is making good progress. Everyone is working on their assigned tasks, and we are now waiting for the client's feedback to help guide our direction and determine which areas we should focus on next.
