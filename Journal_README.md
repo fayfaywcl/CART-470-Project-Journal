@@ -1736,3 +1736,195 @@ During the client meeting, we want to gather feedback on the three concepts and 
 For my part, I need to make sure the gameplay descriptions clearly communicate each game's main idea, rules, player actions, and unique features. I also need to ensure that the descriptions match the current Unity demonstrations while distinguishing between features that have already been implemented and ideas that are still being considered.
 
 Overall, I think our team is making good progress. Everyone is working on their assigned tasks, and we are now waiting for the client's feedback to help guide our direction and determine which areas we should focus on next.
+
+## JOURNAL-ENTRY-WK-7 MIDTERM WITH CLIENTS (29.10.2026 to 4.11.2026) 
+
+### Presenting Our Progress
+
+During the last meeting, we presented the PowerPoint deck we had prepared to explain our progress, from the initial brainstorming stage to the development of our three game concepts. We explained why we selected these ideas, how they differed in their main gameplay themes, and how we were exploring their mechanics through Unity demonstrations and design concepts.
+
+One thing I think we did well was our communication with Jonathan. The meeting was not simply us presenting our slides while the client listened. Jonathan was able to respond to each concept, share his thoughts, and suggest new ideas. At the same time, our team members could jump into the discussion to explain our interests, concerns, and ideas that we had discussed internally but had not necessarily included in the slides.
+
+I think this kind of two-way communication was valuable because it allowed us to clarify our thinking and explore possibilities together. Instead of treating the presentation as a final proposal, we used it as a starting point for discussion and further development.
+
+#### Feedback on Tower One, Soccer, and Mosaic
+
+**Tower One**
+
+Jonathan raised concerns about the real-time actions involved in the game. He questioned whether the gameplay might introduce too much delay or become difficult to manage when multiple players interact with the tower and its blocks.
+
+This made me realize that a concept might sound interesting in theory but still have technical risks when we consider how it would work in a real installation. We need to think about whether the core mechanics can be implemented smoothly and whether the experience would remain enjoyable when several players participate at once.
+
+**Soccer**
+
+Jonathan felt that our Soccer concept was less interesting than the traditional version of soccer. Although we had explored both practice mode and competitive mode, we still needed to consider what would make our version distinctive rather than simply recreating a familiar sports game.
+
+**Mosaic**
+
+Jonathan was less interested in our original maze direction. He mentioned that the gameplay could feel like moving many blocks around, and that designing a maze would require careful consideration. For example, if a player pushed a block into a dead end, there might be no way to move it back, potentially preventing the player from completing the objective.
+
+However, Jonathan could understand why we had chosen the Mosaic concept as a target. Completing a mosaic provides a simple and visible goal, and it could encourage more people to join and communicate with one another.
+
+I found this feedback useful because it helped us distinguish between the parts of our ideas that were promising and the parts that could create unnecessary complexity. Rather than keeping the original maze structure, we could preserve the simple objective of completing a mosaic while reconsidering how players would interact with the environment.
+
+### Developing a New Direction from the Discussion
+
+Based on our discussion of moving blocks and the Mosaic concept, Jonathan proposed a new direction that our team found much more interesting.
+
+Using space as an example, the idea was to place a large mosaic in the middle of the game environment, surrounded by different islands. Players would travel between the islands to collect blocks of different colours and bring them back to contribute to the mosaic. The blocks would also be used to create paths, allowing players to walk across them and reach other islands.
+
+I found this direction interesting because the blocks would serve two purposes: they would contribute to the final mosaic and help players navigate the environment. This creates a connection between the movement mechanics and the overall goal, rather than having players move blocks only to solve a puzzle.
+
+Another interesting possibility is that players could influence the appearance of the final image through their contributions. For example, they might arrange coloured blocks to create patterns or even write their names. This could make the experience more personal and artistic, while giving people a visible reason to participate.
+
+I also think this direction could help address one of our earlier concerns about external motivation. People passing by might be hesitant to join a game if they are worried about interrupting other players or affecting their progress. In this concept, players could contribute blocks to a shared visual outcome, making participation feel more approachable and meaningful.
+
+After discussing the idea, our team agreed that this was a promising direction. Although Jonathan found all three original concepts interesting, he felt that the new island-and-block-path concept was more compelling. We therefore decided to make this our main focus after the midterm.
+
+### Understanding the Purpose of Prototyping
+
+Another important point Jonathan discussed was the purpose of our prototype.
+
+Previously, I had been thinking about how to refine our game concepts and make the presentation clear enough to communicate our ideas. However, Jonathan explained that the prototype does not need to be a finished product that can simply be handed over to future CART 415 students for continued development.
+
+Instead, the prototype should help us explore possibilities, test assumptions, and identify potential risks before the next stage of the project.
+
+This changed how I understood our current work. We do not need to solve every design problem or commit to one final implementation immediately. We can explore different gameplay mechanics, artistic directions, and interactions to understand what is possible and what might cause difficulties.
+
+For example, we could investigate how players move between islands, how blocks can be used to create paths, and how the game could prevent players from becoming stuck or blocking one another. We could also explore different visual styles to see how the environment and mosaic could communicate the objective.
+
+The purpose of this process is to help reduce uncertainty for future development. By identifying risks and exploring alternatives now, we can provide future CART 415 students with a clearer understanding of the possibilities and challenges without requiring them to spend as much time discovering the same issues from scratch.
+
+This also means that our prototype should focus on testing the design rather than polishing every element into a finished product. We need to understand what works, what does not, and what questions still need to be answered.
+
+### Exploring the Artistic Direction
+
+#### Choosing an Appropriate Art Style
+
+Jonathan also suggested that we could start to consider the artistic direction of the game. He recommended avoiding 3D as the main direction and suggested that 2D or pixel art could be more manageable for the project, especially since future CART 415 students might have different levels of experience.
+
+I agree that the visual style needs to be achievable, but I also think it should support the gameplay rather than simply make the game look attractive. Since the central idea involves collecting coloured blocks, creating paths, and completing a mosaic, the art direction should make these interactions easy to understand while still being visually engaging.
+
+After the meeting, we discussed exploring different artistic themes and references rather than immediately committing to one style. This gives us an opportunity to diverge creatively again before narrowing our options based on feasibility and how well each theme supports the gameplay.
+
+#### My Initial Artistic Theme Ideas
+
+I started brainstorming several possible themes that could work with the island, coloured-block, and mosaic mechanics.
+
+**Space and Planets**
+
+The environment could be divided into different planets or islands, each with its own colour palette or visual identity. Players could travel between these areas to collect blocks and contribute to a larger mosaic in the centre.
+
+I like this direction because it connects naturally with Jonathan's example of using space as a theme. It also provides opportunities to make each island visually distinct while maintaining a consistent overall environment.
+
+**Food and Restaurants**
+
+Another possibility is to divide the islands according to different cuisines, such as Chinese, Korean, American, Italian, and Japanese food. Alternatively, each island could represent a particular food, such as sushi, pizza, spaghetti, burgers, or noodles.
+
+This could create a playful and familiar theme, with different colours and shapes representing different foods.
+
+**Mining and Minerals**
+
+The islands could represent different materials or minerals, such as gold, silver, and coal. Players could collect blocks associated with each material and use them to build the mosaic or create paths.
+
+This theme could give the blocks a clear visual identity through their colours and textures, although we would need to consider how to keep the art style simple enough to implement.
+
+**Music**
+
+I also considered using different music genres, such as R&B, classical, funk, jazz, hip-hop, and rock. Each island could represent a different genre through its colours, patterns, and visual atmosphere.
+
+This might offer an interesting artistic direction, although we would need to explore how to communicate the theme visually without making the gameplay more complicated.
+
+**Countries and World Cultures**
+
+Another idea is to use different countries or regions as the theme for the islands. This could connect to the idea of collaboration, with players contributing to a shared mosaic representing different places.
+
+**Montréal Landmarks**
+
+Since the project is being developed in Montréal, we could also explore local landmarks and familiar places, such as Mount Royal, the Olympic Stadium, La Ronde, churches, Sainte-Catherine Street, the metro, and Chinatown.
+
+This could give the installation a stronger local identity and make the game more recognizable to people who live in or visit Montréal.
+
+**Ice Cream Flavours**
+
+I also thought about using ice cream flavours as the main theme. Chocolate, strawberry, vanilla, mint chocolate, mango, Oreo, and blueberry could each be represented by a different colour.
+
+I like this idea because it connects directly to the coloured-block mechanic. The different flavours could give each island a distinct identity, while the blocks could combine to create a colourful mosaic.
+
+##### Looking for Artistic References
+
+Besides brainstorming themes, I started looking for artistic references that could help us visualize these ideas. I mainly focused on pixel art and 2D styles because they seem more feasible for the project and easier for future students to continue developing.
+
+At this stage, I do not think we need to select a final theme immediately. Instead, we can bring several references to the team, compare their visual potential, and discuss how they would work with the gameplay.
+
+The important thing is to explore a range of possibilities while keeping the implementation realistic. We want the game to be visually interesting, but we also need to make sure the art style supports the central mechanics and can be developed within our constraints.
+
+### Teamwork and Learning to Ask for Help
+
+One of the most meaningful parts of this week was what happened after the client meeting.
+
+Initially, I took responsibility for preparing the PowerPoint presentation. Since I had already worked on the client-facing slides, I thought it would make sense for me to continue organizing the content and preparing the next presentation for the class.
+
+However, when I met my teammates again the following day, they mentioned that I did not need to handle the entire presentation on my own. They had also finished their midterms and had more time available to help. I felt really supported by this. It reminded me that a good team does not mean one person has to carry most of the work or that everyone must complete their assigned part independently without asking for help. Instead, it means that we understand each other's situation and work together to move the project forward.
+
+I also realized the importance of being transparent about our availability. When team members communicate their schedules, midterms, workload, and other responsibilities, it becomes easier to understand what everyone can realistically contribute. This makes it more comfortable for us to ask for help or redistribute tasks without worrying that we are overloading someone else.
+
+For example, I had received a sudden call related to work, which affected the time I had available. I mentioned this toward the end of our meeting, and when I met a teammate the following day, they offered to discuss what could be moved forward and which tasks they could take responsibility for based on their availability. I appreciated this because, instead of simply assigning tasks to each other, we were working together to find a realistic way to distribute the workload.
+
+This experience also helped me learn how to ask for help. Sometimes, I feel responsible for completing the work I have taken on, especially when I have already started organizing it. However, I am learning that communicating when I need support is not a sign that I cannot handle the task. It gives the team an opportunity to collaborate and make better use of everyone's time and strengths.
+
+#### A More Collaborative Presentation Workflow
+
+We agreed on a workflow for preparing the next presentation.
+
+The other team members will first draft the bullet points and key information they want to include in their sections and send them to me. I will then refine the wording, shorten or filter the content where necessary, and organize the information into slides. Although bullet points are generally more concise than paragraphs, some of the content can still become too long for a presentation. I therefore need to think about how to reorganize the information so that the main ideas are easy to understand and the slides remain visually clear.
+
+After I finish the slides, I will share them with the team for review so that everyone can check the content and suggest changes.
+
+I like this workflow because it allows everyone to contribute their knowledge while making use of my existing work on the presentation. Instead of one person doing everything, we can divide the content preparation, editing, and review process.
+
+Overall, I really appreciate how our team has been coordinating and supporting one another. It makes me feel more comfortable sharing my concerns and asking for help, and it reminds me that the quality of our work depends not only on individual contributions but also on how well we work together.
+
+### Where We Are Now
+
+After the client meeting, our project has a clearer direction.
+
+We have moved from exploring three separate concepts to focusing on the new island-and-mosaic direction, which combines collecting coloured blocks, creating paths, travelling between islands, and contributing to a shared visual outcome. However, we are not treating this as a fully finalized game. We still need to explore how the mechanics could work, how players would interact with the blocks and one another, and how the game could avoid problems such as players becoming stuck or blocking progress.
+
+Our focus is now on two main areas:
+
+**1. Artistic Direction**
+We need to explore possible themes, visual references, and 2D or pixel-art styles that could support the gameplay while remaining achievable for future development.
+
+**2. Gameplay Mechanics and Testing**
+We need to investigate how the core mechanics could work, identify potential design issues, and use prototypes to test different possibilities and reduce risks.
+
+This feels like another stage of divergence and convergence in our design process. We have narrowed our focus to one main gameplay direction, but we are opening up our creativity again to explore different artistic and mechanical possibilities before deciding which ones are worth developing further.
+
+### Next Steps
+
+Next week, we will have an in-class presentation to share our progress and discuss the direction of the project.
+
+For the presentation, we will explain the feedback from Jonathan, the new game direction, and the areas we want to explore next. We will also share artistic themes and references that could inspire the game's visual identity.
+
+Our next steps include:
+
+- Explore different artistic themes and collect relevant 2D or pixel-art references.
+- Discuss which themes best support the island-and-mosaic concept.
+- Investigate the core gameplay mechanics, including block collection, path creation, and movement between islands.
+- Identify possible design risks and test different approaches through prototyping.
+- Continue working collaboratively on the presentation, with each team member contributing content and reviewing the final slides.
+
+Rather than immediately polishing the game into a finished product, we want to use this stage to explore possibilities, test assumptions, and understand which direction is most promising.
+
+### Overall Reflection
+
+This week helped me understand the value of both client communication and teamwork.
+
+The meeting with Jonathan showed me that presenting our ideas is not just about explaining what we have done. It is also an opportunity to receive feedback, discuss concerns, and develop new ideas together. The new island-and-mosaic concept emerged from that conversation, showing how client feedback can help us move beyond our initial ideas and discover a more promising direction.
+
+I also learned more about the purpose of prototyping. We do not need to deliver a complete game at this stage. Instead, we need to explore different possibilities, identify risks, and help reduce uncertainty for future development.
+
+Most importantly, I appreciated the support from my teammates. Their willingness to help with the presentation reminded me that teamwork is about communication, trust, and understanding each other's availability. I do not need to carry the work alone, and asking for help can make our collaboration stronger.
+
+Going into the next week, I am excited to explore the artistic direction and gameplay possibilities with the team. We now have a clearer focus, but there is still room for creativity and experimentation. I hope we can continue to support one another while finding a direction that is both interesting to play and realistic to develop.
