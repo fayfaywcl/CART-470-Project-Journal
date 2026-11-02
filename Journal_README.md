@@ -1759,7 +1759,7 @@ This made me realize that a concept might sound interesting in theory but still 
 
 Jonathan felt that our Soccer concept was less interesting than the traditional version of soccer. Although we had explored both practice mode and competitive mode, we still needed to consider what would make our version distinctive rather than simply recreating a familiar sports game.
 
-**Mosaic**
+**Mosaic Maze**
 
 Jonathan was less interested in our original maze direction. He mentioned that the gameplay could feel like moving many blocks around, and that designing a maze would require careful consideration. For example, if a player pushed a block into a dead end, there might be no way to move it back, potentially preventing the player from completing the objective.
 
@@ -1780,6 +1780,8 @@ Another interesting possibility is that players could influence the appearance o
 I also think this direction could help address one of our earlier concerns about external motivation. People passing by might be hesitant to join a game if they are worried about interrupting other players or affecting their progress. In this concept, players could contribute blocks to a shared visual outcome, making participation feel more approachable and meaningful.
 
 After discussing the idea, our team agreed that this was a promising direction. Although Jonathan found all three original concepts interesting, he felt that the new island-and-block-path concept was more compelling. We therefore decided to make this our main focus after the midterm.
+
+ <img src="Media/Week7_UpdateMosaicGame.jpeg" alt="Week7_UpdateMosaicGame.jpeg" width="400" height="300">
 
 ### Understanding the Purpose of Prototyping
 
@@ -1813,51 +1815,67 @@ I started brainstorming several possible themes that could work with the island,
 
 **Space and Planets**
 
-The environment could be divided into different planets or islands, each with its own colour palette or visual identity. Players could travel between these areas to collect blocks and contribute to a larger mosaic in the centre.
+The environment could be divided into different planets or islands, each with its own colour palette or visual identity. Players could travel between these areas to collect blocks and contribute to a larger mosaic in the centre.I like this direction because it connects naturally with Jonathan's example of using space as a theme. It also provides opportunities to make each island visually distinct while maintaining a consistent overall environment.
 
-I like this direction because it connects naturally with Jonathan's example of using space as a theme. It also provides opportunities to make each island visually distinct while maintaining a consistent overall environment.
+ <p align="left">
+  <img src="Media/Week7_pixel island.png" alt="Week7_pixel island.png" width="300" height="300">
+  <img src="Media/Week7_space.png" alt="Week7_space.png" width="300" height="300">
+  <img src="Media/Week7_PixelSpace.png" alt="Week7_PixelSpace.png" width="300" height="300">
+  <img src="Media/Week7_SpaceIsland.png" alt="Week7_SpaceIsland.png" width="300" height="300">
+  <img src="Media/Week7_SpaceShip.png" alt="Week7_SpaceShip.png" width="300" height="300">
+  <img src="Media/Week7_BlocksArt.png" alt="Week7_BlocksArt.png" width="300" height="300">
+ </p>
 
 **Food and Restaurants**
 
-Another possibility is to divide the islands according to different cuisines, such as Chinese, Korean, American, Italian, and Japanese food. Alternatively, each island could represent a particular food, such as sushi, pizza, spaghetti, burgers, or noodles.
+Another possibility is to divide the islands according to different cuisines, such as Chinese, Korean, American, Italian, and Japanese food. Alternatively, each island could represent a particular food, such as sushi, pizza, spaghetti, burgers, or noodles. This could create a playful and familiar theme, with different colours and shapes representing different foods.
 
-This could create a playful and familiar theme, with different colours and shapes representing different foods.
+ <p align="left">
+  <img src="Media/Week7_PixelFood.png" alt="Week7_PixelFood.png" width="300" height="300">
+ </p>
 
 **Mining and Minerals**
 
-The islands could represent different materials or minerals, such as gold, silver, and coal. Players could collect blocks associated with each material and use them to build the mosaic or create paths.
+The islands could represent different materials or minerals, such as gold, silver, and coal. Players could collect blocks associated with each material and use them to build the mosaic or create paths. This theme could give the blocks a clear visual identity through their colours and textures, although we would need to consider how to keep the art style simple enough to implement.
 
-This theme could give the blocks a clear visual identity through their colours and textures, although we would need to consider how to keep the art style simple enough to implement.
+ <p align="left">
+  <img src="Media/Week7_MiningArt.jpg" alt="Week7_MiningArt.jpg" width="300" height="300">
+  <img src="Media/Week7_MiningArt(2).jpg" alt="Week7_MiningArt(2).jpg" width="300" height="300">
+ </p>
 
 **Music**
 
-I also considered using different music genres, such as R&B, classical, funk, jazz, hip-hop, and rock. Each island could represent a different genre through its colours, patterns, and visual atmosphere.
+I also considered using different music genres, such as R&B, classical, funk, jazz, hip-hop, and rock. Each island could represent a different genre through its colours, patterns, and visual atmosphere. This might offer an interesting artistic direction.
 
-This might offer an interesting artistic direction, although we would need to explore how to communicate the theme visually without making the gameplay more complicated.
-
-**Countries and World Cultures**
-
-Another idea is to use different countries or regions as the theme for the islands. This could connect to the idea of collaboration, with players contributing to a shared mosaic representing different places.
+ <p align="left">
+  <img src="Media/Week7_MusicArt.jpg" alt="Week7_MusicArt.jpg" width="300" height="400">
+  <img src="Media/Week7_MusicArt(2).jpg" alt="Week7_MusicArt(2).jpg" width="300" height="400">
+ </p>
 
 **Montréal Landmarks**
 
-Since the project is being developed in Montréal, we could also explore local landmarks and familiar places, such as Mount Royal, the Olympic Stadium, La Ronde, churches, Sainte-Catherine Street, the metro, and Chinatown.
+Since the project is being developed in Montréal, we could also explore local landmarks and familiar places, such as Mount Royal, the Olympic Stadium, La Ronde, churches, Sainte-Catherine Street, the metro, and Chinatown. This could give the installation a stronger local identity and make the game more recognizable to people who live in or visit Montréal.
 
-This could give the installation a stronger local identity and make the game more recognizable to people who live in or visit Montréal.
+ <p align="left">
+  <img src="Media/Week7_MontrealArt.jpg" alt="Week7_MontrealArt.jpg" width="300" height="300">
+  <img src="Media/Week7_MontrealArt(2).jpg" alt="Week7_MontrealArt(2).jpg" width="300" height="300">
+ </p>
 
 **Ice Cream Flavours**
 
-I also thought about using ice cream flavours as the main theme. Chocolate, strawberry, vanilla, mint chocolate, mango, Oreo, and blueberry could each be represented by a different colour.
+I also thought about using ice cream flavours as the main theme. Chocolate, strawberry, vanilla, mint chocolate, mango, Oreo, and blueberry could each be represented by a different colour. I like this idea because it connects directly to the coloured-block mechanic. The different flavours could give each island a distinct identity, while the blocks could combine to create a colourful mosaic.
 
-I like this idea because it connects directly to the coloured-block mechanic. The different flavours could give each island a distinct identity, while the blocks could combine to create a colourful mosaic.
+ <p align="left">
+  <img src="Media/Week7_IceCreamArt.jpg" alt="Week7_IceCreamArt.jpg" width="300" height="400">
+  <img src="Media/Week7_IceCream Shop.png" alt="Week7_IceCream Shop.png" width="400" height="300">
+ </p>
+
 
 ##### Looking for Artistic References
 
-Besides brainstorming themes, I started looking for artistic references that could help us visualize these ideas. I mainly focused on pixel art and 2D styles because they seem more feasible for the project and easier for future students to continue developing.
+Besides brainstorming themes, I started looking for artistic references that could help us visualize these ideas. I focused on pixel art and 2D styles because they seem more feasible for the project and easier for future students to continue developing.
 
-At this stage, I do not think we need to select a final theme immediately. Instead, we can bring several references to the team, compare their visual potential, and discuss how they would work with the gameplay.
-
-The important thing is to explore a range of possibilities while keeping the implementation realistic. We want the game to be visually interesting, but we also need to make sure the art style supports the central mechanics and can be developed within our constraints.
+At this stage, I do not think we need to select a final theme immediately. Instead, we can bring several references to the team, compare their visual potential, and discuss how they would work with the gameplay.The important thing is to explore a range of possibilities while keeping the implementation realistic. We want the game to be visually interesting, but we also need to make sure the art style supports the central mechanics and can be developed within our constraints.
 
 ### Teamwork and Learning to Ask for Help
 
