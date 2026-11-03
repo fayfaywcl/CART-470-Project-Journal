@@ -1747,7 +1747,7 @@ One thing I think we did well was our communication with Jonathan. The meeting w
 
 I think this kind of two-way communication was valuable because it allowed us to clarify our thinking and explore possibilities together. Instead of treating the presentation as a final proposal, we used it as a starting point for discussion and further development.
 
-#### Feedback on Tower One, Soccer, and Mosaic
+### Feedback on Tower One, Soccer, and Mosaic
 
 **Tower One**
 
