@@ -1949,7 +1949,7 @@ Going into the next week, I am excited to explore the artistic direction and gam
 
 ## JOURNAL-ENTRY-WK-8 MIDTERM PRESENTATIONS (29.10.2026 to 28.10.2026) 
 
-### Presentation Preparation
+#### Presentation Preparation
 
 Last week, our team focused on preparing for our in-class presentation and showing the progress we have made on our project so far. Before the presentation, Alex and I spent some time refining the PowerPoint slides together. Although I had already cut around 50% of the bullet points that our teammates originally provided and refined the wording, I still felt that some slides contained too much text and relied heavily on written explanations. Since we were presenting our project to the class, it would be better to use more images, videos, and visual references to support our points instead of asking the audience to read through too much information. 
 
@@ -1961,7 +1961,7 @@ During the practice, we also checked how the different sections connected with o
 
 Overall, I think this preparation helped us become more organized and confident before presenting. It was also a good reminder that preparing a presentation is not only about collecting information and putting it onto slides. We need to think about how the audience will receive the information, what they need to understand first, and how visuals can help communicate our ideas more effectively.
 
-### Class Presentation and Feedback
+#### Class Presentation and Feedback
 
 Overall, I think our presentation went really well. Although there are definitely still some areas that we could improve, I felt that we communicated our project naturally and supported one another throughout the presentation. One thing I particularly appreciated was seeing the whole group actively participate when answering questions from the class.
 
@@ -2043,6 +2043,12 @@ We could also exploring the brown and yellow colour palette . I liked how the pi
 
 At this stage, I do not think we need to settle on one palette yet. It would be better to compare different combinations and see which one fits the gameplay and exhibition environment best. We should also make sure that the colours are not only attractive but also functional, especially when they are used to distinguish different players or blocks.
 
+ <p align="left">
+  <img src="Media/Week8_DarkMode colour.jpg" alt="Week8_DarkMode colour.jpg" width="300" height="400">
+  <img src="Media/Week8_Pixel Game Font Canva Ideas.jpg" alt="Week8_Pixel Game Font Canva Ideas.jpg" width="300" height="400">
+  <img src="Media/Week8_Previous Gameplay colour.jpg" alt="Week8_Previous Gameplay colour.jpg" width="300" height="400">
+ </p>
+
 #### Character Design
 
 For character design, I think the most important thing is to keep the characters simple and visually distinguishable. Since our installation may support around 20 players, we need to consider how players can identify their own characters without having to remember too many small details.
@@ -2054,12 +2060,40 @@ Instead, I think larger visual differences, such as different outfits, jackets, 
 From my research, I explored several possible character styles:
 
 - **Basic shape-based characters:** Characters could have simple body shapes, such as round, square, or bread-shaped designs. They could be distinguished mainly through their colours and silhouettes.
+    <p align="left">
+      <img src="Media/Week8_CharacterCircle.jpg" alt="Week8_CharacterCircle.jpg" width="300" height="400">
+      <img src="Media/Week8_CharacterzCircle(2).jpg" alt="Week8_CharacterzCircle(2).jpg" width="300" height="400">
+      <img src="Media/Week8_CharacteCuppykin.jpg" alt="Week8_CharacteCuppykin.jpg" width="300" height="400">
+      <img src="Media/Week8_CharacteBoxs.jpg" alt="Week8_CharacteBoxs.jpg" width="300" height="400">
+     </p>
 - **Simple body designs:** Some characters could have very minimal bodies, such as a basic shape with only legs or a simple block-shaped head with a normal body.
+    <p align="left">
+      <img src="Media/Week8_Walk Cycles.jpg" alt="Week8_Walk Cycles.jpg" width="300" height="400">
+      <img src="Media/Week8_BoxGreenCharacter.png" alt="Week8_BoxGreenCharacter.png" width="300" height="400">
+      <img src="Media/Week8_OrangeGreenCharacter.png.png" alt="Week8_OrangeGreenCharacter.png.png" width="300" height="400">
+     </p>
 - **Theme-based characters:** We could explore designs based on cats, fire characters, or other recognizable objects and animals. These could give the characters more personality while keeping their appearance simple.
+    <p align="left">
+      <img src="Media/Week8_Customer character.png" alt="Week8_Customer character.png" width="300" height="400">
+      <img src="Media/Week8_CharacteFire!.jpg" alt="Week8_CharacteFire!.jpg" width="300" height="400">
+      <img src="Media/Week8_CharacterAnmial.jpg" alt="Week8_CharacterAnmial.jpg" width="300" height="400">
+     </p>
 - **Outfit-based characters:** Instead of changing the character's body shape, we could use different clothing, jackets, or headsets to create visual differences.
+    <p align="left">
+          <img src="Media/Week8_CharactePixel Plains.jpg" alt="Week8_CharactePixel Plains.jpg" width="300" height="400">
+          <img src="Media/Week8_Customer character.png" alt="Week8_Customer character.png" width="300" height="400">
+          <img src="Media/Week8_CharacteDungeon Cards.jpg" alt="Week8_CharacteDungeon Cards.jpg" width="300" height="400">
+         </p>
 - **Pixel-art NPC characters:** I also looked at different pixel-art NPC designs from games. I think these are interesting because they are simple, colour-based, and familiar to people who play games.
-
+    <p align="left">
+      <img src="Media/Week8_GamwNPC.jpg" alt="Week8_GamwNPC.jpg" width="300" height="400">
+      <img src="Media/Week8_GamwNPC(2).jpg" alt="Week8_GamwNPC(2).jpg" width="300" height="400">
+      <img src="Media/Week8_GamwNPC(1).jpg" alt="Week8_GamwNPC(1).jpg" width="300" height="400">
+     </p>
+  
 I also looked at *Dumb Ways to Die* as a reference. I like how its characters have relatively simple designs but still have their own personalities and identities through their shapes, expressions, and themes. This is something I think we could learn from. We do not necessarily need complicated character designs to make them interesting. Sometimes, having a clear silhouette, recognizable colour, and simple personality is enough.
+
+<img src="Media/Week8_DumbWaytoDie.jpg" alt="Week8_DumbWaytoDie.jpg" width="300" height="400">
 
 Another thing I considered is how the characters will look when they are displayed together. Since we may have many players participating at the same time, the designs should be consistent with one another. We should avoid making some characters much more detailed than others because it could make the overall visual style feel inconsistent.
 
