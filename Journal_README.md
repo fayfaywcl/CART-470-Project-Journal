@@ -1946,3 +1946,176 @@ I also learned more about the purpose of prototyping. We do not need to deliver 
 Most importantly, I appreciated the support from my teammates. Their willingness to help with the presentation reminded me that teamwork is about communication, trust, and understanding each other's availability. I do not need to carry the work alone, and asking for help can make our collaboration stronger.
 
 Going into the next week, I am excited to explore the artistic direction and gameplay possibilities with the team. We now have a clearer focus, but there is still room for creativity and experimentation. I hope we can continue to support one another while finding a direction that is both interesting to play and realistic to develop.
+
+## JOURNAL-ENTRY-WK-8 MIDTERM PRESENTATIONS (29.10.2026 to 28.10.2026) 
+
+### Presentation Preparation
+
+Last week, our team focused on preparing for our in-class presentation and showing the progress we have made on our project so far. Before the presentation, Alex and I spent some time refining the PowerPoint slides together. Although I had already cut around 50% of the bullet points that our teammates originally provided and refined the wording, I still felt that some slides contained too much text and relied heavily on written explanations. Since we were presenting our project to the class, it would be better to use more images, videos, and visual references to support our points instead of asking the audience to read through too much information. 
+
+Therefore, Alex and I went through the slides again and looked at where we could replace some of the text with visuals. We tried to make the presentation more visual while keeping the information accurate and making sure that we did not remove important details. I think this revision helped the slides work much better. The visuals gave the audience a clearer idea of our concepts and the direction we were exploring, while the shorter text allowed us to explain the details verbally during the presentation.
+
+Before the actual presentation, we also arranged a team meeting to distribute the speaking parts and practice together. We went through the whole presentation and discussed which sections needed more explanation, what information we had missed, and which parts could be shortened a little. This was helpful because sometimes we understood our own sections well but did not realize that certain information might not be clear enough to someone who was hearing about the project for the first time.
+
+During the practice, we also checked how the different sections connected with one another. We wanted to make sure that the presentation would flow naturally between speakers and that everyone knew when to introduce their points. Since the presentation had an 18–20 minute time limit, we also needed to control the timing and avoid spending too long explaining certain details. After practicing and adjusting the content, we managed to keep the presentation around 18 minutes.
+
+Overall, I think this preparation helped us become more organized and confident before presenting. It was also a good reminder that preparing a presentation is not only about collecting information and putting it onto slides. We need to think about how the audience will receive the information, what they need to understand first, and how visuals can help communicate our ideas more effectively.
+
+### Class Presentation and Feedback
+
+Overall, I think our presentation went really well. Although there are definitely still some areas that we could improve, I felt that we communicated our project naturally and supported one another throughout the presentation. One thing I particularly appreciated was seeing the whole group actively participate when answering questions from the class.
+
+I think this showed that we understood our project and the decisions we had made, rather than simply memorizing our own presentation sections. Since we regularly discuss our progress during team meetings and share what we have been working on, everyone had a general understanding of the project. When questions came up, we could answer based on our actual work, previous discussions, and the feedback we had received from Jonathan.
+
+There were, however, a few questions and suggestions related to the hardware, network considerations, and controller design. Some classmates asked whether we had considered different controller hardware, such as using an iPhone or a phone screen with different controls. There were also questions about how the network and hardware would support the installation.
+
+I really appreciated these questions and suggestions because they gave us another perspective on the project. Sometimes, when we focus on our assigned tasks, we may not think about every aspect of the overall installation. Hearing questions from people who were seeing our project from the outside helped me consider what other people might be concerned about and what they might expect us to have thought about.
+
+However, for the hardware side, we had already discussed this with Jonathan during our previous client meetings. He wanted us to concentrate mainly on the gameplay and prototype, while he would handle the hardware and network implementation himself. He also mentioned that he already had a server that he could use for the implementation. Therefore, our current responsibility was not to develop the entire technical infrastructure, but to explore the gameplay and make sure that the proposed experience could work.
+
+Regarding the controller, Jonathan had also already agreed on the direction of using a website-based controller and a link between the phone and the game. During our previous discussion, he had explained that this was the controller approach he wanted to use. Because of that, we had been focusing more on how the phone controller would interact with the Unity game and how accurately it could control the player's avatar, rather than exploring completely different controller hardware.
+
+This made me think about how we should handle feedback when it relates to something that the client has already considered or approved. I appreciate the suggestions from the class, and I think they are worth considering. However, I was not entirely sure whether we should bring all these suggestions back to Jonathan or simply acknowledge them as feedback outside our current scope.
+
+I think this is something I still need to learn about when working with clients. We should always be open to suggestions and different perspectives, but at the same time, we need to understand the client's requirements and respect the direction that has already been agreed upon. Not every suggestion necessarily means that we need to change our current direction. We need to consider whether the feedback is relevant to our responsibilities, whether it could affect the gameplay, and whether it is something the client actually wants us to investigate.
+
+During the last client meeting, Jonathan mentioned that he wanted us to continue focusing on one narrowed-down idea and spend more time developing the gameplay prototype and design thinking. Our team also agreed that this should be our main direction moving forward. Therefore, I think it is important that we do not become too distracted by exploring every possible hardware option when the client has already clarified which parts he wants us to focus on.
+
+That said, I still think it could be useful to share some of the class feedback with Jonathan, especially as a final update on what we have considered and discussed. We could explain that these questions came up during the presentation and that we had already discussed some of these decisions with him. This way, we can acknowledge the feedback while keeping our current direction clear.
+
+Overall, I think this experience helped me understand that client-based projects require us to balance different expectations. We need to listen to the client, consider feedback from other people, and understand which suggestions should influence our work. It is not always about accepting every suggestion, but about knowing how to evaluate it and decide what is most relevant to the project.
+
+### Inspiration from Other Groups' Presentations
+
+After our presentation, we also had the opportunity to listen to the other groups' projects. I found this part really inspiring because it was interesting to see how different teams were approaching their client projects and how they were solving different problems.
+
+There were several interesting ideas, but one project I particularly liked was Gabrielle's group's sound-based project. I thought their concept was really creative, especially the idea of connecting multiple phones and using their locations and sounds together to create an echo effect. I recently came across a video showing how bottles could be designed to create echoes inside their structure, producing an effect similar to a speaker. This reminded me of their project because it showed how the physical design of an object could influence the way sound behaves.
+
+I found it interesting how their project combined a physical and digital experience. Instead of relying on only one device, they were using multiple phones together to create the overall sound experience. I also thought their demo worked really well because it allowed the audience to understand the idea through an actual demonstration. It reminded me that a good prototype does not necessarily need to be complicated, as long as it can clearly communicate the main idea and show how the interaction works.
+
+I also found the Pippin group's project interesting because it shared some similarities with ours in terms of game design. However, their focus was more on helping users learn how to make games or teaching players about gameplay design. It was interesting to see how they approached the experience from an educational perspective, while our project is more focused on creating an accessible public installation that encourages people to participate.
+
+One thing I took away from listening to their presentation was that visual design details, including typography, are also very important. Before this, I had mainly been focusing on the overall theme. However, after seeing their presentation, I started thinking more about how the font style could contribute to the identity of a game.
+
+I realized that typography is not just something we add to display the title or instructions. It can also help communicate the personality and atmosphere of the game. For example, a pixel-style font could immediately make the game feel more retro or arcade-like, while a bold and playful font could make the experience feel more energetic. This inspired me to continue my visual research with more attention to these smaller components.
+
+### Team Work Distribution and Next Meeting
+
+So for this week, we also discussed how to distribute the work so that we could continue making progress in different areas.
+
+Alex will continue handling the Unity prototype and the placeholder assets. He will try to implement our latest game concept into the prototype so that we can start seeing how the gameplay works in practice. I think this is an important step because we have spent quite some time discussing the idea, and now we need to see how it actually works when translated into the game.
+
+Hubert will focus on the controller prototype. We are currently trying to see whether we can accurately use a phone as a controller to control the avatar in the Unity game. This is important because even if the gameplay itself works well, the overall experience still depends on whether players can interact with it easily through their phones.
+
+Meanwhile, Bianca, Emma, and I will continue researching the visual design and presentation. We will focus on the different visual components, including typography, colour palettes, and character designs. We want to compare the references we have collected and narrow down the possible visual directions rather than continuing to explore too many unrelated ideas.
+
+During our next team meeting, we will review the progress of the Unity prototype and controller prototype. We will also share our visual research and discuss which direction we should focus on. Hopefully, by then, we will have a clearer idea of how the gameplay and visual design can work together.
+
+### Continuing Visual Research: Typography and Colour Palette
+
+Last week, my visual research mainly focused on exploring possible overall themes and artistic directions for our game. This week, I wanted to look more closely at the smaller visual components that could help establish the game's identity. I focused on three main areas: typography, colour palettes, and character design.
+
+I think this is an important next step because even if we decide on an overall theme, we still need to consider how each visual element will be presented. The typography, colours, characters, and interface should all work together rather than looking like separate design choices. These smaller components can also influence how players understand the game and how easily they can recognize important information.
+
+#### Typography
+
+For typography, I found that pixel-art fonts could work particularly well with our project. Since we previously discussed with Jonathan that a 2D art or pixel-art style would be more manageable for the next CART 415 students to continue developing, I think using some typography (like pixel-art) would help keep the visual direction consistent.
+
+One font I researched was **Press Start 2P.** I think this font has a recognizable retro-game appearance and could work well for game titles, buttons, or other short interface elements. It immediately reminds me of classic arcade games, which could fit the playful and interactive nature of our installation.
+
+Another font I found interesting was **Bungee Inline**. Compared with Press Start 2P, it has a more decorative and playful appearance while still being bold and clear. I think it could be a good option for the game title because it has a strong visual identity without looking too complicated.
+
+I also looked at **Ultra**, which has a heavier and more traditional display-font appearance. It could be useful for titles or headings if we decide to explore a different visual direction rather than going fully pixel-art.
+
+I think the font selection should depend on the overall theme we eventually choose. We need something that looks visually interesting but is still readable, especially because the game will be displayed on a large screen. Since people may be standing at different distances from the projection, the font should not be too thin or complicated. It should be easy to recognize quickly without requiring players to spend too much time reading.
+
+#### Colour Palette
+
+For the colour palette, I considered a few different directions.
+
+One possibility is using a darker interface or dark-mode style. I think this could give the game a more modern appearance and work well in an exhibition environment, especially if the surrounding space does not have strong lighting. A darker background could also make colourful characters, blocks, and other game elements stand out more clearly.
+
+I also think the display environment is worth considering. Since the installation may remain on for extended periods during testing or an exhibition, we need to think about how the colours and brightness will look on the actual screen or projector. A darker visual direction could help create a more comfortable viewing experience, although we would still need to test how it appears in the exhibition space.
+
+Another direction would be to use a more colourful palette with brighter combinations. This could make the game feel more energetic, playful, and inviting to people passing by. Since our game is intended to encourage public participation, I think using colours that are easy to distinguish could also help players understand different characters, blocks, and areas.
+
+We could also exploring the brown and yellow colour palette . I liked how the pixel-art visuals, bold typography, and energetic colours worked together to create a playful game identity. It already has a clear game-like appearance, so it could be useful to keep this direction as one of our references rather than starting completely from scratch.
+
+At this stage, I do not think we need to settle on one palette yet. It would be better to compare different combinations and see which one fits the gameplay and exhibition environment best. We should also make sure that the colours are not only attractive but also functional, especially when they are used to distinguish different players or blocks.
+
+#### Character Design
+
+For character design, I think the most important thing is to keep the characters simple and visually distinguishable. Since our installation may support around 20 players, we need to consider how players can identify their own characters without having to remember too many small details.
+
+For example, using tiny differences such as earrings or glasses might not be enough because they would be difficult to recognize on a large screen, especially when many characters appear together. Even if each character technically has a different accessory, players may not notice the difference during gameplay.
+
+Instead, I think larger visual differences, such as different outfits, jackets, or headsets, could work better. These elements are more recognizable and can help players identify their characters more easily. We could also consider using different basic shapes and colours to distinguish them.
+
+From my research, I explored several possible character styles:
+
+- **Basic shape-based characters:** Characters could have simple body shapes, such as round, square, or bread-shaped designs. They could be distinguished mainly through their colours and silhouettes.
+- **Simple body designs:** Some characters could have very minimal bodies, such as a basic shape with only legs or a simple block-shaped head with a normal body.
+- **Theme-based characters:** We could explore designs based on cats, fire characters, or other recognizable objects and animals. These could give the characters more personality while keeping their appearance simple.
+- **Outfit-based characters:** Instead of changing the character's body shape, we could use different clothing, jackets, or headsets to create visual differences.
+- **Pixel-art NPC characters:** I also looked at different pixel-art NPC designs from games. I think these are interesting because they are simple, colour-based, and familiar to people who play games.
+
+I also looked at *Dumb Ways to Die* as a reference. I like how its characters have relatively simple designs but still have their own personalities and identities through their shapes, expressions, and themes. This is something I think we could learn from. We do not necessarily need complicated character designs to make them interesting. Sometimes, having a clear silhouette, recognizable colour, and simple personality is enough.
+
+Another thing I considered is how the characters will look when they are displayed together. Since we may have many players participating at the same time, the designs should be consistent with one another. We should avoid making some characters much more detailed than others because it could make the overall visual style feel inconsistent.
+
+The pixel-art NPC references I collected also gave me some ideas about how we could approach this. They often use a limited number of colours and simple shapes, but they still look different from one another. I think this style would fit well with our pixel-art direction and would also be feasible for future students to develop.
+
+Overall, I think character design should focus on being simple, recognizable, and consistent. We need to find a balance between giving players enough customization to make the experience interesting and keeping the process simple enough that people can join the game quickly.
+
+### Gameplay Considerations: Character Assignment
+
+Besides the visual appearance of the characters, I also started thinking about how players should be assigned their characters when they join the game.
+
+Personally, I think automatically assigning a character to a player could be a good starting point. This would allow players to enter the game quickly without spending too much time choosing their appearance. Since our project is a public installation, we should try to reduce the number of steps required before someone can participate. If players have to spend a long time selecting a character before entering the game, it might discourage some people from joining.
+
+Automatic assignment could also reduce the chance of multiple players selecting the same character design. Since we may have around 20 players, having different characters assigned automatically could make it easier to distinguish players during gameplay.
+
+On the other hand, allowing players to choose or customize their characters could make the experience more interesting. It would give players more control over their appearance and might help them feel more connected to the game. I think this could be especially useful if the character design becomes an important part of the overall theme.
+
+However, we need to consider whether this extra interaction is worth the additional time and complexity. If the main goal is to let people join and participate quickly, then automatic assignment might be more suitable. If customization is something that adds meaningful value to the experience, then we could explore a simpler selection system.
+
+I think this is something we can discuss further when we have a more concrete prototype. It would be easier to understand the advantages and disadvantages of each approach once we can test how the joining process actually feels.
+
+### Exhibition Considerations and Living Contract
+
+Another idea I have been thinking about is the exhibition setup. Last week, Sabine mentioned the possibility of having an exhibition where we invite all the clients to see the projects. This made me think about how our game would look and function when it is presented in a larger space.
+
+If we have the opportunity to display our game through a projector, I think it would be useful to test how the visuals appear on a large screen. For example, we could check whether the characters, typography, colours, and interface elements are still clear from a distance. Some details that look fine on a computer monitor might become too small or difficult to recognize when projected onto a larger surface.
+
+We should also consider how people would approach the installation and understand what they need to do. Since our project is intended for public participation, the visual presentation should help attract people's attention and communicate the basic gameplay without requiring too much explanation.
+
+However, I do not think this needs to be our immediate focus next week. For now, we should continue developing the gameplay and visual direction first. Once we have a more stable prototype, we can start considering how it will be presented in an exhibition environment and what adjustments might be needed for the actual display.
+
+We also need to update our living contract based on how the project has changed over the past few weeks and the feedback we have received from Jonathan. As Sabine mentioned, we should not overwrite the original living contract. Instead, we can create a second version to reflect the changes in our project direction, responsibilities, and understanding of the project.
+
+I think this is a useful way to document our development process. Our original contract represents what we initially understood about the project, while the second version can show how our goals and responsibilities have changed after meeting with the client and narrowing down our idea. It would also help future students understand why we made certain decisions and how the project developed over time.
+
+### Reflection
+
+Overall, I think this week was a good opportunity for us to see how much progress we have made as a team. I was happy with how our presentation went, especially because everyone was able to explain their work and actively respond to questions. It showed me that having regular discussions and sharing progress is important because it helps everyone understand the project as a whole, rather than only knowing their own responsibilities.
+
+I also learned that preparing a presentation requires us to think about the audience's perspective. Even after cutting a lot of text, I realized that some slides could still be difficult to follow if they relied too much on written explanations. Adding more images and videos helped us communicate our ideas more clearly. I think this is something I can continue improving in future presentations, especially when presenting design concepts or prototypes.
+
+Another thing I reflected on was how to handle feedback in a client-based project. I appreciate the suggestions from the class, and I think it is important to listen to different perspectives. However, I also realized that we need to understand the scope of our responsibilities and the decisions that have already been agreed upon with the client. We should not automatically change our direction every time someone suggests something different. Instead, we need to evaluate whether the feedback is relevant and whether it can help us improve the project.
+
+I also enjoyed listening to the other groups' presentations because it gave me new inspiration and helped me look at our project from a different perspective. Gabrielle's group's sound-based project showed me how creative interactions can be developed through a combination of physical and digital elements. The Pippin group's presentation also reminded me that small visual details, such as typography, can have a strong impact on the overall identity of a game.
+
+For my own visual research, I realized that developing a visual direction involves more than choosing an overall theme. Typography, colour palettes, character shapes, and small interface elements all contribute to how people understand and experience the game. Even if we have a strong overall concept, these smaller components still need to work together to create a consistent and recognizable style.
+
+I am also glad that our team has started dividing the work more clearly between the Unity prototype, controller prototype, and visual research. This allows us to make progress in different areas at the same time while still bringing everything together during our meetings. I think this will help us move faster and give us more opportunities to test and refine the idea instead of spending too much time discussing possibilities without trying them out.
+
+### Next Steps
+
+For next week, our main goal is to review the progress of the Unity and controller prototypes and narrow down our visual direction.
+
+- **Unity prototype:** Alex will continue implementing our latest gameplay idea and placeholder assets so that we can test the main interactions.
+- **Controller prototype:** Hubert will continue testing the phone-based controller and its connection to the Unity game, especially whether the phone can accurately control the player's avatar.
+- **Visual research:** Bianca, Emma, and I will continue comparing typography, colour palettes, character designs, and other visual references. We will try to narrow down the options and decide which direction best supports the gameplay.
+- **Team discussion:** During our next meeting, we will review the prototype progress, share our research, and decide which visual direction we want to focus on.
+
+In the next few weeks, I also hope we can start testing the visual design together with the gameplay prototype. This will help us see whether the characters and interface are clear enough, whether the visual style fits the overall experience, and whether the game can be easily understood by someone who has never played it before. I am looking forward to seeing how the different parts of our work come together in the next stage.
