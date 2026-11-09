@@ -2021,11 +2021,11 @@ I think this is an important next step because even if we decide on an overall t
 
 For typography, I found that pixel-art fonts could work particularly well with our project. Since we previously discussed with Jonathan that a 2D art or pixel-art style would be more manageable for the next CART 415 students to continue developing, I think using some typography (like pixel-art) would help keep the visual direction consistent.
 
-One font I researched was **Press Start 2P.** I think this font has a recognizable retro-game appearance and could work well for game titles, buttons, or other short interface elements. It immediately reminds me of classic arcade games, which could fit the playful and interactive nature of our installation.
+One font I researched was [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P?preview.layout=grid&query=Press+Start+2P). I think this font has a recognizable retro-game appearance and could work well for game titles, buttons, or other short interface elements. It immediately reminds me of classic arcade games, which could fit the playful and interactive nature of our installation.
 
-Another font I found interesting was **Bungee Inline**. Compared with Press Start 2P, it has a more decorative and playful appearance while still being bold and clear. I think it could be a good option for the game title because it has a strong visual identity without looking too complicated.
+Another font I found interesting was [Bungee Inline](https://fonts.google.com/specimen/Bungee+Inline?preview.layout=grid&preview.script=Latn&query=Bungee+Inline). Compared with Press Start 2P, it has a more decorative and playful appearance while still being bold and clear. I think it could be a good option for the game title because it has a strong visual identity without looking too complicated.
 
-I also looked at **Ultra**, which has a heavier and more traditional display-font appearance. It could be useful for titles or headings if we decide to explore a different visual direction rather than going fully pixel-art.
+I also looked at [Ultra](https://fonts.google.com/specimen/Ultra?preview.layout=grid&categoryFilters=Serif:%2FSerif%2FFat+Face&preview.script=Latn), which has a heavier and more traditional display-font appearance. It could be useful for titles or headings if we decide to explore a different visual direction rather than going fully pixel-art.
 
 I think the font selection should depend on the overall theme we eventually choose. We need something that looks visually interesting but is still readable, especially because the game will be displayed on a large screen. Since people may be standing at different distances from the projection, the font should not be too thin or complicated. It should be easy to recognize quickly without requiring players to spend too much time reading.
 
