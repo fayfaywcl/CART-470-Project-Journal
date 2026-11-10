@@ -2047,6 +2047,7 @@ At this stage, I do not think we need to settle on one palette yet. It would be 
   <img src="Media/Week8_DarkMode colour.jpg" alt="Week8_DarkMode colour.jpg" width="300" height="400">
   <img src="Media/Week8_Pixel Game Font Canva Ideas.jpg" alt="Week8_Pixel Game Font Canva Ideas.jpg" width="300" height="400">
   <img src="Media/Week8_Previous Gameplay colour.jpg" alt="Week8_Previous Gameplay colour.jpg" width="300" height="400">
+  <img src="Media/Week8_access exclusive colorful fonts here.jpg" alt="Week8_access exclusive colorful fonts here.jpg" width="300" height="400">
  </p>
 
 #### Character Design
@@ -2080,8 +2081,7 @@ From my research, I explored several possible character styles:
      </p>
 - **Outfit-based characters:** Instead of changing the character's body shape, we could use different clothing, jackets, or headsets to create visual differences.
     <p align="left">
-          <img src="Media/Week8_CharactePixel Plains.jpg" alt="Week8_CharactePixel Plains.jpg" width="300" height="400">
-          <img src="Media/Week8_Customer character.png" alt="Week8_Customer character.png" width="300" height="400">
+          <img src="Media/Week8_Week8_CharactePixel Plains.jpg" alt="Week8_CharactePixel Plains.jpg" width="300" height="400">
           <img src="Media/Week8_CharacteDungeon Cards.jpg" alt="Week8_CharacteDungeon Cards.jpg" width="300" height="400">
          </p>
 - **Pixel-art NPC characters:** I also looked at different pixel-art NPC designs from games. I think these are interesting because they are simple, colour-based, and familiar to people who play games.
