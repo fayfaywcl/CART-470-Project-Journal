@@ -2081,7 +2081,7 @@ From my research, I explored several possible character styles:
      </p>
 - **Outfit-based characters:** Instead of changing the character's body shape, we could use different clothing, jackets, or headsets to create visual differences.
     <p align="left">
-          <img src="Media/Week8_Week8_CharactePixel Plains.jpg" alt="Week8_CharactePixel Plains.jpg" width="300" height="400">
+          <img src="Media/Week8_CharactePixel Plains.jpg" alt="Week8_CharactePixel Plains.jpg" width="300" height="400">
           <img src="Media/Week8_CharacteDungeon Cards.jpg" alt="Week8_CharacteDungeon Cards.jpg" width="300" height="400">
          </p>
 - **Pixel-art NPC characters:** I also looked at different pixel-art NPC designs from games. I think these are interesting because they are simple, colour-based, and familiar to people who play games.
