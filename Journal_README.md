@@ -2223,11 +2223,24 @@ For the ice cream theme, I explored different ice cream flavours and visual refe
 
 I also initially explored an Oreo flavour using black and white, but the result did not look as visually appealing as I expected. Therefore, I decided to use mango as another option because its yellow and orange colours created a more interesting combination.
 
+ <p align="left">
+      <img src="Media/Week9_ IceCream (5).png" alt="Week9_ IceCream (5).png" width="300" height="400">
+      <img src="Media/Week9_ IceCream (4).png" alt="Week9_ IceCream (4).png" width="300" height="400">
+      <img src="Media/Week9_ IceCream (3).png" alt="Week9_ IceCream (3).png" width="300" height="400">
+      <img src="Media/Week9_ IceCream (1).png" alt="Week9_ IceCream (1).png" width="300" height="400">
+      <img src="Media/Week9_ IceCream (2).png" alt="Week9_ IceCream (2).png" width="300" height="400">
+     </p>
+
 One thing I liked about the ice cream theme was the possibility of using a more hand-painted appearance. I felt that a wall-painting or painted-texture style could work well because the colours blend together in a way that reminds me of ice cream. It could make the environment feel more playful and artistic instead of looking too mechanical or overly structured.
 
 I also started thinking about how the platforms could be represented. Since our gameplay involves players moving blocks and creating paths, I wanted to see whether the platforms themselves could follow the ice cream theme.
 
 I created a cone-shaped platform as one possible design. I also started working on a bowl-shaped version to provide another option. I thought having different shapes would help us compare how the environment could look and whether the platforms should be more directly related to the theme or remain simple and functional.
+
+ <p align="left">
+      <img src="Media/Week9_ platform_design (2).png" alt="Week9_ platform_design (2).png" width="300" height="400">
+      <img src="Media/Week9_ platform_design (1).png" alt="Week9_ platform_design (1).png" width="300" height="400">
+     </p>
 
 2. **Seasons Theme**
 
@@ -2240,7 +2253,18 @@ I considered the following possibilities:
 - **Summer:** Green tones and a more vibrant outdoor atmosphere.
 - **Winter:** Light blue and white colours, with snow and colder environmental elements.
 
+ <p align="left">
+      <img src="Media/Week9_ autumn.png" alt="Week9_ autumn.png" width="300" height="400">
+      <img src="Media/Week9_spring.png" alt="Week9_spring.png" width="300" height="400">
+      <img src="Media/Week9_ summer.png" alt="Week9_ summer.png" width="300" height="400">
+      <img src="Media/Week9_ winter.png" alt="Week9_ winter.png" width="300" height="400">
+     </p>
+
 I also created a wooden base for the seasonal platforms. My idea was that the seasonal elements could be placed on top of the wooden base, so the different platforms would still share a consistent structure while having different seasonal appearances.
+
+ <p align="left">
+      <img src="Media/Week9_ platform_design (3).png" alt="Week9_ platform_design (3).png" width="300" height="400">
+     </p>
 
 I think this could be an interesting direction because each season has its own recognizable visual identity. It also gives us a lot of opportunities to explore different environmental details, such as leaves, flowers, snow, and other natural elements.
 
@@ -2256,6 +2280,12 @@ One thing I noticed during this process was that some of the visual assets I ini
 
 Therefore, I went back and removed the background colours from some of the mock-up graphics so that I could place the elements more naturally on top of the screenshots. This made it easier to see how the actual designs would look in the game rather than having the mock-ups appear like separate images pasted onto the screen.
 
+ <p align="left">
+      <img src="Media/Week9_ platform_design (2).png" alt="Week9_ platform_design (2).png" width="300" height="400">
+      <img src="Media/Week9_ platform_design (1).png" alt="Week9_ platform_design (1).png" width="300" height="400">
+      <img src="Media/Week9_ platform_design (3).png" alt="Week9_ platform_design (3).png" width="300" height="400">
+     </p>
+
 I also started experimenting with the path designs. After looking at the Unity screenshots more closely, I realized that the paths should be represented using blocks, since this is how the gameplay mechanic currently works. Therefore, I created two different block designs for the paths.
 
 One version was more artistic and stylized, while the other was more straightforward and simple. I wanted to compare how much visual detail we could add without making the paths too distracting. Since players need to understand where they can walk and how the paths connect different areas, readability is particularly important.
@@ -2265,6 +2295,32 @@ I also kept the island blocks visible in the mock-ups so that we could compare h
 When looking at the mock-ups, I started considering whether having too many colours, patterns, and decorative elements could create visual noise. Since the game will be displayed on a large screen, we need to make sure that the paths, islands, and player characters remain easy to distinguish. We do not want the artistic design to distract players from understanding the actual gameplay.
 
 I think this is one of the main reasons why creating mock-ups using the Unity screenshots is important. It allows us to evaluate the design in context and consider both its visual appearance and its functionality.
+
+**Ice cream theme:** 
+
+ <p align="left">
+      <img src="Media/Week9_Gameplay_Icecream (1).png" alt="Week9_Gameplay_Icecream (1).png" width="300" height="400">
+      <img src="Media/Week9_Gameplay_Icecream (2).png" alt="Week9_Gameplay_Icecream (2).png" width="300" height="400">
+      <img src="Media/Week9_Gameplay_Icecream (3).png" alt="Week9_Gameplay_Icecream (3).png" width="300" height="400">
+      <img src="Media/Week9_Gameplay_Icecream (4).png" alt="Week9_Gameplay_Icecream (4).png" width="300" height="400">
+     </p>
+
+**Season theme:**
+
+ <p align="left">
+      <img src="Media/Week9_Gameplay_Season (1).png" alt="Week9_Gameplay_Season (1).png" width="300" height="400">
+      <img src="Media/Week9_Gameplay_Season (2).png" alt="Week9_Gameplay_Season (2).png" width="300" height="400">
+      <img src="Media/Week9_Gameplay_Season (3).png" alt="Week9_Gameplay_Season (3).png" width="300" height="400">
+     </p>
+
+**Block showcase**
+
+ <p align="left">
+      <img src="Media/Week9_Gameplay_block (1).png" alt="Week9_Gameplay_block (1).png" width="300" height="400">
+      <img src="Media/Week9_Gameplay_block (2).pngg" alt="Week9_Gameplay_block (2).png" width="300" height="400">
+      <img src="Media/Week9_Gameplay_block (3).png" alt="Week9_Gameplay_block (3).png" width="300" height="400">
+      <img src="Media/Week9_Gameplay_block (4).png" alt="Week9_Gameplay_block (4).png" width="300" height="400">
+     </p>
 
 #### Feedback from Friends and Family
 
