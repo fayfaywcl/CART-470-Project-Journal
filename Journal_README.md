@@ -2155,3 +2155,181 @@ For next week, our main goal is to review the progress of the Unity and controll
 In the next few weeks, I also hope we can start testing the visual design together with the gameplay prototype. This will help us see whether the characters and interface are clear enough, whether the visual style fits the overall experience, and whether the game can be easily understood by someone who has never played it before. I am looking forward to seeing how the different parts of our work come together in the next stage.
 
 ## JOURNAL-ENTRY-WK-9 OPEN SESSION AND TEAM MEETINGS (12.11.2026 to 18.11.2026) 
+
+### Team Meeting
+
+During our team meeting, we discussed the progress of the Unity prototype, phone controller, our overall project priorities, and the different visual directions we had been exploring.
+
+For the Unity prototype, Alex had completed several important mechanics, including block pushing, path creation, the island environment, and player spawning points. This gave us a better idea of how our original gameplay concept would work in the actual game.
+
+Hubert also shared his progress on the phone-based controller. He had developed a website-based controller prototype that players could access through their phones. In addition, his prototype included a phone-orientation prompt that asks players to rotate their phones horizontally if they are holding them vertically. He also researched how to connect the web controller to Unity and found that WebSocket seemed to be the only feasible approach based on our current requirements. 
+
+However, we agreed that the technical connection should not be our main priority, as Jonathan had already mentioned that he would handle the hardware and network implementation. Instead, we should focus more on the gameplay, visual design, and controller experience.
+
+#### Visual Research Discussion and Team Feedback
+
+For the visual presentation, we shared our individual research and discussed the different directions we had been exploring. I explained my research on the overall theme and character design, while Bianca and Emma presented their own visual references.
+
+For my part, I introduced the different theme ideas I had been researching, including the ice cream concept and the seasonal theme. I also showed some character design references and explained how I thought the characters could be kept simple while still being recognizable.
+
+I received quite positive feedback on the ice cream idea, which I was happy about. I think it has potential because the different flavours can naturally provide us with different colour palettes and visual identities. It could also create more opportunities for playful environmental and character designs. Since our gameplay already involves collecting and moving blocks, the ice cream theme could give these interactions a more interesting visual presentation.
+
+Bianca focused more on the tile textures and the appearance of the paths. She explored different materials and visual styles, including glass-like textures and other possible designs for the paths. I also found her watercolour art-style idea interesting because it could give the environment a softer and more artistic appearance. It is a different direction from the more traditional pixel-art style, so I think it is worth considering how it could fit with our game.
+
+Emma focused more on the overall design style, including character styles, colour themes, different colour palettes, and stylized objects. I think having these different research directions is useful because we can compare the visual possibilities rather than immediately committing to one style.
+
+Also, through the meeting with Sabine, she mentioned that even if some of our mock-ups are not selected for the final direction, they are still useful as references and documentation. I think this is important because our work is not only about producing one final design. We are also exploring different possibilities and recording the decisions we make along the way. Even if a particular design is not used, it can still help explain what we considered and why we eventually chose another direction.
+
+This also made me feel less worried about experimenting with different visual styles. We do not need every mock-up to become part of the final game. The purpose is to explore, compare, and understand how the different ideas could work before narrowing them down.
+
+Overall, the meeting helped us clarify our responsibilities, share our progress, and decide where to focus our remaining time. We could then move forward with the prototype and visual research without spending too much time on technical areas outside our project scope.
+
+### Team Work Distribution and This Week's Tasks
+
+After discussing our current progress and visual research, we also distributed the work for this week. Since we had narrowed down the visual direction to two themes, everyone would now focus on developing mock-ups based on these ideas rather than continuing to collect general references.
+
+For the Unity prototype, Alex will continue working on the game development. His focus will now shift more towards demonstrating the multiplayer experience. For example, we want to see how the game looks and works when two players participate at the same time, rather than only showing a single-player experience. This is important because multiplayer participation is one of the main aspects of our project. We need to understand how multiple players appear in the environment and how they interact with the blocks and paths.
+
+Hubert will be responsible for continuing the phone-based controller prototype. During our discussion, I also shared some ideas about the controller interface and its interactions so that he could use them as a starting point for this week's implementation.
+
+For example, I suggested having players scan a QR code to access the web-based controller. Each player would be assigned a different avatar when joining, and that avatar would remain the same throughout their session. I also suggested adding a confirmation pop-up when players press the leave button, so they can confirm or cancel instead of accidentally leaving the game. For the tutorial, I proposed having it open in a separate pop-up with a next button and a close button in the top corner. It should briefly explain the main controls, the player's avatar, the game rules, and what players are expected to achieve. I also thought it would be helpful to include images alongside the text rather than making the tutorial entirely text-based. This would make the instructions easier to understand, especially for people who are only interacting with the installation for a short time. 
+
+For the visual design, Bianca, Emma, and I will continue creating mock-ups based on the two themes we have narrowed down:
+
+- **Ice Cream:** Explore different flavours, their colour palettes, and how the environment could represent the theme. We also discussed the idea of using a spoon as a possible character design and exploring how the platforms could relate to the concept.
+- **Seasons:** Explore different seasonal environments, such as snow for winter and leaves for autumn, while considering how the four seasons could share a consistent visual style.
+
+Each of us will explore the mock-ups from a slightly different perspective:
+
+- **My focus:** I will continue exploring the pixel-art direction and developing the visual mock-ups for the themes, platforms, and blocks.
+- **Bianca's focus:** She will explore the watercolour style and how the different textures and visual elements could work together.
+- **Emma's focus:** She will continue exploring the overall visual feel, including character styles, colour palettes, and stylized objects.
+- **Hubert:** Besides working on the controller, he may also explore some mock-ups, such as avatar designs or how the overall theme could be presented visually, depending on the workload.
+
+### Developing the Two Visual Themes
+
+After sharing our research and discussing everyone's ideas, we decided to focus on two main visual directions: **Ice Cream** and **Seasons**. These themes give us different possibilities to explore in terms of colours, environments, platforms, and character designs.
+
+1. **Ice Cream Theme**
+
+The first direction is the ice cream theme. 
+
+For the ice cream theme, I explored different ice cream flavours and visual references to see how they could be translated into the game's environment.  Each flavour could have its own colour palette and visual identity:
+
+- **Blueberry:** A combination of blue and purple.
+- **Mint Chocolate:** Green, dark brown, and chocolate-inspired colours.
+- **Strawberry:** Pink and red tones.
+- **Mango:** Yellow and orange tones.
+
+I also initially explored an Oreo flavour using black and white, but the result did not look as visually appealing as I expected. Therefore, I decided to use mango as another option because its yellow and orange colours created a more interesting combination.
+
+One thing I liked about the ice cream theme was the possibility of using a more hand-painted appearance. I felt that a wall-painting or painted-texture style could work well because the colours blend together in a way that reminds me of ice cream. It could make the environment feel more playful and artistic instead of looking too mechanical or overly structured.
+
+I also started thinking about how the platforms could be represented. Since our gameplay involves players moving blocks and creating paths, I wanted to see whether the platforms themselves could follow the ice cream theme.
+
+I created a cone-shaped platform as one possible design. I also started working on a bowl-shaped version to provide another option. I thought having different shapes would help us compare how the environment could look and whether the platforms should be more directly related to the theme or remain simple and functional.
+
+2. **Seasons Theme**
+
+The second direction is the seasonal theme. Instead of using different ice cream flavours to create visual differences, this direction would use the four seasons and their associated colours and environmental elements.
+
+I considered the following possibilities:
+
+- **Autumn:** Golden, orange, and brown colours, with falling leaves.
+- **Spring:** Brighter colours, flowers, and blooming environments.
+- **Summer:** Green tones and a more vibrant outdoor atmosphere.
+- **Winter:** Light blue and white colours, with snow and colder environmental elements.
+
+I also created a wooden base for the seasonal platforms. My idea was that the seasonal elements could be placed on top of the wooden base, so the different platforms would still share a consistent structure while having different seasonal appearances.
+
+I think this could be an interesting direction because each season has its own recognizable visual identity. It also gives us a lot of opportunities to explore different environmental details, such as leaves, flowers, snow, and other natural elements.
+
+However, I think we still need to consider how visually consistent the four seasons would look together. Since they use quite different colours and environmental elements, we need to make sure that they still feel like part of the same game rather than four completely unrelated environments.
+
+### Creating Visual Mock-ups Using the Unity Prototype
+
+After narrowing down the themes, I started creating more concrete visual mock-ups using screenshots from Alex's Unity prototype.
+
+I thought this would be more useful than presenting the visual designs separately because we could see how they would actually look inside the game. I used Alex's screenshots as the base and placed my designs on top of them to test how the different colours, platforms, and environmental elements would appear in the existing layout.
+
+One thing I noticed during this process was that some of the visual assets I initially created had their own backgrounds. This made it difficult to place them directly onto the Unity screenshots because the background of the design did not blend naturally with the game environment.
+
+Therefore, I went back and removed the background colours from some of the mock-up graphics so that I could place the elements more naturally on top of the screenshots. This made it easier to see how the actual designs would look in the game rather than having the mock-ups appear like separate images pasted onto the screen.
+
+I also started experimenting with the path designs. After looking at the Unity screenshots more closely, I realized that the paths should be represented using blocks, since this is how the gameplay mechanic currently works. Therefore, I created two different block designs for the paths.
+
+One version was more artistic and stylized, while the other was more straightforward and simple. I wanted to compare how much visual detail we could add without making the paths too distracting. Since players need to understand where they can walk and how the paths connect different areas, readability is particularly important.
+
+I also kept the island blocks visible in the mock-ups so that we could compare how the path design and island design would look together. I created different versions, including one screenshot with the path and another without it. This was useful because it allowed us to compare the overall appearance and see whether the additional path design made the environment feel too crowded.
+
+When looking at the mock-ups, I started considering whether having too many colours, patterns, and decorative elements could create visual noise. Since the game will be displayed on a large screen, we need to make sure that the paths, islands, and player characters remain easy to distinguish. We do not want the artistic design to distract players from understanding the actual gameplay.
+
+I think this is one of the main reasons why creating mock-ups using the Unity screenshots is important. It allows us to evaluate the design in context and consider both its visual appearance and its functionality.
+
+#### Feedback from Friends and Family
+
+After creating the visual mock-ups, I also shared some of the designs with my friends and family to get their opinions.
+
+I thought this would be a useful first step because our installation is intended for a public exhibition, where the audience could include people of different ages and backgrounds. It would be good to understand whether people who are not directly involved in our project can recognize the theme and understand the visual direction.
+
+Overall, they quite liked the designs, which was encouraging. It was nice to see that the different themes and visual elements could be understood and appreciated by people outside our team.
+
+However, one piece of feedback was that the summer design in the seasonal theme, especially the flowers and blooming elements, looked a little too colourful. I could understand this comment because the combination of bright colours and decorative flowers made that particular design feel busier than the other seasons.
+
+At the moment, I am not entirely sure what the best adjustment would be. I do not want to remove the seasonal identity completely, but I also do not want the design to become too visually crowded. I think it would be better to bring this feedback back to our next team meeting and discuss whether we should simplify the colours, reduce some of the decorative elements, or explore another way to represent summer.
+
+I also think getting feedback from friends and family is a useful starting point, but we should not treat it as the final decision. We still need to compare the feedback with our team's design goals and test the mock-ups in the actual game environment. Hopefully, after discussing the designs with the team next week, we can get more ideas about how to improve them.
+
+### Timeline Discussion
+
+We also briefly discussed the remaining timeline. Assuming that December 2 would be our final presentation date, we need to organize our work carefully because there is not a lot of time left. Sabine mentioned that the presentation date might be delayed, but for now, I think it is safer to continue planning around December 2 rather than assuming we will have additional time.
+
+Our current plan is:
+
+**Next week:**
+
+- Continue developing and refining the visual mock-ups.
+- Focus more on character design.
+- Review Alex's Unity implementation, especially the multiplayer showcase.
+- Review Hubert's controller prototype and improve the interface based on our discussions.
+- Discuss the mock-ups and decide which visual elements should be developed further.
+
+**The following week:**
+
+- Consider testing the visual presentation using a projector to see how the designs look on a larger screen.
+- Collect more overall feedback on the visual direction and gameplay presentation.
+- Review whether the different parts of the project work together as one consistent experience.
+
+I think this timeline will help us prioritize the most important tasks while leaving some time for testing and refinement before the final presentation.
+
+### Reflection
+
+Overall, I think this week was a productive step forward because we are starting to move from general visual research into more concrete mock-ups and design decisions.
+
+One thing I particularly learned from our discussion with Sabine was the importance of understanding our responsibilities and focusing on our priorities. During our last project presentation, some classmates suggested that the controller should be compatible with different types of phones, such as iPhones Dual, so that more people could participate without device limitations. Although I already knew that Jonathan would be handling the hardware and network infrastructure, I still struggled with whether we should investigate these suggestions ourselves or leave them to Jonathan to consider. I felt that since they were valid points raised during the presentation, we should at least think about how they might affect our project. However, after discussing this with the team and Sabine, I realized that considering feedback does not necessarily mean we need to take on every suggested task ourselves. We can acknowledge these suggestions and communicate them to Jonathan while keeping our own priorities focused on gameplay, visual design, and the overall user experience. 
+
+In a real working environment, different people are responsible for different parts of a product. We should be able to trust other people to handle their own responsibilities instead of trying to solve everything ourselves. Since Jonathan has already agreed to handle the technical infrastructure, it makes more sense for us to focus our limited time on the gameplay, visual presentation, and controller experience.
+
+I also think this is an important part of working with a client. We need to understand what the client expects from us and make sure that our work contributes to the overall project. It is not always necessary to explore every possible solution, especially when certain decisions have already been made or are outside our scope. Learning to identify our priorities and manage our time is something I can apply to future projects and professional work.
+
+For the visual design, I am glad that we have narrowed down the possible themes to ice cream and seasons. Having two directions makes it easier to focus our research and create more specific mock-ups. I also found that placing my designs directly onto Alex's Unity screenshots was much more useful than only creating separate visual references. It helped me understand how the designs would actually appear in the game and made me think more about readability, colour balance, and visual noise. Something that looks attractive on its own might not work as well when placed inside the actual environment. I think this is a valuable lesson because visual design needs to support the gameplay, not just look good as an individual asset.
+
+I also appreciated the feedback from my friends and family. Since our target audience could include people of different ages, getting opinions from people outside the team can help us understand whether the visual direction is clear and approachable. Even though I still need to think about how to improve the summer design, I think this feedback gives me a useful starting point for the next iteration.
+
+Overall, I feel that our progress is becoming more focused. We have moved from exploring many different possibilities to narrowing down two themes, creating mock-ups, and developing the actual gameplay and controller prototypes. I think the next stage will be important because we need to see how all these elements work together rather than treating them as separate tasks.
+
+### Next Steps
+
+For next week, our main focus will be reviewing and refining the mock-ups. Since we have already narrowed down the themes to ice cream and seasons, everyone will continue creating mock-ups based on their assigned visual direction. During our next meeting, we will compare the designs and discuss which visual elements we want to focus on.
+
+At the same time, the team will continue working on the prototypes and visual designs next week:
+
+- **Unity prototype:** Alex will continue testing and refining the existing gameplay features.
+- **Controller prototype:** Hubert will continue testing the existing phone-based controller features and making improvements based on any issues or feedback we identify.
+- **Visual mock-ups:** Bianca, Emma, and I will review the different mock-ups we have created, compare the visual directions, and narrow down our options. Our goal is to choose one theme and visual style to focus on for further development.
+
+For the following week, we may also consider testing the visual presentation using a projector to see how the designs look on a larger screen in the week after. This will help us understand whether the characters, paths, blocks, and other visual elements remain readable when displayed in an exhibition environment. We can also collect more overall feedback and make adjustments based on what we observe.
+
+We briefly discussed the remaining timeline as well. Assuming that December 2 would be our final presentation date, we need to organize our work carefully because there is not a lot of time left. Sabine mentioned that the presentation date might be delayed, but for now, I think it is safer to continue planning around December 2 rather than assuming we will have additional time.
+
+Overall, I think we are now at a stage where we need to turn our ideas into more concrete examples, test them, and refine them based on feedback. Rather than trying to make everything perfect immediately, I hope we can continue iterating and document our decisions so that the final presentation can clearly show what we have explored, what we have learned, and how the project has developed.
