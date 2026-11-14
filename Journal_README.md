@@ -1947,7 +1947,7 @@ Most importantly, I appreciated the support from my teammates. Their willingness
 
 Going into the next week, I am excited to explore the artistic direction and gameplay possibilities with the team. We now have a clearer focus, but there is still room for creativity and experimentation. I hope we can continue to support one another while finding a direction that is both interesting to play and realistic to develop.
 
-## JOURNAL-ENTRY-WK-8 MIDTERM PRESENTATIONS (5.11.2026 to 11.11.2026) 
+## JOURNAL-ENTRY-WK-8 MIDTERM PRESENTATIONS (29.10.2026 to 28.10.2026) 
 
 #### Presentation Preparation
 
