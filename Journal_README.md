@@ -1737,7 +1737,7 @@ For my part, I need to make sure the gameplay descriptions clearly communicate e
 
 Overall, I think our team is making good progress. Everyone is working on their assigned tasks, and we are now waiting for the client's feedback to help guide our direction and determine which areas we should focus on next.
 
-## JOURNAL-ENTRY-WK-7 MIDTERM WITH CLIENTS (29.10.2026 to 28.10.2026) 
+## JOURNAL-ENTRY-WK-7 MIDTERM WITH CLIENTS (29.10.2026 to 4.11.2026) 
 
 ### Presenting Our Progress
 
