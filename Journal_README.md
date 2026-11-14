@@ -1947,7 +1947,7 @@ Most importantly, I appreciated the support from my teammates. Their willingness
 
 Going into the next week, I am excited to explore the artistic direction and gameplay possibilities with the team. We now have a clearer focus, but there is still room for creativity and experimentation. I hope we can continue to support one another while finding a direction that is both interesting to play and realistic to develop.
 
-## JOURNAL-ENTRY-WK-8 MIDTERM PRESENTATIONS (29.10.2026 to 28.10.2026) 
+## JOURNAL-ENTRY-WK-8 MIDTERM PRESENTATIONS (5.11.2026 to 11.11.2026) 
 
 #### Presentation Preparation
 
@@ -2153,3 +2153,5 @@ For next week, our main goal is to review the progress of the Unity and controll
 - **Team discussion:** During our next meeting, we will review the prototype progress, share our research, and decide which visual direction we want to focus on.
 
 In the next few weeks, I also hope we can start testing the visual design together with the gameplay prototype. This will help us see whether the characters and interface are clear enough, whether the visual style fits the overall experience, and whether the game can be easily understood by someone who has never played it before. I am looking forward to seeing how the different parts of our work come together in the next stage.
+
+## JOURNAL-ENTRY-WK-9 OPEN SESSION AND TEAM MEETINGS (12.11.2026 to 18.11.2026) 
