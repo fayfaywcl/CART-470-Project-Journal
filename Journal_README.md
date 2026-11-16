@@ -2214,7 +2214,14 @@ After sharing our research and discussing everyone's ideas, we decided to focus 
 
 The first direction is the ice cream theme. 
 
-For the ice cream theme, I explored different ice cream flavours and visual references to see how they could be translated into the game's environment.  Each flavour could have its own colour palette and visual identity:
+For the ice cream theme, I explored different ice cream flavours and visual references to see how they could be translated into the game's environment.  
+<p align="left">
+      <img src="Media/Week9_Icecream_exploration (1).jpg" alt="Week9_Icecream_exploration (1).jpg" width="300" height="400">
+      <img src="Media/Week9_Icecream_exploration (2).jpg" alt="Week9_Icecream_exploration (2).jpg" width="300" height="500">
+      <img src="Media/Week9_Icecream_exploration (3).jpg" alt="Week9_Icecream_exploration (3).jpg" width="300" height="500">
+      <img src="Media/Week9_Icecream_exploration (4).jpg" alt="Week9_Icecream_exploration (4).jpg" width="300" height="400">
+     </p>
+Each flavour could have its own colour palette and visual identity:
 
 - **Blueberry:** A combination of blue and purple.
 - **Mint Chocolate:** Green, dark brown, and chocolate-inspired colours.
@@ -2238,8 +2245,8 @@ I also started thinking about how the platforms could be represented. Since our 
 I created a cone-shaped platform as one possible design. I also started working on a bowl-shaped version to provide another option. I thought having different shapes would help us compare how the environment could look and whether the platforms should be more directly related to the theme or remain simple and functional.
 
  <p align="left">
-      <img src="Media/Week9_ platform_design (2).png" alt="Week9_ platform_design (2).png" width="300" height="400">
-      <img src="Media/Week9_ platform_design (1).png" alt="Week9_ platform_design (1).png" width="300" height="400">
+      <img src="Media/Week9_ platformwithbackground(1).png" alt="Week9_ platformwithbackground(1).png" width="300" height="400">
+      <img src="Media/Week9_ platformwithbackground(3).png" alt="Week9_ platformwithbackground(3).png" width="300" height="400">
      </p>
 
 2. **Seasons Theme**
@@ -2263,7 +2270,7 @@ I considered the following possibilities:
 I also created a wooden base for the seasonal platforms. My idea was that the seasonal elements could be placed on top of the wooden base, so the different platforms would still share a consistent structure while having different seasonal appearances.
 
  <p align="left">
-      <img src="Media/Week9_ platform_design (3).png" alt="Week9_ platform_design (3).png" width="300" height="400">
+      <img src="Media/Week9_ platformwithbackground(2).png" alt="Week9_ platformwithbackground(2).png" width="300" height="400">
      </p>
 
 I think this could be an interesting direction because each season has its own recognizable visual identity. It also gives us a lot of opportunities to explore different environmental details, such as leaves, flowers, snow, and other natural elements.
@@ -2288,7 +2295,13 @@ Therefore, I went back and removed the background colours from some of the mock-
 
 I also started experimenting with the path designs. After looking at the Unity screenshots more closely, I realized that the paths should be represented using blocks, since this is how the gameplay mechanic currently works. Therefore, I created two different block designs for the paths.
 
-One version was more artistic and stylized, while the other was more straightforward and simple. I wanted to compare how much visual detail we could add without making the paths too distracting. Since players need to understand where they can walk and how the paths connect different areas, readability is particularly important.
+One version had a more artistic and stylized appearance, while the others followed a simpler and more straightforward design approach. I wanted to compare how much visual detail we could add without making the paths too distracting. Since players need to understand where they can walk and how the paths connect different areas, readability is particularly important.
+
+ <p align="left">
+      <img src="Media/Week9_ blockdesign (1).png" alt="Week9_ blockdesign (1).png" width="300" height="400">
+      <img src="Media/Week9_ blockdesign (2).png" alt="Week9_ blockdesign (2).png" width="300" height="400">
+      <img src="Media/Week9_ blockdesign (3).png" alt="Week9_ blockdesign (3).png" width="300" height="400">
+     </p>
 
 I also kept the island blocks visible in the mock-ups so that we could compare how the path design and island design would look together. I created different versions, including one screenshot with the path and another without it. This was useful because it allowed us to compare the overall appearance and see whether the additional path design made the environment feel too crowded.
 
@@ -2313,11 +2326,11 @@ I think this is one of the main reasons why creating mock-ups using the Unity sc
       <img src="Media/Week9_Gameplay_Season (3).png" alt="Week9_Gameplay_Season (3).png" width="300" height="400">
      </p>
 
-**Block showcase**
+**Block showcase:**
 
  <p align="left">
       <img src="Media/Week9_Gameplay_block (1).png" alt="Week9_Gameplay_block (1).png" width="300" height="400">
-      <img src="Media/Week9_Gameplay_block (2).pngg" alt="Week9_Gameplay_block (2).png" width="300" height="400">
+      <img src="Media/Week9_Gameplay_block (2).png" alt="Week9_Gameplay_block (2).png" width="300" height="400">
       <img src="Media/Week9_Gameplay_block (3).png" alt="Week9_Gameplay_block (3).png" width="300" height="400">
       <img src="Media/Week9_Gameplay_block (4).png" alt="Week9_Gameplay_block (4).png" width="300" height="400">
      </p>
