@@ -2283,6 +2283,13 @@ After narrowing down the themes, I started creating more concrete visual mock-up
 
 I thought this would be more useful than presenting the visual designs separately because we could see how they would actually look inside the game. I used Alex's screenshots as the base and placed my designs on top of them to test how the different colours, platforms, and environmental elements would appear in the existing layout.
 
+ <p align="left">
+      <img src="Media/Week9_ Unityprototype1.png" alt="Week9_ Unityprototype1.png" width="300" height="400">
+      <img src="Media/Week9_ Unityprototype2.png" alt="Week9_ Unityprototype2.png" width="300" height="400">
+     <img src="Media/Week9_ Unityprototype3.png" alt="Week9_ Unityprototype3.png" width="300" height="400">
+     <img src="Media/Week9_ Unityprototype4.png" alt="Week9_ Unityprototype4.png" width="300" height="400">
+     </p>
+
 One thing I noticed during this process was that some of the visual assets I initially created had their own backgrounds. This made it difficult to place them directly onto the Unity screenshots because the background of the design did not blend naturally with the game environment.
 
 Therefore, I went back and removed the background colours from some of the mock-up graphics so that I could place the elements more naturally on top of the screenshots. This made it easier to see how the actual designs would look in the game rather than having the mock-ups appear like separate images pasted onto the screen.
