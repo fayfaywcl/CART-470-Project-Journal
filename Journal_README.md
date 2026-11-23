@@ -2478,9 +2478,7 @@ The generated results would mainly be used as references for exploring the desig
 
 After our general team discussion, we also had a meeting with Sabine.
 
-During the meeting, Sabine tested the phone controller. However, she accidentally locked her phone screen, and after unlocking it, controller did not function as they originally did.
-
-We discussed whether we could provide a reminder or prompt when the phone screen gets locked, or possibly have an option to identify or test the type of phone being used. This could help us understand and address potential controller issues during the exhibition.
+During the meeting, Sabine tested the phone controller. However, she locked her phone screen, hence the controller did not function as they originally did. This testing also helped us identify a possible usability issue when the controller is used on a mobile phone. This showed us that we should consider what happens when users temporarily leave the controller or lock their phones during gameplay. Since visitors may use their phones in different ways during the exhibition, the controller should be able to handle these interruptions as smoothly as possible. Therefore. We discussed whether we could provide a reminder or prompt when the phone screen gets locked, or possibly have an option to identify or test the type of phone being used. This could help us understand and address potential controller issues during the exhibition.
 
 Sabine also updated us on the upcoming project dates:
 
@@ -2492,7 +2490,9 @@ Sabine also updated us on the upcoming project dates:
 
 We also discussed borrowing a projector on November 25 and asked Sabine whether one would be available for us to use for testing. If the projector we borrow does not work well with our setup, we could ask Bianca to bring her own projector the following week as an alternative.
 
-Having access to a projector earlier would give us more time to test the display setup, check how the game looks on a larger screen, and identify any potential issues before the showcase. It would also give us a backup option in case we encounter equipment problems closer to the exhibition.
+Having access to a projector earlier would give us more time to test how the game looks and performs on a larger screen, rather than relying only on our computer monitors during development. We want to check whether the map, characters, blocks, and other gameplay elements are clearly visible from a distance, especially when multiple players are interacting with the game at the same time. We should also check the screen proportions, projection alignment, and whether any adjustments, such as screen warping, are needed to fit the exhibition space.
+
+This testing would be particularly useful before our exhibition-mode presentation, as it would give us a better idea of how the game will appear in a real exhibition environment. If we identify any visual or technical issues, we will still have time to make adjustments before the final showcase. Having Bianca's projector as an alternative would also give us a backup plan in case the borrowed equipment does not work well with our setup.
 
 #### Work Distribution and Individual Tasks
 
