@@ -2409,3 +2409,177 @@ For the following week, we may also consider testing the visual presentation usi
 We briefly discussed the remaining timeline as well. Assuming that December 2 would be our final presentation date, we need to organize our work carefully because there is not a lot of time left. Sabine mentioned that the presentation date might be delayed, but for now, I think it is safer to continue planning around December 2 rather than assuming we will have additional time.
 
 Overall, I think we are now at a stage where we need to turn our ideas into more concrete examples, test them, and refine them based on feedback. Rather than trying to make everything perfect immediately, I hope we can continue iterating and document our decisions so that the final presentation can clearly show what we have explored, what we have learned, and how the project has developed.
+
+## JOURNAL-ENTRY-WK-10 OPEN SESSION AND TEAM MEETINGS (19.11.2026 to 25.11.2026) 
+
+### Team Meeting
+
+During our previous team meeting, we discussed the progress of the Unity prototype, phone controller, and our overall project priorities.
+
+**Unity Prototype and Gameplay Updates**
+
+Firstly,  Alex let us try the multiplayer version of the game, where two players could play together. It was helpful to experience how the game works with more than one player and test some of the newly implemented features.
+
+Some of the new features he tried included:
+
+1. **Bloom features**
+- There are now two types of blooms. The red bloom stays in a fixed position, while the purple bloom can be picked up and moved by players.
+- If a character or a block gets too close to a bloom, it will eliminate the character or block.
+- A respawn feature has also been implemented for characters.
+1. **Obstacle features**
+- There is now a room with a door.
+- Also, some of the other obstacles have been added to the map. Characters can open or close them to block other players, or open a passage so that the target block can move through.
+
+We also discussed another possible feature for the game: highlighting a player's avatar. For example, a player could press a button or their avatar icon on the phone controller, and their avatar would light up on the big screen. This would help players identify where their own character is, especially when there are multiple players on the map.
+
+**Controller Testing and Updates**
+
+For the controller, we scanned Hubert's QR code and were able to access the web-based controller successfully.
+
+The controller is now looking much more complete. The features we discussed during our previous meeting have been implemented properly, and the overall controller experience looks great.
+
+**Visual Design Discussion**
+
+Emma, Bianca, and I also shared the design work we had done during the week. We tried placing our drafts into Bianca's Photoshop mock-up to see how the different visual elements would work together.
+
+Through this process, we noticed that the platforms and background should be as flat and simple as possible, rather than having too much shine or detail. We tried using different tile patterns, but when there were too many patterns, the overall environment started to look messy. This made us realize that the platforms should remain visually simple so they do not distract players from the gameplay.
+
+Another point we discussed was the surrounding environment. We really liked the environment Bianca suggested, so we agreed that the whole map should have a themed surrounding area rather than having decorations only on individual platforms. This would help make the overall game environment feel more connected.
+
+### Narrowing Down the Overall Theme
+
+Then , we agreed to narrow the game's visual direction to one main nature-inspired seasonal theme.
+
+We thought this direction could work well because:
+
+- It allows us to create different visual variations while keeping the overall style consistent.
+- It requires fewer textures for simpler environmental elements.
+- It gives us more possibilities for the surrounding environment and the central mosaic. For example, the mosaic could become a tree or another nature-related environment.
+- It provides enough diversity without making the overall visual direction feel inconsistent.
+
+#### Character Design and Mock-up Planning
+
+We also discussed starting the character mock-ups this week, with the goal of narrowing down the character direction during our next meeting.
+
+We agreed to explore around 20 character ideas so that we would have enough variation to compare. Instead of only focusing on the appearance, we should also consider the reasons behind choosing each style or animal.
+
+Some points we discussed included:
+
+- Exploring different animal characters and sketching them to see whether they fit the game's visual direction.
+- Providing different options and considering the pros and cons of each design.
+- Exploring enough variation so that the characters can be visually distinguished from one another.
+- Considering whether each team member should explore different variations of one animal type, or whether we should explore different animal types altogether.
+
+We also discussed how we could approach the mock-ups. Since these are still early ideas, we agreed that we could use AI tools to help generate visual references. For example, we could provide different references and use them to generate character ideas in a consistent visual style.
+
+The generated results would mainly be used as references for exploring the designs. Once we have a clearer direction, Bianca could use these ideas to outline and refine the characters further.
+
+#### Meeting with Sabine and Project Updates
+
+After our general team discussion, we also had a meeting with Sabine.
+
+During the meeting, Sabine tested the phone controller. However, she accidentally locked her phone screen, and after unlocking it, controller did not function as they originally did.
+
+We discussed whether we could provide a reminder or prompt when the phone screen gets locked, or possibly have an option to identify or test the type of phone being used. This could help us understand and address potential controller issues during the exhibition.
+
+Sabine also updated us on the upcoming project dates:
+
+- December 2: Normal weekly meeting.
+- December 9: Presentation in exhibition mode.
+- December 16: Final documentation submission in report/PDF format, including screen warping and images.
+
+#### Projector Preparation
+
+We also discussed borrowing a projector on November 25 and asked Sabine whether one would be available for us to use for testing. If the projector we borrow does not work well with our setup, we could ask Bianca to bring her own projector the following week as an alternative.
+
+Having access to a projector earlier would give us more time to test the display setup, check how the game looks on a larger screen, and identify any potential issues before the showcase. It would also give us a backup option in case we encounter equipment problems closer to the exhibition.
+
+#### Work Distribution and Individual Tasks
+
+After discussing the updates, we distributed the work for the coming week.
+
+- **Bianca:** Continue developing the visual design based on the mock-ups and our discussions, including the platforms, textures, and surrounding environment.
+- **Alex:** Continue refining the Unity prototype. Since most of the gameplay features are already implemented, he will also look into the possibility of connecting the controller to the game if there is enough time. Alex mentioned that GitHub and WebSocket might provide a possible way to connect them.
+- **Hubert:** Refine the phone controller and work on character mock-ups.
+- **Emma:** Work on character mock-ups and explore different character ideas.
+- **My tasks:** Start gathering the existing project materials and work on the project documentation, while briefly exploring some character mock-up ideas if time allows.
+
+Since we are getting closer to the final weeks of the project, we thought it would be a good time to start preparing the documentation instead of leaving it until the end. As several team members are already working on the visual and character mock-ups, we have enough people covering that part of the project. Therefore, we agreed that I could start organizing the materials and putting together the documentation while the rest of the team continues developing the prototype and visual direction.
+
+For the documentation, I plan to go through our previous meeting notes, project records, and midterm presentation to gather the information we have already prepared. The bullet points from the midterm slides should be useful references for reviewing our progress and identifying the important decisions we made throughout the project. I also want to start collecting relevant screenshots, mock-ups, and other visual materials so that we have enough evidence to support the final report.
+
+#### Email to Jonathan to clarify final deliverable expectations
+
+After our general team meeting with Sabine, we also discussed what we would need to prepare and hand in during the final week.
+
+We asked Sabine about the expected final submission and deliverables. She mentioned that she would provide us with more information the following week. However, she also suggested that it would be a good idea to contact Jonathan directly to ask what he expects us to deliver at the end of the project. I agreed with this suggestion because, apart from the course requirements, we also want to make sure that our final deliverables meet the client's expectations.
+
+Based on this discussion, I started drafting an email to Jonathan to clarify two questions before the final showcase.
+
+The first question was about the camera zoom and focus features. We initially implemented these features to help us during prototype testing, so we were unsure whether they should remain in the final version or be removed. Since we had discussed this during the meeting, we thought it would be better to confirm Jonathan's preference rather than make the decision ourselves at the last minute.
+
+The second question was about the expected final deliverables. We wanted to clarify what he would like us to provide at the end of the project, in addition to the working prototype. For example, whether he would expect a final presentation or slide deck, a written project documentation in PDF format, the GitHub repository and source code, a folder containing project images and assets, or any other materials.
+
+I thought it was important to ask these questions early because we are now getting closer to the final showcase and documentation deadline. Knowing what Jonathan expects would help us decide what materials to prepare and how to distribute our remaining time. It would also help us avoid making unnecessary last-minute changes or delivering something different from what the client had in mind.
+
+After drafting the email, I asked Alex to double-check the technical question about the camera features before sending it. Once he reviewed it, I sent the email to Jonathan.
+
+At this point, we are waiting for his response so that we can take his feedback into consideration when preparing the final prototype and deliverables.
+
+### Character Mock-up Exploration
+
+I also tried creating some initial character mock-ups based on the nature-inspired theme we discussed. For this exploration, I looked at both animal characters and nature-related designs, such as trees, flowers, leaves, and other plants. I wanted to explore how different animals and natural elements could be turned into cute characters by adding simple eyes and mouths while keeping their original shapes recognizable.
+
+Since we are aiming for a pixel-art visual style, I tried to keep the designs simple, using basic shapes and a limited number of colours. I explored around 20 different character ideas, including different animals and nature-inspired variations, to give the team more options to compare.
+
+For the visual references, I mainly followed Bianca's nature-inspired theme and visual direction to make sure the character ideas could fit with the environment she was developing. Not every design may work for the final game, but the purpose of this exploration was to generate different possibilities and see which styles and characters could fit best. These mock-ups are only initial references that we can review and discuss during our next meeting. 
+
+### Starting the Project Documentation
+
+Besides working on the visual design and character mock-ups, I also started working on the project documentation, which is one of my main responsibilities for the remaining weeks of the project.
+
+Since our final documentation is due on December 16, we wanted to start organizing the content early rather than leave everything until the end. We discussed using our previous meeting notes and midterm presentation as references, especially the bullet points and information we had already prepared. This would help me revisit some of our earlier discussions, recover important project decisions, and organize the development process more clearly.
+
+For the documentation, I do not want it to be just a summary of what we did each week. Instead, I want to create a complete project report that explains how our game developed from the initial ideas to the final prototype. Since the report will be delivered to Jonathan, I think it is important to make it clear, professional, and useful for someone who wants to understand how the project developed and what our team accomplished.
+
+Some of the main areas I want to focus on include:
+
+- **Project background and objectives:** Explain the original project brief, the purpose of the installation, our target audience, and what we wanted players and spectators to experience.
+- **Project timeline and development progress:** Organize the important milestones from the beginning of the project to the final showcase. I want to show how the project evolved over time rather than simply listing weekly activities.
+- **Concept exploration and design decisions:** Document the different ideas and directions we considered, including alternatives that we explored but did not select. More importantly, explain why we made certain decisions and how they helped us move towards the current game concept.
+- **Gameplay design and features:** Explain the main gameplay mechanics, player interactions, map structure, obstacles, blocks, and multiplayer features. I also want to include screenshots or diagrams where necessary so that the gameplay is easier to understand without having to play the prototype.
+- **Visual design and art direction:** Include the visual references, mock-ups, colour palettes, environmental design, platform styles, and character exploration. I want to show how our visual direction changed and how we eventually narrowed it down to the nature-inspired seasonal theme.
+- **Controller design and interaction:** Document how players access and use the phone controller, the QR code connection, its main features, and the improvements we made based on testing and feedback.
+- **Technical development and implementation:** Explain the main technical work behind the prototype, including the development of the game in Unity, multiplayer functionality, and the controller connection work where applicable.
+- **Testing, feedback, and iterations:** Include what we tested, the feedback we received, the issues we identified, and how we responded to them. This could include both gameplay testing and controller testing.
+- **Final prototype and deliverables:** Present the final outcome, explain the features that were completed, and organize the materials that need to be handed over to the client.
+
+I also want to make sure that the report is supported by visual evidence instead of relying entirely on written explanations. For example, I plan to collect early concept sketches, visual mock-ups, screenshots of the Unity prototype, controller screenshots, gameplay images, and photographs from the final showcase. If there are important changes between different versions, I would like to include comparisons to show how the design and implementation evolved over time.
+
+Another important point is to distinguish between what we actually implemented, what we only explored as an idea, and what we decided not to include. I think this will make the report more accurate and help Jonathan understand both the final result and the decisions behind it.
+
+To get started, I created a shared Google Doc for the project documentation so that everyone on the team can access it, review the content, leave comments, and make edits. At this stage, I have mainly established the proposed report structure and drafted the initial sections using the information currently available. The document is still a working draft, so many sections will need to be refined, expanded, or updated as the project progresses and we confirm the final results. I have also used comments to highlight areas where additional information, confirmation, or input from other team members is still needed. This should make it easier for everyone to see what is missing and contribute to the relevant sections.
+
+Since the final documentation is due on December 16, I wanted to establish the structure early so that we have enough time to gather materials, review the content together, and make improvements instead of trying to complete everything at the last minute. We will also need to update the report based on the final prototype and Jonathan's feedback to ensure that it accurately reflects what we have accomplished.
+
+Overall, my goal is to gradually develop the current draft into a complete project report that tells the story of our project from beginning to end, documents the team's work and design decisions, and provides Jonathan with a useful record for the next group of students.
+
+### Reflection
+
+This week, I found it helpful to see how the different parts of the project are starting to come together. Being able to try the multiplayer version gave us a better understanding of how the new gameplay features work when two players interact with the same environment. It also helped us think about additional ideas, such as highlighting a player's avatar, which could make the experience easier to follow on the big screen.
+
+For the visual design, I think narrowing down the theme was an important step. Previously, we were exploring different visual ideas, but now we have a clearer direction to work towards. I also realized that having more details does not necessarily make the environment better. When we tested different tile patterns in the mock-up, too many details made the platforms look messy. Keeping the environment simple and consistent may make the gameplay easier to understand.
+
+I also think it was useful to discuss the character mock-up process before everyone started working on it. Having around 20 options and considering the reasons, variations, and pros and cons of each design will give us more material to compare during the next meeting.
+
+For my own work, I am glad that I started preparing the documentation and contacted Jonathan about the final expectations. I think it is important to clarify what the client wants before the final showcase, especially when it comes to features that we are still unsure about and the materials we need to deliver. This gives us a better idea of how to organize our remaining time.
+
+### Next Steps
+
+For the coming week, we will focus on developing and reviewing the character mock-ups, refining the visual direction, and continuing to improve the Unity prototype and phone controller.
+
+During our next team meeting, we will review each other's work and compare the different character designs and visual options. Our goal is to narrow down the character direction and make further decisions about the overall environment.
+
+We will also start focusing on that projector presentation, for example to try to test the game on a larger screen. This will help us evaluate how the visuals work in an exhibition setting and identify anything that needs to be adjusted before the final showcase.
+
+At the same time, we will begin organizing our project documentation using our previous notes and midterm presentation as references. Since the deadlines are approaching, I think it is important that we continue making progress on both the prototype and the documentation instead of leaving everything until the end.
