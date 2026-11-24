@@ -2413,12 +2413,11 @@ Overall, I think we are now at a stage where we need to turn our ideas into more
 ## JOURNAL-ENTRY-WK-10 OPEN SESSION AND TEAM MEETINGS (19.11.2026 to 25.11.2026) 
 
 ### Team Meeting
-
-During our previous team meeting, we discussed the progress of the Unity prototype, phone controller, and our overall project priorities.
+During our previous team meeting, we discussed the progress of the Unity prototype, phone controller, and our overall project priorities. At this stage, we are starting to move beyond the initial concept exploration and focus more on refining the actual gameplay experience and visual direction.
 
 **Unity Prototype and Gameplay Updates**
 
-Firstly,  Alex let us try the multiplayer version of the game, where two players could play together. It was helpful to experience how the game works with more than one player and test some of the newly implemented features.
+Firstly, Alex let us try the multiplayer version of the game, where two players could play together. It was helpful to experience how the game works with more than one player instead of only looking at the prototype from a single-player perspective. We could get a better sense of how players interact with the environment, how different gameplay elements affect one another, and whether the current mechanics are understandable during gameplay.
 
 Some of the new features he tried included:
 
@@ -2426,17 +2425,28 @@ Some of the new features he tried included:
 - There are now two types of blooms. The red bloom stays in a fixed position, while the purple bloom can be picked up and moved by players.
 - If a character or a block gets too close to a bloom, it will eliminate the character or block.
 - A respawn feature has also been implemented for characters.
-1. **Obstacle features**
+
+I think these additions make the environment more interactive because the blooms are no longer just decorative elements. They can affect how players move around the map and how they approach different situations. In particular, having one static bloom and another movable bloom creates different types of interactions. Players may need to pay attention to their surroundings and think about where they move or place certain blocks.
+
+The respawn feature is also important because players may be eliminated while interacting with these hazards. Instead of having a player permanently removed from the game, they can return and continue participating. This is worth considering for our exhibition setup, where visitors may join at different times and we want to keep the experience accessible. However, we will still need to observe how these features work when more players are involved and whether the elimination and respawn process is clear enough for everyone.
+
+2. **Obstacle features**
 - There is now a room with a door.
 - Also, some of the other obstacles have been added to the map. Characters can open or close them to block other players, or open a passage so that the target block can move through.
 
+These obstacles add another layer of interaction to the game. Players are not only moving around the map but can also change parts of the environment to affect the movement of other players or help move the target block. This could create more interesting situations because players may need to decide whether to open a passage, close a door, or use an obstacle to influence what happens around them.
+
+I also think this is an important part of making the game feel more like a shared multiplayer experience. Players' actions can affect the environment and potentially influence what other players are able to do. At the same time, we should be careful not to make the mechanics too complicated. Since visitors may only spend a short amount of time trying the game, the purpose of each obstacle should be easy to understand through its appearance or interaction.
+
 We also discussed another possible feature for the game: highlighting a player's avatar. For example, a player could press a button or their avatar icon on the phone controller, and their avatar would light up on the big screen. This would help players identify where their own character is, especially when there are multiple players on the map.
+
+I think this could be a useful addition because identifying individual characters may become difficult as the number of players increases. Since the game will be displayed on a large shared screen, players need to quickly recognize which character they are controlling. This feature could improve the connection between the phone controller and the projected game. It may also reduce confusion when several characters are moving around at the same time. Although this is still a proposed idea, it is something worth exploring as we continue improving the multiplayer experience.
 
 **Controller Testing and Updates**
 
 For the controller, we scanned Hubert's QR code and were able to access the web-based controller successfully.
 
-The controller is now looking much more complete. The features we discussed during our previous meeting have been implemented properly, and the overall controller experience looks great.
+The controller is now looking much more complete. The features we discussed during our previous meeting have been implemented properly, and the overall controller experience looks great. It was also helpful to access it through the QR code because this is how exhibition visitors are expected to connect to the game. Testing the process ourselves allowed us to experience the controller from a visitor's perspective, rather than only reviewing its design on a computer.
 
 **Visual Design Discussion**
 
@@ -2444,11 +2454,19 @@ Emma, Bianca, and I also shared the design work we had done during the week. We 
 
 Through this process, we noticed that the platforms and background should be as flat and simple as possible, rather than having too much shine or detail. We tried using different tile patterns, but when there were too many patterns, the overall environment started to look messy. This made us realize that the platforms should remain visually simple so they do not distract players from the gameplay.
 
+This was an important observation because a design might look interesting when viewed on its own, but it may not work as well when placed inside the actual game environment. We need to consider how the visual elements look together, especially when the map contains characters, blocks, obstacles, and other interactive objects. If every element has too many details or patterns, it may become difficult for players to distinguish between them.
+
+I think this also highlights the difference between designing individual assets and designing the overall game environment. Instead of focusing only on making each object visually attractive, we should consider whether the visual style supports the gameplay and helps players understand what they are seeing. For our project, readability is particularly important because the game will be displayed on a large screen and viewed by people standing at different distances.
+
 Another point we discussed was the surrounding environment. We really liked the environment Bianca suggested, so we agreed that the whole map should have a themed surrounding area rather than having decorations only on individual platforms. This would help make the overall game environment feel more connected.
+
+Having a surrounding environment could also make the map feel more complete and give the game a stronger visual identity. Rather than having separate platforms floating in an otherwise empty space, the environment could provide a setting that connects the different elements together. However, we still need to make sure that the decorations do not compete with the playable area or make the important gameplay elements harder to see.
 
 ### Narrowing Down the Overall Theme
 
-Then , we agreed to narrow the game's visual direction to one main nature-inspired seasonal theme.
+Then, we agreed to narrow the game's visual direction to one main nature-inspired seasonal theme.
+
+Previously, we had been exploring different visual ideas, but we realized that having a more defined theme would help us make decisions more consistently. Rather than creating individual assets without a clear direction, we can now use the theme as a reference when designing the characters, platforms, surrounding environment, and central mosaic.
 
 We thought this direction could work well because:
 
@@ -2456,6 +2474,10 @@ We thought this direction could work well because:
 - It requires fewer textures for simpler environmental elements.
 - It gives us more possibilities for the surrounding environment and the central mosaic. For example, the mosaic could become a tree or another nature-related environment.
 - It provides enough diversity without making the overall visual direction feel inconsistent.
+
+I think choosing a nature-inspired theme gives us a good balance between creativity and consistency. There are many different elements we can explore, such as animals, plants, flowers, leaves, and seasonal decorations. This gives us enough options to create interesting characters and environments without making everything look unrelated.
+
+It also gives the team a clearer direction when working individually. Since several members are contributing to the visual design, having a shared theme can help ensure that everyone's work fits into the same world. This should make it easier to combine our designs later and reduce the amount of visual adjustment needed.
 
 #### Character Design and Mock-up Planning
 
@@ -2470,9 +2492,17 @@ Some points we discussed included:
 - Exploring enough variation so that the characters can be visually distinguished from one another.
 - Considering whether each team member should explore different variations of one animal type, or whether we should explore different animal types altogether.
 
-We also discussed how we could approach the mock-ups. Since these are still early ideas, we agreed that we could use AI tools to help generate visual references. For example, we could provide different references and use them to generate character ideas in a consistent visual style.
+Another important consideration is how recognizable the characters will be during gameplay. Since the game may have multiple players on the same map, the characters should have distinct silhouettes, colours, and visual features. Players should be able to identify their own characters and distinguish them from others without having to look too closely. This also connects to our earlier discussion about potentially highlighting a player's avatar through the controller.
+
+We also need to think about the level of detail in the character designs. Since the game uses a simple visual style, overly detailed characters may not fit well with the platforms and environment. The designs should be expressive enough to give each character its own identity while remaining simple and readable on the projected screen.
+
+After that, we discussed how we could approach the mock-ups. Since these are still early ideas, we agreed that we could use AI tools to help generate visual references. For example, we could provide different references and use them to generate character ideas in a consistent visual style.
 
 The generated results would mainly be used as references for exploring the designs. Once we have a clearer direction, Bianca could use these ideas to outline and refine the characters further.
+
+I think using AI-generated references could help us explore more possibilities within a shorter amount of time. It would allow us to compare different animals, shapes, colours, and styles without needing to manually draw every possible variation from the beginning. However, the generated images should not be treated as finished assets. We still need to review the results and decide which elements are suitable for our game. Some designs may look appealing individually but may not fit the overall art direction or be simple enough to reproduce consistently.
+
+Overall, this meeting helped us make progress in both the gameplay and visual direction. I found it useful to see how the different parts of the project are starting to connect. The Unity prototype is becoming more interactive, the controller is becoming more complete, and the visual direction is becoming more focused. I think our next challenge will be making sure these elements work together as one coherent experience, particularly when considering the needs of visitors who may only have a short time to understand and play the game.
 
 #### Meeting with Sabine and Project Updates
 
@@ -2533,6 +2563,18 @@ I also tried creating some initial character mock-ups based on the nature-inspir
 Since we are aiming for a pixel-art visual style, I tried to keep the designs simple, using basic shapes and a limited number of colours. I explored around 20 different character ideas, including different animals and nature-inspired variations, to give the team more options to compare.
 
 For the visual references, I mainly followed Bianca's nature-inspired theme and visual direction to make sure the character ideas could fit with the environment she was developing. Not every design may work for the final game, but the purpose of this exploration was to generate different possibilities and see which styles and characters could fit best. These mock-ups are only initial references that we can review and discuss during our next meeting. 
+
+**Bianca's nature-inspired theme and visual direction: **
+ <p align="left">
+  <img src="Media/Week10_ Binaca template (1).png" alt="Week10_ Binaca template (1).png" width="300" height="300">
+  <img src="Media/Week10_ Binaca template (2).png" alt="Week10_ Binaca template (2).png" width="300" height="300">
+ </p>
+**Character Mock-up Exploration: **
+ <p align="left">
+  <img src="Media/Week10_ Character mock up  (1).jpg" alt="Week10_ Character mock up  (1).jpg" width="300" height="300">
+  <img src="Media/Week10_ Character mock up  (2).jpg" alt="Week10_ Character mock up  (2).jpg" width="300" height="300">
+  <img src="Media/Week10_ Character mock up  (1).png" alt="Week10_ Character mock up  (1).png" width="300" height="300">
+ </p>
 
 ### Starting the Project Documentation
 
