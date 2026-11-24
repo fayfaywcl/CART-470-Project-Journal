@@ -2564,12 +2564,12 @@ Since we are aiming for a pixel-art visual style, I tried to keep the designs si
 
 For the visual references, I mainly followed Bianca's nature-inspired theme and visual direction to make sure the character ideas could fit with the environment she was developing. Not every design may work for the final game, but the purpose of this exploration was to generate different possibilities and see which styles and characters could fit best. These mock-ups are only initial references that we can review and discuss during our next meeting. 
 
-**Bianca's nature-inspired theme and visual direction: **
+**Bianca's nature-inspired theme and visual direction:**
  <p align="left">
   <img src="Media/Week10_ Binaca template (1).png" alt="Week10_ Binaca template (1).png" width="300" height="300">
   <img src="Media/Week10_ Binaca template (2).png" alt="Week10_ Binaca template (2).png" width="300" height="300">
  </p>
-**Character Mock-up Exploration: **
+**Character Mock-up Exploration:**
  <p align="left">
   <img src="Media/Week10_ Character mock up  (1).jpg" alt="Week10_ Character mock up  (1).jpg" width="300" height="300">
   <img src="Media/Week10_ Character mock up  (2).jpg" alt="Week10_ Character mock up  (2).jpg" width="300" height="300">
