@@ -2569,6 +2569,7 @@ For the visual references, I mainly followed Bianca's nature-inspired theme and 
   <img src="Media/Week10_ Binaca template (1).png" alt="Week10_ Binaca template (1).png" width="300" height="300">
   <img src="Media/Week10_ Binaca template (2).png" alt="Week10_ Binaca template (2).png" width="300" height="300">
  </p>
+ 
 **Character Mock-up Exploration:**
  <p align="left">
   <img src="Media/Week10_ Character mock up  (1).jpg" alt="Week10_ Character mock up  (1).jpg" width="300" height="300">
